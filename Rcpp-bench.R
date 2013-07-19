@@ -2,7 +2,10 @@
 # Website : http://blog.revolutionanalytics.com/2013/07/deepen-your-r-experience-with-rcpp.html
 
 # Script to compare C++ and R
-library(Rcpp)
+doInstall <- TRUE # Change to FALSE if you don't want packages installed.
+toInstall <- c("Rcpp")
+if(doInstall){install.packages(toInstall, repos = "http://cran.r-project.org")}
+lapply(toInstall, library, character.only = TRUE
 
 # C++ Function in Rcpp wrapper
 cppFunction('
@@ -40,7 +43,7 @@ system.time(wmeanR(x,w))
 system.time(weighted.mean(x,w))
 
 ## Benchmark Stats
-## Run on Asus EEEpc
+## Run on Asus EEEcp
 # > system.time(wmean(x,w))
 # user  system elapsed 
 # 0.076   0.000   0.077 
