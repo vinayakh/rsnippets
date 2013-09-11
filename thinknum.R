@@ -2,13 +2,13 @@
 # Website : http://www.econometricsbysimulation.com/2013/09/thinknum-new-interactive-public.html
 
 doInstall <- TRUE # Change to FALSE if you don't want packages installed.
-toInstall <- c("Thinknum")
+toInstall <- c("Thinknum","ggplot2")
 if(doInstall){install.packages(toInstall, repos = "http://cran.r-project.org")}
 lapply(toInstall, library, character.only = TRUE)
 
 library("Thinknum")
-akam <- Thinknum("akam")
-plot(akam, type="l")
+goog <- Thinknum("goog")
+plot(goog, type="l")
 
 
 
@@ -65,3 +65,16 @@ lines(test$date_time, test[,2], type="l")
 lines(test$date_time, test[,3], type="l", col="red")
 lines(test$date_time, test[,4], type="l", col="blue")
 lines(test$date_time, test[,5], type="l", col="darkgreen")
+
+# Let's do the same but now let's use ggplot2
+
+# In order to do this let's use the tall option for mThinknum
+test2 <- mThinknum("^spx;sma(^spx,180);sma(goog*2,180);(goog*2)", tall=T)
+
+# I have extended the running average to be 180 days rather than 30 because the scale is so large.
+head(test2)
+library("ggplot2")
+
+ggplot(data=test2[test2$date_time>as.Date("2004-01-01"),],
+       aes(x=date_time, y=value, group=call)) +
+  geom_line(aes(colour = call))
