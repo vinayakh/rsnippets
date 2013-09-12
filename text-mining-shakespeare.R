@@ -2,7 +2,7 @@
 # Website : http://www.exegetic.biz/blog/2013/09/text-mining-the-complete-works-of-william-shakespeare/
 
 doInstall <- TRUE # Change to FALSE if you don't want packages installed.
-toInstall <- c("tm","SnowballC", "reshape","wordcloud", "RColorBrewer")
+toInstall <- c("tm","SnowballC", "reshape","slam","wordcloud", "RColorBrewer")
 if(doInstall){install.packages(toInstall, repos = "http://cran.r-project.org")}
 lapply(toInstall, library, character.only = TRUE)
 
