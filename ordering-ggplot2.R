@@ -2,7 +2,7 @@
 # Website : http://trinkerrstuff.wordpress.com/2013/08/14/how-do-i-re-arrange-ordering-a-plot-revisited/
 
 doInstall <- TRUE # Change to FALSE if you don't want packages installed.
-toInstall <- c("ggplo2","gridExtra","devtools","plotflow")
+toInstall <- c("ggplot2","gridExtra","devtools","plotflow")
 if(doInstall){install.packages(toInstall, repos = "http://cran.r-project.org")}
                lapply(toInstall, library, character.only = TRUE)
 
