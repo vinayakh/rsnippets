@@ -1,6 +1,11 @@
 # Description : Wordcount comparison using tm package
 # website : http://thebiobucket.blogspot.in/2013/08/text-mining-with-r-comparing-word.html
 
+doInstall <- TRUE # Change to FALSE if you don't want packages installed.
+toInstall <- c("tm")
+if(doInstall){install.packages(toInstall, repos = "http://cran.r-project.org")}
+lapply(toInstall, library, character.only = TRUE)
+
 ## a function that compares word counts in two texts
 wordcount <- function(x, y, stem = F, minlen = 1, marg = F) {
   
