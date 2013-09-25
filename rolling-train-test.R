@@ -1,6 +1,12 @@
 # Description : Building models over rolling time periods
 # Website : http://petewerner.blogspot.in/2013/09/building-models-over-rolling-time.html
 
+doInstall <- TRUE # Change to FALSE if you don't want packages installed.
+toInstall <- c("quantmod","kernlab")
+if(doInstall){install.packages(toInstall, repos = "http://cran.r-project.org")}
+lapply(toInstall, library, character.only = TRUE)
+
+
 library(quantmod)
 library(kernlab)
 
