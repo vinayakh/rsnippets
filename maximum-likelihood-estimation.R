@@ -1,4 +1,5 @@
 # Description : Maximum likelihood Estimation (MLE) is a powerful tool in econometrics which allows for the consistent and asymptotically efficient estimation of parameters given a correct identification (in terms of distribution) of the random variable.
+
 # Website : http://www.econometricsbysimulation.com/2013/09/maximum-likelihood-estimation-and.html
 
 # It is also a proceedure which seems superficially quite complex and intractible, but in reality is very intuitive and easy to use.
