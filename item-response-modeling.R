@@ -1,8 +1,8 @@
-# Description : Item response modeling
+# Description : Item response heatmaps
 # Website : http://joelcadwell.blogspot.in/2013/08/the-brand-as-affordance-item-response.html
 
 doInstall <- TRUE # Change to FALSE if you don't want packages installed.
-toInstall <- c("ltm","psych")
+toInstall <- c("ltm","psych","gplots")
 if(doInstall){install.packages(toInstall, repos = "http://cran.r-project.org")}
 lapply(toInstall, library, character.only = TRUE)
 
@@ -37,3 +37,13 @@ descript(ToyData)
 fit<-rasch(ToyData)
 fit
 plot(fit)
+
+item<-apply(ToyData,2,mean)
+person<-apply(ToyData,1,sum)
+ToyDataOrd<-ToyData[order(person),order(item)]
+
+library(gplots)
+heatmap.2(ToyDataOrd, Rowv=FALSE, Colv=FALSE, 
+          dendrogram="none", col=redblue(16), 
+          key=T, keysize=1.5, density.info="none", 
+          trace="none", labRow=NA)
