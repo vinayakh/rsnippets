@@ -32,7 +32,6 @@ aggregatedIdeology$majorParty <- factor(aggregatedIdeology$majorParty,
 head(aggregatedIdeology) # All of our stats, calculated "by" our .variables
 
 # Neat, simple, clean plot of ideological distributions
-# Neat, simple, clean plot of ideological distributions
 zp1 <- ggplot(aggregatedIdeology,
               aes(x = cong, y = Median,
                   ymin = q05, ymax = q95,
