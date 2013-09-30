@@ -1,6 +1,11 @@
 # Description : GGtutorial: Day 3 - Introduction to Colors
 # Website : http://is-r.tumblr.com/post/34693674524/ggtutorial-day-3-introduction-to-colors
 
+doInstall <- TRUE # Change to FALSE if you don't want packages installed.
+toInstall <- c("ggplot2", "gridExtra")
+if(doInstall){install.packages(toInstall, repos = "http://cran.r-project.org")}
+lapply(toInstall, library, character.only = TRUE)
+
 X <- c(1)
 Y <- c(1)
 
