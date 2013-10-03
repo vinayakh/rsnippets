@@ -2,7 +2,7 @@
 # Website : http://statistical-research.com/the-uncertainty-of-predictions/
 
 doInstall <- TRUE # Change to FALSE if you don't want packages installed.
-toInstall <- c("LearnBayes", "ggplot2", "Hmisc", "reshape2")
+toInstall <- c("LearnBayes")
 if(doInstall){install.packages(toInstall, repos = "http://cran.r-project.org")}
 lapply(toInstall, library, character.only = TRUE)
 
