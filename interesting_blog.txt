@@ -1,0 +1,8 @@
+Classification with PLS
+http://imdevsoftware.wordpress.com/2013/09/29/classification-with-o-pls-da/
+
+Sentinment Analysis using R
+http://mkao006.blogspot.in/2013/10/first-day-of-state-of-food-insecurity.html
+
+What's the Most "Concave" State in the U.S.? Using R to Solve a Geography Puzzle
+http://news.rapgenius.com/Atodd-whats-the-most-concave-state-in-the-us-using-r-to-solve-a-geography-puzzle-lyrics
