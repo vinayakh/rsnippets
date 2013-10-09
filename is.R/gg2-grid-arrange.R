@@ -15,7 +15,7 @@ SE <- function(X) {
   (sd(X, na.rm=TRUE)/ sqrt(length(X)-1) )
 }
 
-ANES <- read.csv("http://www.oberlin.edu/faculty/cdesante/assets/downloads/ANES.csv")
+ANES <- read.csv("data/ANES.csv")
 head(ANES)
 ANES$caseid <- 1:dim(ANES)[1]
 
