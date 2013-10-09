@@ -8,7 +8,7 @@ lapply(toInstall, library, character.only = TRUE)
 
 #Day 1/10: using Reshape
 #Christopher DeSante, Ph.D.
-ANES <- read.csv("http://www.oberlin.edu/faculty/cdesante/assets/downloads/ANES.csv")
+ANES <- read.csv("data/ANES.csv")
 head(ANES)
 ANES$caseid <- 1:dim(ANES)[1]
 head(ANES)
