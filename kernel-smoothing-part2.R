@@ -1,6 +1,11 @@
 # Description : Kernel Smoothing part 2
 # Website : http://freakonometrics.hypotheses.org/9184
 
+doInstall <- TRUE # Change to FALSE if you don't want packages installed.
+toInstall <- c("splines")
+if(doInstall){install.packages(toInstall, repos = "http://cran.r-project.org")}
+lapply(toInstall, library, character.only = TRUE
+
 # Generate Random data
 set.seed(1)
 n=10
@@ -11,7 +16,6 @@ plot(db)
 
 
 attach(db)
-library(splines)
 B=bs(xr,knots=c(3),Boundary.knots=c(0,10),degre=1)
 reg=lm(yr~B)
 lines(xr[xr<=3],predict(reg)[xr<=3],col="red")
