@@ -1,0 +1,35 @@
+```{r results='asis'}
+# Description : Googlevis Map visualisation
+# Website : http://rpubs.com/RationShop/indians_americans
+
+pop_data <- read.csv("data/pop_indians.csv")
+head(pop_data)
+
+pop_data$Indian_American <- sprintf("%.1f", pop_data$Pop_IndAm * 1000/pop_data$Tot_Pop)
+pop_data$American_Indian <- sprintf("%.1f", pop_data$Pop_AmInd * 1000/pop_data$Tot_Pop)
+head(pop_data)
+
+# load libraries
+library(knitr)
+suppressPackageStartupMessages(library(googleVis))
+
+# plot american indians
+chart_1 <- gvisGeoChart(data = pop_data, locationvar = "State", colorvar = "American_Indian", 
+                        options = list(region = "US", displayMode = "regions", resolution = "provinces", 
+                                       colorAxis = "{minValue: 0, maxValue: 150, colors:['grey', 'black', 'green', 'blue', 'violet']}", 
+                                       width = 600, height = 400), chartid = "AmInd")
+
+plot(chart_1, "chart")
+
+# plot indian americans
+chart_2 <- gvisGeoChart(data = pop_data, locationvar = "State", colorvar = "Indian_American", 
+                        options = list(region = "US", displayMode = "regions", resolution = "provinces", 
+                                       colorAxis = "{minValue: 0, maxValue: 150, colors:['grey', 'black', 'green', 'blue', 'violet']}", 
+                                       width = 600, height = 400), chartid = "IndAm")
+
+plot(chart_2, "chart")
+
+chart_3 <- gvisTable(data = pop_data)
+
+print(chart_3, "chart")
+```
