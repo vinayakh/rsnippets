@@ -80,9 +80,3 @@ points(db)
 reg=lm(yr~B)
 lines(xr,P[,1],col="red")
 abline(v=c(0,2,5,10),lty=2)
-
-plot(data$no,data$mu,ylim=c(6,10))
-abline(v=12*(0:8)+.5,lty=2)
-reg=lm(mu~bs(no,knots=c(12*(1:7)+.5),Boundary.knots=c(0,97),
-             degre=1),data=db)
-lines(c(1:94,96),predict(reg),col="red")
