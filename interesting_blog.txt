@@ -9,3 +9,6 @@ http://news.rapgenius.com/Atodd-whats-the-most-concave-state-in-the-us-using-r-t
 
 Analysing bias in Election polls with R
 vis4.net/blog/posts/analyzing-bias-in-election-polls-with-r/
+
+UK House Prices vs. Household Incomes : UK housing bubble
+http://www.joesdatadiner.com/2013/10/uk-house-prices-vs-household-incomes.html
