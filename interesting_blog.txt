@@ -12,3 +12,6 @@ vis4.net/blog/posts/analyzing-bias-in-election-polls-with-r/
 
 UK House Prices vs. Household Incomes : UK housing bubble
 http://www.joesdatadiner.com/2013/10/uk-house-prices-vs-household-incomes.html
+
+Interactive 3D using Shinrgl
+http://trestletechnology.net/2013/10/interactive-3d-in-shiny-shinyrgl/
