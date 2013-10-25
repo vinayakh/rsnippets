@@ -1,4 +1,4 @@
-# Description : Economics Style Graphs
+# Description : Economics Style Graph
 # Website : http://is-r.tumblr.com/post/37631901708/economics-style-graphs-with-bezier-from-hmisc
 
 doInstall <- TRUE
