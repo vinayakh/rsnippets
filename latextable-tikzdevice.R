@@ -1,14 +1,17 @@
 # Description : Generating own Latex table using tikzDevice
 # Website : http://freakonometrics.hypotheses.org/9404
 
+doInstall <- TRUE
+toInstall <- c("xtable","tikzdevice")
+if(doInstall){install.packages(toInstall, repos = "http://cran.us.r-project.org")}
+lapply(toInstall, library, character.only = TRUE)
+
 u=seq(0,3.09,by=0.01)
 p=pnorm(u)
 m=matrix(p,ncol=10,byrow=TRUE)
 options(digits=4)
-library(xtable)
 newm=xtable(m,digits=4)
 print.xtable(newm, type="latex", file="nor1.tex")
-library("tikzDevice")
 options(tikzMetricPackages = c("\\usepackage[utf8]{inputenc}",
                                  "\\usepackage[T1]{fontenc}", "\\usetikzlibrary{calc}", "\\usepackage{amssymb}"))
   tikz("normal-dist.tex", width = 8, height = 4, 
