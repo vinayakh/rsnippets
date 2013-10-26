@@ -1,0 +1,928 @@
+LOC_ID,LOC_NAME,AUSPICE,STR_NO,STREET,UNIT,PCODE,ward,PHONE,bldg_type,bldgname,IGSPACE,TGSPACE,PGSPACE,KGSPACE,SGSPACE,TOTSPACE,SUBSIDY,GC_GEOID,EASTING,NORTHING,run_date
+1013,Lakeshore Community Child Care Centre,Non Profit Agency,99,SEVENTH ST,,M8V 3B5,6,(416) 394-7601,Public Elementary School,Seventh Street Public School,0,20,32,40,60,152,Y,1031242,620680.98,4828301.47,22OCT13
+1014,Alternative Primary School Parent Group,Non Profit Agency,1100,SPADINA RD,,M5N 2M6,16,(416) 322-5385,Public Elementary School,North Preparatory Public School,0,0,36,0,45,81,Y,870542,627257.62,4840152.46,22OCT13
+1015,Cardinal Leger Child Care Centre,Non Profit Agency,600,MORRISH RD,,M1C 4Y1,44,(416) 287-0578,Catholic Elementary School,Cardinal Leger Catholic School,0,10,16,20,35,81,Y,365821,646757.25,4850287.63,22OCT13
+1016,Richmond Adelaide Child Care Centre,Non Profit Agency,130,ADELAIDE ST W,MEZZANINE LEVEL,M5H 3P5,28,(416) 415-2453,Other,,10,15,36,0,0,61,Y,10222910,630325.27,4834011.8,22OCT13
+1021,Centennial College Progress Campus Child Care Centre,Non Profit Agency,941,PROGRESS AVE,,M1G 3T8,38,(416) 289-5000x2110,Community College/University,Centennial College Of Applied Arts & Technology,10,15,32,0,0,57,Y,13503978,642647.13,4849328.2,22OCT13
+1029,Air-O-Down Child Care Centre,Non Profit Agency,7,HAWKSDALE RD,,M3K 1W3,9,(416) 633-2014,Public High School,Downsview Secondary School,10,15,24,0,0,49,Y,525550,622431.2,4842830.1,22OCT13
+1031,Cedarbrae Day Nurseries (Greencrest),Commercial Agency,20,GREENCREST CIRCT,,M1G 1B8,43,(416) 431-2504,High Rise Apartment,Greencrest Property,0,0,16,12,18,46,Y,340155,643000.71,4846346.36,22OCT13
+1036,A B C  Day Nursery,Commercial Agency,145,MARLEE AVE,,M6B 3H3,15,(416) 789-5011,High Rise Apartment,,10,15,16,20,25,86,Y,67882,625599.09,4839873.5,22OCT13
+1037,Tiago Avenue Community Child Care,Non Profit Agency,145,TIAGO AVE,,M4B 2A6,31,(416) 285-5644,Public Elementary School,Victoria Park Public School,0,0,21,0,20,41,Y,3259557,637089.72,4841147.67,22OCT13
+1041,Ledbury Park Child Care Program,Non Profit Agency,95,FALKIRK ST,,M5M 4K1,16,(416) 782-2539,Public Elementary School,Ledbury Park Public School,0,0,24,20,45,89,Y,7110840,626652.5,4842575,22OCT13
+1044,Alderwood Action After School,Non Profit Agency,544,HORNER AVE,,M8W 2C2,6,(416) 259-7738,Public Elementary School,Sir Adam Beck School,0,0,60,0,90,150,Y,6735862,617164.21,4828426.9,22OCT13
+1045,Children's Village #1 Day Care Centre,Commercial Agency,1050,MARKHAM RD,,M1H 2Y7,38,(416) 438-3355,High Rise Apartment,,10,10,32,12,30,94,Y,6576197,642307.57,4848109.83,22OCT13
+1046,Ferncliff Daycare And After School Group,Non Profit Agency,128,FERN AVE,,M6R 1K3,14,(416) 588-1463,Public Elementary School,Ferncliff Public School,0,0,60,0,75,135,Y,8007871,625310.08,4833415.88,22OCT13
+1055,Balmy Beach Community Day Care,Non Profit Agency,14,PINE AVE,ROOM 107,M4E 1L6,32,(416) 698-5668,Public Elementary School,Balmy Beach Public School,0,0,24,30,45,99,Y,7667200,637843.29,4837134.99,22OCT13
+1059,Mimico Day Care Centre,Commercial Agency,46,MIMICO AVE,,M8V 1R1,6,(416) 255-4748,Commercial Building,Memorial Hall 1916-1918,0,14,24,0,0,38,N,7560936,621713.03,4829839.82,22OCT13
+1060,Braeburn Woods Day Care Centre,Non Profit Agency,15,TANDRIDGE CRES,,M9W 2N8,2,(416) 745-9472,Public Elementary School,Braeburn Junior School,0,10,16,16,30,72,Y,1035925,616862.07,4842467.5,22OCT13
+1065,Child's Nest Infant Day Care Centre,Non Profit Agency,121,COSBURN AVE,,M4J 2L1,29,(416) 421-6984,House,,10,20,0,0,15,45,Y,19804,633174.61,4838489.26,22OCT13
+1067,Martingrove Child Care Centre,Commercial Agency,256,JOHN GARLAND BLVD,131 & 132,M9V 1N8,1,(416) 742-1812,House,,0,15,24,10,15,64,Y,10144867,613460.04,4843101.04,22OCT13
+1070,Discovery Place Child Care Centre,Commercial Agency,22,TUXEDO CRT,,M1G 3S3,38,(416) 439-0521,Purpose Built,,10,20,48,20,45,143,Y,14258143,642448.09,4848798.35,22OCT13
+1072,Carefree Preschool,Commercial Agency,370,DIXON RD,,M9R 1T2,2,(416) 244-5529,High Rise Apartment,,10,15,72,0,30,127,Y,6125248,616336.98,4838889.57,22OCT13
+1079,Eastside Child Care Centre,Non Profit Agency,20,WALDOCK ST,,M1E 2E5,43,(416) 287-0007,Public Elementary School,Eastview Public School,0,0,36,20,0,56,Y,395203,645582.46,4846480.13,22OCT13
+1082,Macaulay Child Development - Regent Street,Non Profit Agency,48,REGENT ST,,M6N 3N9,12,(416) 653-8322,Purpose Built,,10,10,26,0,0,46,Y,71048,623303.23,4837365.28,22OCT13
+1083,Lori Gardens Centre For Early Learning,Commercial Agency,2405,FINCH AVE W,,M9M 2X2,7,(416) 743-1222,High Rise Apartment,,10,15,38,12,25,100,Y,10340955,617207.21,4844983.37,22OCT13
+1086,Network Preschool - Bethany,Non Profit Agency,123,COSBURN AVE,,M4J 2L1,29,(416) 421-6984,House,,0,0,32,0,0,32,Y,19805,633184.23,4838490.84,22OCT13
+1091,Eastside Club,Non Profit Agency,100,GALLOWAY RD,,M1E 1W7,43,(416) 281-0262x207,Community/Recreation Centre,,0,0,0,0,45,45,Y,336705,645425.17,4846295.12,22OCT13
+1093,Martin Luther Church Day Nursery,Non Profit Agency,5,SUPERIOR AVE,,M8V 2M1,6,(416) 259-2861,House,,0,10,16,0,0,26,Y,1035460,622022.37,4829996.34,22OCT13
+1094,Arbor Glen Community Child Care Centre,Non Profit Agency,55,FRESHMEADOW DR,,M2H 3H6,24,(416) 497-4040,Public Elementary School,Arbor Glen Public School,0,0,34,20,30,84,Y,3107754,632239.42,4851804.86,22OCT13
+1095,Frankland Day Care Centre,Non Profit Agency,816,LOGAN AVE,,M4K 3E1,30,(416) 463-1413,Public Elementary School,Frankland Community School,0,0,0,20,50,70,Y,7570431,632996.3,4837114.8,22OCT13
+1098,Early Adventures Nursery School & Child Care,Commercial Agency,200,MELROSE ST,,M8Y 1B7,6,(416) 251-5151,Public Elementary School,George R Gauld Public School,0,0,34,20,27,81,Y,1018182,621132.57,4830612.34,22OCT13
+1101,Beatty Buddies Day Care,Non Profit Agency,55,WOODINGTON AVE,,M4C 3J6,31,(416) 467-8687,Public Elementary School,Earl Beatty Public School,0,0,56,20,45,121,Y,6624483,635263.31,4838147,22OCT13
+1103,Selwyn Community Child Care Centre,Non Profit Agency,1,SELWYN AVE,,M4B 3J9,31,(416) 285-9730,Public Elementary School,Selwyn Public School,0,0,20,0,20,40,Y,3259532,636440.76,4840662.25,22OCT13
+1104,Mandi Day Care,Non Profit Agency,30,BARRHEAD CRES,,M9W 3Z7,2,(416) 749-8110,Public School (Closed),Mississauga Private School/ Rexdale (Closed),10,15,16,0,30,71,Y,986007,615454.17,4841474.64,22OCT13
+1107,Educare Kindergarten - Rathburn,Commercial Agency,18,FOUR SEASONS PL,,M9B 6E7,3,(416) 620-0072,Office Building,Four Seasons Place,0,10,24,0,30,64,Y,13972296,615902.69,4833438.68,22OCT13
+1111,Rolph Road Day Care Centre,Non Profit Agency,31,ROLPH RD,,M4G 3M5,26,(416) 421-3862,Public Elementary School,Rolph Road Public School,0,0,0,24,45,69,Y,3244674,631631.71,4839604.03,22OCT13
+1115,Trimbee Infant Resource Centre,Public (City Operated) Agency,30,DENARDA ST,,M6M 5C3,11,(416) 392-3705,High Rise Apartment,Trimbee Court,10,10,0,0,0,20,Y,57080,621479.84,4838240.4,22OCT13
+1116,Guildwood Child Care,Commercial Agency,3969,KINGSTON RD,,M1J 3H8,43,(416) 261-4476,High Rise Apartment,,10,20,24,8,15,77,Y,3484510,644634.52,4845617.21,22OCT13
+1123,Ernie Boccia Creative Child Day Care,Commercial Agency,1,NORTHWESTERN AVE,,M6M 2J7,12,(416) 653-6305,Other,Harold And Grace Baker Centre,10,20,16,0,0,46,Y,69387,623292.71,4839239.72,22OCT13
+1125,First Stage - Burnhamthorpe,Non Profit Agency,500,THE EAST MALL,,M9B 2C4,3,(416) 394-7534,Public High School,Burnhamthorpe Collegiate Institute,10,15,16,0,0,41,Y,6765660,615968.03,4833740.84,22OCT13
+1127,Fairbank Memorial Day Care Centre,Non Profit Agency,555,HARVIE AVE,,M6E 4M2,17,(416) 656-8675,Public Elementary School,Fairbank Memorial,0,0,16,0,30,46,Y,62504,624464.4,4838568.88,22OCT13
+1129,First Stage - West Humber,Non Profit Agency,1675,MARTIN GROVE RD,,M9V 3S3,1,(416) 394-7515,Public High School,West Humber Collegiate Institute,10,15,16,0,0,41,Y,10747541,613808.84,4842736.08,22OCT13
+1130,Red Apple Day Care (Overlea),Non Profit Agency,135,OVERLEA BLVD,,M3C 1B3,26,(416) 429-5437,Public High School,Marc Garneau Collegiate Institute,10,10,16,0,0,36,Y,10750672,634131.94,4840675.05,22OCT13
+1135,Fraser School Community Day Care,Non Profit Agency,79,MANNING AVE,,M6J 2K6,19,(416) 603-7372,Public Elementary School,Charles G. Fraser Public School,0,10,16,20,0,46,Y,837099,628257.21,4833843.75,22OCT13
+1137,Golf Road School Child Care Centre,Non Profit Agency,730,SCARBOROUGH GOLF CLUB RD,,M1G 1H7,38,(416) 289-1061,Public Elementary School,Golf Road Junior Public School,0,10,16,20,20,66,Y,383209,643507.91,4846945.87,22OCT13
+1138,McKee McKids Enrichment Centre,Non Profit Agency,35,CHURCH AVE,,M2N 6X6,23,(416) 222-1414,Public Elementary School,McKee Public School,0,0,48,0,60,108,Y,13973429,627863.16,4847788.56,22OCT13
+1140,Leaside Day Care Centre,Non Profit Agency,206,LAIRD DR,,M4G 3W4,26,(416) 487-5862,Other,,10,25,70,0,0,105,Y,27258,631772.24,4840863.07,22OCT13
+1141,Gold Circle Early Childhood Day Care Centre,Non Profit Agency,25,POYNTER DR,,M9R 1K8,4,(416) 241-2000,Public Elementary School,Westway Junior Public School,0,0,36,20,30,86,Y,1024346,616923.9,4838334.98,22OCT13
+1148,Park Lawn Preschool,Non Profit Agency,71,BALLACAINE DR,,M8Y 4B6,5,(416) 236-2974,Public Elementary School,Park Lawn Junior And Middle School,0,0,40,40,30,110,Y,985525,621265.43,4832511.15,22OCT13
+1150,George Harvey Child Care Centre,Non Profit Agency,1700,KEELE ST,,M6M 3W5,12,(416) 658-9244,Public High School,George Harvey Collegiate Institute,10,15,16,0,0,41,Y,8152704,623004.73,4837746.74,22OCT13
+1157,Children's Circle Of St. Barnabas,Non Profit Agency,361,DANFORTH AVE,,M4K 1P1,30,(416) 461-5151x225,Place of Worship,St. Barnabas Anglican Church,0,15,84,8,60,167,Y,14210230,632803.26,4837125.8,22OCT13
+1158,George Syme Day Care Centre,Non Profit Agency,69,PRITCHARD AVE,ATTN: DAY CARE,M6N 1T6,11,(416) 767-4439,Public Elementary School,George Syme Community School,0,0,0,20,0,20,Y,9523611,621630.91,4836022.35,22OCT13
+1160,Morningside Children's Centre,Commercial Agency,292,MORNINGSIDE AVE,,M1E 3E7,43,(416) 282-9956,House,,0,15,16,10,0,41,Y,7017610,645824.34,4847940.16,22OCT13
+1167,McNicoll Avenue Child Care Program,Non Profit Agency,155,MCNICOLL AVE,,M2H 2C1,24,(416) 499-9743,Public School (Closed),McNicoll Avenue Public School,10,15,24,0,0,49,Y,541973,632072.08,4850628.09,22OCT13
+1169,N.Y.A.D. Guildwood,Non Profit Agency,225,LIVINGSTON RD,,M1E 1L8,43,(416) 261-6540,Public Elementary School,Guildwood Junior Public School,0,0,16,20,30,66,Y,4166113,644905.93,4845549.64,22OCT13
+1170,Arpi Nursery School,Commercial Agency,39,CARL HALL RD,,M3K 2E2,9,(416) 781-1620,Industrial Building,,10,15,64,24,60,173,Y,30026125,622535.97,4844674.68,22OCT13
+1174,Bonaventure Child Care Centre,Non Profit Agency,295,DUFFERIN ST,,M6K 3G2,14,(416) 588-4318,High Rise Apartment,,10,25,32,0,0,67,Y,13501671,626837.81,4832873.63,22OCT13
+1180,Children's Primary,Non Profit Agency,177,BEVERLEY ST,,M5T 1Y7,20,(416) 977-1204,Place of Worship,Chinese Presbyterian Church,0,0,44,0,45,89,S,771736,629470.76,4834649.27,22OCT13
+1182,Happy Day Child Care Centre,Commercial Agency,676,JANE ST,,M6N 4A7,11,(416) 769-1289,Purpose Built,,0,0,36,0,20,56,Y,9446372,621498.83,4835930.89,22OCT13
+1184,Bond Child And Family Development,Non Profit Agency,51,BOND ST,,M5B 1X1,27,(416) 367-8349,Place of Worship,Metropolitan United Church,0,0,32,0,0,32,Y,20230958,630870.69,4834564.11,22OCT13
+1190,Humewood House Infant Centre,Non Profit Agency,40,HUMEWOOD DR,,M6C 2W4,21,(416) 651-5657,House,Humewood House,10,0,0,0,0,10,Y,63900,626738.28,4837775.25,22OCT13
+1192,N'Sheemaehn,Non Profit Agency,1255,MILITARY TRAIL,,M1C 1A3,44,(416) 287-7624,Purpose Built,University Of Toronto Scarborough Campus,10,10,34,0,0,54,Y,30010394,645774.98,4849438.97,22OCT13
+1193,Childspace 1,Non Profit Agency,50,WOODMOUNT AVE,,M4C 3X9,31,(416) 425-7763,Catholic Elementary School,St. Brigid's Catholic School,0,0,0,20,47,67,Y,886268,635637.3,4838258.03,22OCT13
+1194,Royal Day Care Centre,Commercial Agency,1737,WESTON RD,,M9N 1V5,11,(416) 249-9115,Purpose Built,,0,10,56,0,39,105,Y,76750,619995.69,4839231.85,22OCT13
+1196,Rosalie Hall Infant/Toddler Centre,Non Profit Agency,3020,LAWRENCE AVE E,,M1P 2T7,38,(416) 438-6880x252,Other,,20,20,8,0,0,48,Y,11485084,640987.1,4845995.79,22OCT13
+1200,Alpha Day Care,Non Profit Agency,20,BRANT ST,,M5V 2M1,20,(416) 504-3343,Public Elementary School,Alpha Alternative Primary School,0,0,10,0,10,20,Y,3948771,629171.39,4833549.32,22OCT13
+1201,Humewood Day Care Centre,Non Profit Agency,15,CHERRYWOOD AVE,,M6C 2X4,21,(416) 658-8886,Public Elementary School,Humewood Community School,0,0,32,60,24,116,Y,55237,626682.03,4838047.46,22OCT13
+1204,Rexdale Day Nursery,Non Profit Agency,925,ALBION RD,,M9V 1A6,1,(416) 743-5057,Public School (Closed),Thistletown Multi Service Centre,0,0,48,0,25,73,Y,10985943,615743.05,4843274.62,22OCT13
+1205,Sandbox Day Care Centre,Commercial Agency,15,ORTON PARK RD,,M1G 3G3,43,(416) 431-3327,High Rise Apartment,,0,10,38,12,28,88,Y,369553,644431.88,4847137.39,22OCT13
+1207,Humber Bay Child Care Centre,Non Profit Agency,50,CLOVERHILL RD,,M8Y 1T3,5,(416) 251-8240,Public Elementary School,Etienne Brule Junior Public School,0,15,24,20,55,114,Y,7940034,621815.14,4832289.16,22OCT13
+1211,Humber Child Development Centre,Non Profit Agency,205,HUMBER COLLEGE BLVD,,M9W 5L7,1,(416) 675-6622x4484,Community College/University,Humber College Of Applied Arts And Technology,6,20,52,0,0,78,Y,12387605,612190.55,4842513.6,22OCT13
+1213,Avenue Road Nursery School,Commercial Agency,1498,AVENUE RD,,M5N 2J1,16,(416) 783-2773,Place of Worship,St. Ansgar Church,0,30,64,0,0,94,Y,11395014,627589.46,4841999.48,22OCT13
+1216,Roseland Day Care Centre,Non Profit Agency,990,JANE ST,,M6N 4E2,11,(416) 763-0068,Public Elementary School,Roseland Public School,0,0,24,20,60,104,Y,9584890,620967.21,4837340.8,22OCT13
+1221,Romero Bears Child Care Centre,Non Profit Agency,99,HUMBER BLVD,,M6N 2H4,11,(416) 769-1174,Catholic High School,Archbishop Romero Catholic School,10,10,16,0,0,36,Y,2917611,622441.2,4837268.28,22OCT13
+1225,Humber College Day Care Centre,Non Profit Agency,205,HUMBER COLLEGE BLVD,,M9W 5L7,1,(416) 675-6622x4070,Community College/University,Humber College Of Applied Arts And Technology,10,20,24,0,0,54,Y,12387605,612190.55,4842513.6,22OCT13
+1229,Lescon Learners Child Care,Non Profit Agency,34,LESCON RD,,M2J 2G6,33,(416) 499-7325,Public Elementary School,Lescon Public School,0,10,24,10,20,64,Y,536699,632158.87,4848620.76,22OCT13
+1231,Childspace 2,Non Profit Agency,690,CARLAW AVE,,M4K 3K9,30,(416) 469-0560,Catholic Elementary School,Holy Name Catholic School,0,0,24,0,25,49,Y,780044,633209.65,4837142.39,22OCT13
+1232,Dawes Road Centre For Early Learning,Commercial Agency,391,DAWES RD,,M4B 2E6,31,(416) 755-8348,Other,,20,20,40,0,0,80,Y,10365077,637227.06,4839937.17,22OCT13
+1235,Silverstone Learning Centre,Commercial Agency,520,SILVERSTONE DR,,M9V 3L5,1,(416) 741-0414,Public Elementary School,Melody Village Public School,0,10,44,0,30,84,Y,10154322,613139.91,4843525.98,22OCT13
+1243,Centro Clinton Day Care - Site 2,Non Profit Agency,460,MANNING AVE,,M6G 2V7,19,(416) 537-5841,Public Elementary School,Clinton Public School,0,0,16,0,52,68,Y,837356,627869,4834849.25,22OCT13
+1245,Crescent Town Day Care Centre,Commercial Agency,2,THE MARKET PL,,M4C 5M1,31,(416) 691-3979,Community/Recreation Centre,,10,25,32,0,30,97,Y,10986318,637566.75,4839249,22OCT13
+1248,Brock Early Learning Centre,Non Profit Agency,93,MARGUERETTA ST,,M6H 3S4,18,(416) 535-3491,Public Elementary School,Brock Avenue Public School,0,15,32,20,30,97,Y,9780839,625960.53,4834302.36,22OCT13
+1250,Sunny Faces Day Care Centre - Rivercrest,Non Profit Agency,30,HAREFIELD DR,,M9W 4C9,2,(416) 744-0778,Public Elementary School,Rivercrest Public School,0,0,24,20,45,89,Y,1005812,615195.38,4842625.87,22OCT13
+1251,Jubilee Day Care Centre,Commercial Agency,55,EMMETT AVE,,M6M 2E4,11,(416) 248-1112,High Rise Apartment,,0,15,32,0,23,70,Y,7155198,620600.33,4838157.43,22OCT13
+1254,Baycrest Child Care Centre,Non Profit Agency,145,BAYCREST AVE,,M6A 1W4,15,(416) 784-1316,Public Elementary School,Baycrest Public School,0,20,48,20,30,118,Y,487550,625290.65,4842462.1,22OCT13
+1255,Campus Community Co-Op Day Care Centre,Non Profit Agency,370,HURON ST,,M5S 2G4,20,(416) 946-0875,Purpose Built,,10,15,26,0,0,51,Y,823546,628929.2,4835640.02,22OCT13
+1258,Carmelite Day Nursery,Non Profit Agency,108,HARRISON ST,,M6J 2A3,19,(416) 536-5313,Purpose Built,,16,15,92,0,42,165,Y,10864646,627242.89,4834121.55,22OCT13
+1261,Silverstone Montessori Day Care,Commercial Agency,350,SILVERSTONE DR,,M9V 3J4,1,(416) 741-9820,Public Elementary School,Clairville Public School,0,0,16,20,30,66,Y,10558804,612849.1,4844599.52,22OCT13
+1266,Network Child Care Services - Just Kids Child Care Centre,Non Profit Agency,1695,KEELE ST,,M6M 3W7,12,(416) 653-9944,Place of Worship,York Memorial Church,0,15,52,0,0,67,Y,8232461,623084.67,4837850.99,22OCT13
+1267,Plains Road Child Care,Non Profit Agency,520,PLAINS RD,,M4C 2Z1,31,(416) 421-2273,Catholic Elementary School,Canadian Martyrs Catholic School,10,20,32,0,15,77,Y,7794398,635415.39,4839503.64,22OCT13
+1271,J.R. Wilcox Day Care Centre,Non Profit Agency,231,AVA RD,,M6C 1X3,21,(416) 656-1781,Public Elementary School,J.R. Wilcox Community School,0,10,24,0,47,81,Y,51261,625996.93,4838957.98,22OCT13
+1272,Silverthorn Day Care,Non Profit Agency,2700,EGLINTON AVE W,,M6M 1V1,12,(416) 653-9702,Office Building,York Civic Centre,10,10,24,0,0,44,Y,8492134,622614,4838332.59,22OCT13
+1278,Sheppard Square Day Nursery,Commercial Agency,5600,SHEPPARD AVE E,,M1B 2L4,42,(416) 292-3607,High Rise Apartment,Apartment Building,10,15,72,0,30,127,Y,13399814,641874.59,4850393.69,22OCT13
+1280,Tiny Treasure Day Care Centre,Commercial Agency,627,BURNHAMTHORPE RD,,M9C 2Y9,3,(416) 622-6443,Place of Worship,Renforth Baptist Church,0,10,48,12,0,70,Y,7515102,615063.19,4833062.11,22OCT13
+1285,Kingsview Child Care,Commercial Agency,340,DIXON RD,,M9R 1T1,2,(416) 249-7601,High Rise Apartment,,20,15,68,0,24,127,Y,3587551,616523.09,4838859.76,22OCT13
+1287,Terry Tan Child Centre (Bloordale),Non Profit Agency,4258,BLOOR ST W,,M9C 1Z7,3,(416) 621-4822,Place of Worship,Bloordale United Church,0,10,44,0,15,69,Y,5524348,615431.06,4832064.94,22OCT13
+1288,A & A Child Care Centre,Non Profit Agency,3380,MIDLAND AVE,2ND FLOOR,M1V 5B5,41,(416) 298-4489,Other,,12,15,56,18,0,101,Y,2834434,637497.39,4851890,22OCT13
+1292,Kiddy Village Day Care Centre,Commercial Agency,19,GLEN AGAR DR,,M9B 5L5,3,(416) 621-9178,Public School (Closed),Kipling Grove Public School,0,15,68,0,22,105,Y,8087389,616774.02,4835146.63,22OCT13
+1294,Cottingham Child Care Centre,Non Profit Agency,85,BIRCH AVE,,M4V 1E3,22,(416) 966-5939,Public Elementary School,Cottingham Public School,0,0,10,0,20,30,Y,772190,629307.75,4837402.66,22OCT13
+1296,A & A Learning Centre School Age,Non Profit Agency,3030,MIDLAND AVE,UNIT 6 & 7,M1S 5C9,41,(416) 321-1570,Other,,0,0,0,0,60,60,Y,5070593,637818.72,4851244.07,22OCT13
+1297,West Hill Centre For Early Learning,Commercial Agency,4010,LAWRENCE AVE E,,M1E 2R4,43,(416) 283-4294,High Rise Apartment,,10,15,40,0,0,65,Y,354529,644959.49,4847317.77,22OCT13
+1298,B.F. Toronto Centre For Early Childhood Education,Commercial Agency,45,GOLFDOWN DR,,M9W 2H8,2,(416) 746-6542x200,Public Elementary School,The Elms Junior Middle School,0,10,32,20,30,92,Y,1003702,616611.56,4841818.49,22OCT13
+1301,Abacus Day Care,Commercial Agency,20,CHICHESTER PL,,M1T 1G6,40,(416) 497-1474,High Rise Apartment,,0,10,24,0,0,34,Y,319578,635041.84,4848286.2,22OCT13
+1305,A Child's Place Daycare Centre,Non Profit Agency,10,HOWARTH AVE,,M1R 1H4,37,(416) 755-6381,Place of Worship,St. Jude's Anglican Church,0,0,16,12,30,58,Y,345843,636400.78,4844025.69,22OCT13
+1306,Bayview Gardens Day Care Centre,Commercial Agency,3125,BAYVIEW AVE,,M2K 1G2,24,(416) 222-9405,Community/Recreation Centre,Greek Orthodox Community Centre,0,30,24,20,0,74,Y,4807575,629491.08,4848653.2,22OCT13
+1309,Tlc - Tender Loving Care (Cross St.),Commercial Agency,44,CROSS ST,,M9N 2B9,11,(416) 248-5401,House,,0,10,16,10,24,60,Y,56769,618755.46,4839940.54,22OCT13
+1324,Cedarbrae Infant Day Nursery,Commercial Agency,1375,MIDLAND AVE,,M1P 3B7,37,(416) 751-2358,High Rise Apartment,,30,25,16,0,0,71,Y,363461,639786.05,4845346.85,22OCT13
+1327,Catholic Settlement House Day Nursery,Non Profit Agency,131,MC CAUL ST,,M5T 1W3,20,(416) 977-0254,Place of Worship,Catholic Settlement House,0,10,24,0,15,49,Y,20064628,629711.27,4834545.31,22OCT13
+1328,Donald C. Macdonald Child Care Centre,Non Profit Agency,116,INDUSTRY ST,,M6M 4L8,12,(416) 769-2328,Other,York Business Opportunities Centre,20,25,16,0,0,61,Y,14072410,621452.42,4838713.29,22OCT13
+1335,Blaydon Community Day Care Centre,Non Profit Agency,25,BLAYDON AVE,,M3M 2C9,9,(416) 638-1461,Public Elementary School,Blaydon Public School,0,10,21,0,15,46,Y,490361,621889.72,4843371.42,22OCT13
+1336,Vaughan Road Infant & Toddler Centre,Non Profit Agency,529,VAUGHAN RD,,M6C 2R1,15,(416) 658-1874,Public High School,Vaughan Road Collegiate,10,15,24,0,0,49,Y,75474,625973.1,4838521.41,22OCT13
+1339,Cedarbrae Day Nurseries (Midland),Commercial Agency,1385,MIDLAND AVE,,M1P 3B8,37,(416) 751-0664,High Rise Apartment,,0,0,40,36,30,106,Y,363462,639765.58,4845418.53,22OCT13
+1340,Central Eglinton Childrens' Centre,Non Profit Agency,223,EGLINTON AVE E,,M4P 1L1,22,(416) 440-0383,Public Elementary School,Eglinton Public School,0,15,32,60,90,197,Y,800621,629632.33,4840467.18,22OCT13
+1347,Children Of Tomorrow - Pringdale Gardens,Non Profit Agency,1325,DANFORTH RD,,M1J 1G5,38,(416) 261-9893,Public Elementary School,Pringdale Gardens Public School,0,0,32,0,21,53,Y,2642243,641349.61,4844494.46,22OCT13
+1348,Brookhaven Child Care,Non Profit Agency,70,BROOKHAVEN DR,,M6M 4N8,12,(416) 249-6587,Public Elementary School,Brookhaven Public School,0,15,24,60,30,129,Y,493354,621195.81,4839709.11,22OCT13
+1350,Terry Tan Child Centre (Eatonville),Non Profit Agency,15,ROSSBURN DR,,M9C 2P7,3,(416) 621-9722,Public Elementary School,Eatonville Public School,0,10,52,30,30,122,Y,1028895,615573.21,4832477.18,22OCT13
+1351,Birchmount Place Centre For Early Learning,Commercial Agency,2360,BIRCHMOUNT RD,,M1T 2M4,40,(416) 291-0304,High Rise Apartment,,10,15,32,0,24,81,Y,308643,636815.53,4848946.65,22OCT13
+1353,Children's World,Commercial Agency,7,ELINOR AVE,,M1R 3H1,37,(416) 757-5935,Place of Worship,Wexford Presbyterian Church,0,0,24,10,24,58,Y,30023962,636825.3,4844711.84,22OCT13
+1356,Vincent Massey Day Care & Nursery School,Commercial Agency,68,DAISY AVE,,M8W 1S1,6,(416) 252-3304,Public School (Closed),Vincent Massey Public School,20,30,76,24,30,180,Y,9109582,618775.96,4828033.77,22OCT13
+1360,Immanuel Day Care Centre,Non Profit Agency,21,CHANNEL NINE CRT,,M1S 4B5,41,(416) 293-9361,Place of Worship,,0,15,80,11,0,106,Y,3633178,640275.53,4849129.5,22OCT13
+1361,Dandylion Childcare Centre,Non Profit Agency,53,DONLANDS AVE,,M4J 3N7,29,(416) 469-0091,Public Elementary School,Wilkinson Public School (Annex),0,0,32,0,60,92,Y,7807349,633989.27,4837679.5,22OCT13
+1367,Kiddies Lodge Day Care Centre,Commercial Agency,764,ELLESMERE RD,,M1P 2W4,40,(416) 298-6092,Place of Worship,Members In Christ Assemblies,0,0,16,20,25,61,Y,331433,637867.41,4846967.91,22OCT13
+1368,Kimbercroft Day Nursery 1,Commercial Agency,30,KIMBERCROFT CRT,,M1S 4K9,42,(416) 291-1880,High Rise Apartment,,10,30,24,0,0,64,Y,351505,641721.38,4849910.98,22OCT13
+1371,Knob Hill Day Nursery,Non Profit Agency,23,GAGE AVE,,M1J 1T3,38,(416) 439-9864,Place of Worship,Knob Hill United Church,0,15,32,10,0,57,Y,336519,640978.16,4845266.17,22OCT13
+1372,Central Neighbourhood House,Non Profit Agency,349,ONTARIO ST,,M5A 2V8,28,(416) 925-4363x110,Community/Recreation Centre,Central Neighbourhood House,10,20,16,0,0,46,Y,8566354,631505.92,4835239.21,22OCT13
+1373,Calico Saints Child Care Centre,Non Profit Agency,35,CALICO DR,,M3L 1V5,9,(416) 741-8499,Public Elementary School,Calico Public School,0,15,24,20,30,89,Y,495446,620488.57,4843629.13,22OCT13
+1374,Palisades Centre For Early Learning,Commercial Agency,15,SAN ROMANOWAY,,M3N 2Y9,8,(416) 663-4431,Community/Recreation Centre,Palisades Recreation Centre,20,15,48,24,30,137,Y,10071744,619446.73,4845965.03,22OCT13
+1379,Davisville Care Programme,Non Profit Agency,43,MILLWOOD RD,,M4S 1J6,22,(416) 489-2620,Public Elementary School,Davisville Public School,0,0,0,52,60,112,Y,5581078,629324.58,4839502.63,22OCT13
+1381,Centro Clinton Day Care - Site 1,Non Profit Agency,460,MANNING AVE,,M6G 2V7,19,(416) 537-5841,Public Elementary School,Clinton Public School,0,10,52,20,30,112,Y,837356,627869,4834849.25,22OCT13
+1383,Kimbercroft Day Nursery 2,Commercial Agency,39,KIMBERCROFT CRT,,M1S 5B5,42,(416) 321-1694,High Rise Apartment,,0,0,40,8,30,78,Y,351509,641677.47,4850046.41,22OCT13
+1391,Progress Childcare 1,Non Profit Agency,3,GLAMORGAN AVE,,M1P 4N9,40,(416) 291-3368,High Rise Apartment,,10,10,48,20,0,88,Y,2798984,638216.88,4847374.64,22OCT13
+1395,Tamarack Day Care Centre,Commercial Agency,3315,MIDLAND AVE,,M1V 4W7,41,(416) 293-3152,Purpose Built,Commercial Space,0,25,76,0,45,146,Y,4304193,637654.22,4851682.51,22OCT13
+1396,Robertson House Child Care,Non Profit Agency,32,HEATH ST W,,M4V 1T3,22,(416) 920-4054x115,Purpose Built,Mothercraft,10,15,48,0,0,73,Y,6082109,629205.88,4838495.14,22OCT13
+1397,Deer Park Extended Primary Education Program,Non Profit Agency,23,FERNDALE AVE,105,M4T 2B4,22,(416) 922-9569,Public Elementary School,Deer Park Public School,0,0,24,0,0,24,Y,4070042,629614.46,4838438.86,22OCT13
+1402,Mother Of Compassion Child Care,Non Profit Agency,40,SEWELLS RD,,M1B 3G5,42,(416) 724-1462,Catholic High School,Mother Theresa Catholic Secondary School,10,15,24,10,0,59,Y,2133565,643570.14,4852058.63,22OCT13
+1413,Albion Child Care Centre,Public (City Operated) Agency,1545,ALBION RD,,M9V 1B2,1,(416) 392-5083,Purpose Built,,10,20,24,0,0,54,Y,982439,613813.68,4843771.94,22OCT13
+1414,Centennial College East York Day Care Centre,Non Profit Agency,175,PLAINS RD,,M4J 2R2,29,(416) 289-5104,Public Elementary School,Diefenbaker Public School,0,0,0,0,25,25,Y,6208971,634390.56,4839134,22OCT13
+1420,Cast For Kids Child Care Centre,Non Profit Agency,1430,SHEPPARD AVE W,,M3M 2W9,9,(416) 638-4487,Public Elementary School,Sheppard Public School,0,0,40,0,30,70,Y,10133016,621707.93,4844486.55,22OCT13
+1421,Children Of Tomorrow - McCowan,Non Profit Agency,400,MCCOWAN RD,,M1J 1J5,38,(416) 269-7093,High Rise Apartment,,10,15,0,0,0,25,Y,361216,641612.99,4844399.06,22OCT13
+1425,Vradenburg Community Child Care Centre,Non Profit Agency,50,VRADENBERG DR,,M1T 1M6,40,(416) 497-7016,Public Elementary School,Vradenburg Junior Public School,0,0,32,20,25,77,Y,395053,636133.42,4847978.38,22OCT13
+1426,Educare Kindergarten - Islington,Commercial Agency,2825,ISLINGTON AVE,,M9L 2K1,7,(416) 749-0415,High Rise Apartment,Swiss Court,0,10,50,0,30,90,Y,8492741,615324.14,4844695.75,22OCT13
+1430,N.Y.A.D. Donwood,Non Profit Agency,61,DORCOT AVE,,M1P 3K5,37,(416) 759-7648,Public Elementary School,Donwood Park Public School,0,0,32,0,30,62,Y,328292,639869.53,4846126.34,22OCT13
+1433,Educare Preschool Centre - Lotherton,Commercial Agency,101,LOTHERTON PTWAY,,M6B 2G6,15,(416) 789-4811,Other,,0,10,24,0,0,34,Y,8066635,623430.7,4840131.83,22OCT13
+1434,Champions Children's Centre,Non Profit Agency,9,GRENOBLE DR,,M3C 1C3,26,(416) 467-5983,Public Elementary School,Grenoble Public School,0,0,0,19,30,49,Y,523752,634336.66,4841379.03,22OCT13
+1439,Wexford Community Childcare Centre,Non Profit Agency,1,WAYNE AVE,,M1R 1Y1,37,(416) 759-1965,Public Elementary School,George Peck Public School,10,15,16,0,0,41,Y,396495,637395.02,4843994.96,22OCT13
+1440,Petit Pearson Child Care,Non Profit Agency,7,SNOWCREST AVE,,M2K 2K5,24,(416) 222-2769,Public Elementary School,Lester B. Pearson Public School,0,0,0,20,60,80,Y,9487216,629722.58,4849847.94,22OCT13
+1445,Children Are People Education,Non Profit Agency,272,CODSELL AVE,3RD FLOOR,M3H 3X2,10,(416) 633-8831,Community/Recreation Centre,Borochov Centre,20,40,32,24,30,146,Y,501580,624051.14,4845564.09,22OCT13
+1448,Rainbow Village Childcare Centre,Non Profit Agency,2460,EGLINTON AVE E,,M1K 5J7,37,(416) 266-5835,Purpose Built,,6,25,64,0,45,140,Y,9086378,639900.4,4843584.51,22OCT13
+1452,Cambridge Place Centre For Early Learning,Commercial Agency,30,DENTON AVE,,M1L 4P2,35,(416) 699-8636,High Rise Apartment,Apartment Building,10,15,68,0,0,93,Y,327663,637974.91,4839085.86,22OCT13
+1453,Downtown Montessori At Coatsworth,Non Profit Agency,11,COATSWORTH CRES,,M4C 5P8,32,(416) 694-9444,High Rise Apartment,Hanson Building,10,15,32,0,0,57,Y,7791859,635316.74,4837383.98,22OCT13
+1454,Dunloe Children's Centre,Non Profit Agency,78,DUNLOE RD,,M5P 2T6,22,(416) 483-6559,Public Elementary School,Forest Hill Public School,0,0,70,0,30,100,Y,797816,627783.49,4839041.74,22OCT13
+1458,Enriched Child Care Learning Centre,Commercial Agency,6030,BATHURST ST,SUITE 115,M2R 1Z9,10,(416) 650-5355,High Rise Apartment,,0,0,34,0,0,34,Y,9313334,624894.73,4849255.09,22OCT13
+1460,Children's Village Day Care Centre #3,Commercial Agency,225,MARKHAM RD,,M1J 3C6,36,(416) 267-9677,High Rise Apartment,,10,15,40,0,40,105,Y,9340538,643380.32,4845001.17,22OCT13
+1462,Howard Park Children's Centre,Non Profit Agency,30,MARMADUKE ST,,M6R 1T2,14,(416) 532-3945,Public Elementary School,Howard Public School,0,0,0,20,97,117,Y,8594462,624825,4833975.5,22OCT13
+1466,Cliffcrest Day Care Centre,Non Profit Agency,2938,EGLINTON AVE E,,M1J 2E4,38,(416) 267-6293x223,Commercial Building,Torrance Plaza,0,0,24,0,42,66,Y,9011629,642055.96,4844266.28,22OCT13
+1467,Earl Haig Community Day Care,Non Profit Agency,15,EARL HAIG AVE,,M4C 1E2,32,(416) 694-9572,Public Elementary School,Earl Haig Public School,10,15,46,40,65,176,Y,799259,635299.25,4837626.99,22OCT13
+1475,Esther Exton Child Care Centre,Non Profit Agency,55,AMEER AVE,,M6A 2Z1,15,(416) 785-2420,Other,Baycrest Centre For Geriatric Care,10,15,32,0,0,57,Y,7094809,625561.13,4842705,22OCT13
+1477,Yonge Hearts Child Care Centre,Non Profit Agency,5176,YONGE ST,,M2N 5P6,23,(416) 730-8898,Purpose Built,Yonge Hearts Child Care Centre,20,30,64,0,0,114,Y,7131357,627607.96,4847335.54,22OCT13
+1482,East Toronto Village Children's Centre,Non Profit Agency,43,KIMBERLEY AVE,,M4E 2Z4,32,(416) 694-1733,Place of Worship,St. Saviour's Anglican Church,0,0,24,0,24,48,Y,8264102,637193.69,4837829.95,22OCT13
+1484,Phoenix Child Centre,Non Profit Agency,625,SENECA HILL DR,,M2J 2W6,33,(416) 492-8888,Public Elementary School,Seneca Hill Public School,0,0,30,0,30,60,Y,560551,632715.93,4849745.9,22OCT13
+1486,Scarborough Village Day Nursery 1,Commercial Agency,215,MARKHAM RD,,M1J 3C4,36,(416) 261-5048,High Rise Apartment,,10,15,40,20,15,100,Y,4691150,643408.46,4844835.83,22OCT13
+1488,Esterbrooke Child Care,Commercial Agency,35,ESTERBROOKE AVE,SUITE 111,M2J 2C6,33,(416) 492-1109,High Rise Apartment,Esterbrooke Properties Inc,0,0,24,10,20,54,Y,9962928,632754.97,4848365.89,22OCT13
+1491,Les Bouts D'Choux,Non Profit Agency,98,ESSEX ST,,M6G 1T3,19,(416) 960-9929,Catholic Elementary School(French),Ecole Sacre Coeur,10,10,36,0,30,86,Y,8740443,627034.77,4835969.51,22OCT13
+1495,Pleasant Child Care Of North York,Non Profit Agency,288,PLEASANT AVE,101 & 103,M2R 2R1,23,(416) 733-2280,Public Elementary School,Pleasant Public School,0,0,24,20,60,104,Y,551989,625928.62,4849509.63,22OCT13
+1496,Main Square Day Care Centre,Non Profit Agency,265,MAIN ST,BLDG C,M4C 4X3,32,(416) 691-3909,High Rise Apartment,,0,10,24,0,26,60,Y,14190108,637000.29,4838378.6,22OCT13
+1498,McMurrich Sprouts,Non Profit Agency,115,WINONA DR,,M6G 3S8,21,(416) 656-7957,Public Elementary School,McMurrich Public School,10,15,48,40,30,143,Y,6620127,626454.81,4837092.23,22OCT13
+1500,Faywood Boulevard Child Care Centre,Non Profit Agency,95,FAYWOOD BLVD,,M3H 2X5,10,(416) 633-8420,Public Elementary School,Faywood Public School,0,0,24,20,45,89,Y,8014986,625066.09,4843929.91,22OCT13
+1504,Fenside Drive Children's Centre,Non Profit Agency,131,FENSIDE DR,,M3A 2V9,34,(416) 444-2441,Public Elementary School,Fenside Public School,0,15,48,84,90,237,Y,515284,634478.06,4846860.16,22OCT13
+1507,Cougar Court Child Care Centre 25,Commercial Agency,3225,EGLINTON AVE E,109,M1J 2H7,36,(416) 267-0366,Other,,0,0,0,0,60,60,Y,8930394,643655.06,4844717.5,22OCT13
+1509,Scarborough Village Day Nursery 2,Commercial Agency,155,MARKHAM RD,,M1M 3A1,36,(416) 267-8881,Place of Worship,Christ Church,0,0,16,20,15,51,Y,4378193,643493.23,4844512.76,22OCT13
+1510,Columbus Children's Centre,Non Profit Agency,901,LAWRENCE AVE W,,M6A 1C3,15,(416) 789-7011,Community/Recreation Centre,Columbus Centre,0,15,64,0,15,94,Y,5738233,624312.67,4840932.72,22OCT13
+1520,Birds And Bees Day Care Centre,Commercial Agency,720,KENNEDY RD,,M1K 2B7,35,(416) 261-5741,High Rise Apartment,,0,15,44,0,30,89,Y,350376,639531.58,4843074.45,22OCT13
+1521,Cliffwood Community Child Care,Non Profit Agency,140,CLIFFWOOD RD,,M2H 2E4,24,(416) 490-8848,Public Elementary School,Cliffwood Public School,0,0,24,84,75,183,Y,8649130,631895.83,4851443.12,22OCT13
+1522,Finch Flyers Child Care Program,Non Profit Agency,277,FINCH AVE E,,M2N 4S3,23,(416) 225-8778,Public Elementary School,Finch Public School,0,10,24,30,45,109,Y,9084973,629136.47,4848893.65,22OCT13
+1525,Hilltop Daycare Centre,Non Profit Agency,160,NORTH BONNINGTON AVE,,M1K 1Y1,35,(416) 266-1085,Purpose Built,,0,15,32,0,30,77,Y,367974,639678.27,4841483.71,22OCT13
+1529,The Fashion District - Ryerson Public School,Non Profit Agency,96,DENISON AVE,,M5T 1E4,20,(416) 415-2505,Public Elementary School,Ryerson Public School,0,15,20,0,15,50,Y,10560819,628803.6,4834153.2,22OCT13
+1531,Today's Child Tomorrow's Future - Blantyre,Non Profit Agency,290,BLANTYRE AVE,,M1N 2S4,36,(416) 698-0069,Public Elementary School,Blantyre Public School,0,0,32,20,45,97,Y,309574,638304.05,4838107.19,22OCT13
+1532,Flemingdon Park Schoolage & Family Centre,Non Profit Agency,150,GRENOBLE DR,,M3C 1E3,26,(416) 429-6194,Community/Recreation Centre,Flemingdon Park Community Centre,0,0,0,0,45,45,Y,523758,634795.67,4841194.54,22OCT13
+1533,John A. Leslie Childcare,Non Profit Agency,459,MIDLAND AVE,,M1N 4A7,36,(416) 261-3238,Public Elementary School,John A. Leslie Public School,0,10,24,20,15,69,Y,363191,641057.82,4841389.46,22OCT13
+1536,Dalemount Child Care,Non Profit Agency,101,ENGLEMOUNT AVE,,M6B 4L5,15,(416) 781-9493,Public Elementary School,Glen Park Public School,0,0,32,20,45,97,Y,14038150,625952.62,4840982.04,22OCT13
+1538,Kenlinton Child Care Centre,Commercial Agency,2283,EGLINTON AVE E,,M1K 2N4,35,(416) 759-4525,High Rise Apartment,Apartment Building,0,0,32,0,30,62,Y,3351462,639124.63,4843174.24,22OCT13
+1539,Friends Day Care Centre,Non Profit Agency,60,LOWTHER AVE,,M5R 1C7,20,(416) 922-7022,Church,Quakers Meeting House,0,0,24,0,0,24,Y,2376672,629074.5,4836304.55,22OCT13
+1540,Friendly Times Child Care,Non Profit Agency,2829,KEELE ST,,M3M 2G7,9,(416) 631-7681,Public Elementary School,Downsview Public School,0,0,16,20,30,66,Y,10154479,622206,4842905.76,22OCT13
+1544,Kennedy Road Kiddy Kare,Non Profit Agency,661,KENNEDY RD,,M1K 2B8,35,(416) 261-1414,Church,,0,10,16,8,30,64,Y,350359,639756.7,4842639.27,22OCT13
+1547,Today's Child Tomorrow's Future - Norman Cook,Non Profit Agency,725,DANFORTH RD,,M1K 1G4,35,(416) 266-9888,Public Elementary School,Norman Cook Junior Public School,0,0,32,0,22,54,Y,325679,640325.92,4841920.41,22OCT13
+1548,Gan Yeladim Day Care Centre,Non Profit Agency,100,ELDER ST,,M3H 5G7,10,(416) 638-1796,Synagogue,Beth Emeth Bais Yehuda Synagogue,0,15,46,0,0,61,Y,511179,624425.34,4846228.2,22OCT13
+1551,Don Valley Christian Child Care,Non Profit Agency,25,AXSMITH CRES,,M2J 3K2,33,(416) 491-6485,Place of Worship,Don Valley Bible Chapel,6,15,44,0,0,65,Y,485416,632568.69,4849496.32,22OCT13
+1552,West Scarborough Play Care Program,Non Profit Agency,313,PHARMACY AVE,,M1L 3E7,35,(416) 755-9215x257,Community/Recreation Centre,West Scarborough Neighbourhood Community Centre,0,0,0,0,40,40,Y,2312042,638200.96,4839917.03,22OCT13
+1554,Pride In Heritage Children's Centre,Non Profit Agency,55,GATEWAY BLVD,,M3C 1B4,26,(416) 467-5981,Public Elementary School,Gateway Public School,0,0,40,0,75,115,Y,8929147,634444.76,4840986.96,22OCT13
+1559,St. Michael's And All Angels Day Care Centre,Non Profit Agency,611,ST CLAIR AVE W,,M6C 1A3,21,(416) 653-1424,Place of Worship,St. Michael's And All Angels Church,10,15,32,0,0,57,Y,9171886,627109,4837524.79,22OCT13
+1562,Gateway Day Care Centre,Commercial Agency,100,LEEWARD GLENWAY,GRND FLR,M3C 2Z1,26,(416) 424-2419,High Rise Apartment,,0,15,50,0,0,65,Y,536532,634651.03,4840954.54,22OCT13
+1566,Glen Cameron For Kids,Non Profit Agency,211,CAMERON AVE,,M2N 1E8,23,(416) 225-5788,Public Elementary School,Cameron Public School,0,0,24,0,52,76,Y,495911,627084.44,4845579.65,22OCT13
+1567,Downsview Day Care Centre,Non Profit Agency,1201,WILSON AVE,BUILDING D,M3M 1J8,9,(416) 235-5662,Office Building,Ontario Ministry Of Transportation Building D,10,20,24,0,0,54,Y,576360,621836.08,4841956.83,22OCT13
+1570,Ranchdale Rompers Day Care,Non Profit Agency,60,RANCHDALE CRES,,M3A 2M3,34,(416) 441-1233,Public Elementary School,Ranchdale Public School,0,10,24,20,60,114,Y,554092,634974.99,4845523.27,22OCT13
+1577,Playhouse Child Care Centre,Non Profit Agency,15,GREENLAND RD,,M3C 1N1,34,(416) 441-3170,Public Elementary School,Greenland Public School,10,10,34,0,0,54,Y,13967814,633789.89,4843404.9,22OCT13
+1578,Rejoyce Caledon Community Child Care,Non Profit Agency,26,JOYCE PKY,,M6B 2S9,15,(416) 789-1485,Public Elementary School,Joyce Public School,0,0,20,30,30,80,Y,532121,623754.18,4840563.55,22OCT13
+1580,Garderie La Farandole Gabrielle Roy,Non Profit Agency,14,PEMBROKE ST,,M5A 2N7,27,(416) 363-1841,Public Elementary School (French),Ecole Elementaire Gabrielle-Roy,10,10,32,32,30,114,Y,853146,631236.83,4834796.28,22OCT13
+1585,West Prep Children's Centre Of Toronto,Non Profit Agency,70,RIDGE HILL DR,,M6C 2J6,21,(416) 783-4302,Public Elementary School,West Preparatory Public School,0,15,52,40,45,152,Y,859183,626244.14,4839828.93,22OCT13
+1588,Greenland Recreational After School Program,Non Profit Agency,15,GREENLAND RD,,M3C 1N1,34,(416) 444-7427,Public Elementary School,Greenland Public School,0,0,0,0,45,45,Y,13967814,633789.89,4843404.9,22OCT13
+1589,Dublin Heights Community Child Care,Non Profit Agency,100,BAINBRIDGE AVE,,M3H 2K2,10,(416) 638-0612,Public Elementary School,Dublin Heights Elementary And Middle School,0,10,24,40,45,119,Y,485548,624964.14,4844954.77,22OCT13
+1592,Grenoble Day Care Centre,Commercial Agency,45,GRENOBLE DR,,M3C 1C4,26,(416) 429-5575,High Rise Apartment,Montego Towers,10,15,32,0,0,57,Y,523754,634442.03,4841465.13,22OCT13
+1593,Garrison Creek Community Day Care,Non Profit Agency,222,NIAGARA ST,,M6J 2L3,19,(416) 703-0541,Public Elementary School,Niagara Street Public School,0,15,16,40,50,121,Y,12267344,628366.24,4833335.54,22OCT13
+1597,Bowmore Road Community Day Care,Non Profit Agency,80,BOWMORE RD,,M4L 3J2,32,(416) 463-7345,Public Elementary School,Bowmore Public School,0,0,0,0,60,60,Y,6361762,635855.91,4837052.98,22OCT13
+1598,Rippleton Roadsters Child Care Program,Non Profit Agency,21,RIPPLETON RD,,M3B 1H4,25,(416) 449-4559,Public Elementary School,Rippleton Public School,0,0,48,30,60,138,Y,556083,632035.33,4844180.77,22OCT13
+1601,Gulfstream Day Care Centre,Non Profit Agency,20,GULFSTREAM RD,,M9M 1S3,7,(416) 746-5714,Public Elementary School,Gulfstream Public School,0,15,24,0,30,69,Y,13967820,617392.56,4843704.2,22OCT13
+1603,Highview Wilson Child Care,Non Profit Agency,22,HIGHVIEW AVE,,M3M 1C4,9,(416) 245-6221,Public Elementary School,Highview Public School,0,0,16,20,30,66,Y,2119836,621032.93,4841866.42,22OCT13
+1605,Hillmount Child Care,Non Profit Agency,245,MCNICOLL AVE,,M2H 2C6,24,(416) 494-0877,Public Elementary School,Hillmount Public School,0,0,24,20,45,89,Y,542014,632662.5,4850693.41,22OCT13
+1607,Hollywood All Stars Child Care,Non Profit Agency,360,HOLLYWOOD AVE,,M2N 3L4,23,(416) 221-7827,Public Elementary School,Hollywood Public School,0,0,24,30,50,104,Y,528255,629418.25,4847419.75,22OCT13
+1613,John Ross Robertson Child Centre,Non Profit Agency,130,GLENGROVE AVE W,,M4R 1P2,16,(416) 484-4825,Public Elementary School,John Ross Robertson Public School,0,0,24,0,60,84,Y,812871,628158.49,4841596.67,22OCT13
+1614,Kew Beach Day Care Centre,Non Profit Agency,101,KIPPENDAVIE AVE,,M4L 3R3,32,(416) 698-6226,Public Elementary School,Kew Beach Public School,0,0,47,40,65,152,Y,8236907,636821.49,4836228.25,22OCT13
+1617,Givins/Shaw School Community Day Care,Non Profit Agency,49,GIVINS ST,,M6J 2X5,19,(416) 531-4628,Public Elementary School,Givins Shaw Junior Senior Public School,0,0,24,20,15,59,Y,11180397,627608.41,4833595.54,22OCT13
+1618,Roywood Child Care North York,Non Profit Agency,11,ROYWOOD DR,,M3A 2C7,34,(416) 391-0222,Public Elementary School,Roywood Public School,0,0,24,20,25,69,Y,6739507,635069.63,4846888.06,22OCT13
+1619,Wilmington Best Child Care Centre,Non Profit Agency,330,WILMINGTON AVE,,M3H 5L1,10,(416) 633-2665,Public Elementary School,Wilmington Elementary School,0,0,39,40,45,124,Y,575941,623878.15,4847090.45,22OCT13
+1622,Kaleidoscope Preschool Resource Centre,Non Profit Agency,1087,LILLIAN ST,,M2M 3G1,24,(416) 226-1380,Place of Worship,St. Patrick's Anglican Church,0,10,16,10,30,66,Y,537112,627863.88,4850496.34,22OCT13
+1624,Junction Day Care Centre,Non Profit Agency,265,ANNETTE ST,,M6P 1R3,13,(416) 767-2991,Public Elementary School,Annette Street Public School,0,0,32,40,50,122,Y,7992305,623121.94,4835179.9,22OCT13
+1625,Gledhill Avenue Child Care Centre,Non Profit Agency,2,GLEDHILL AVE,,M4C 5K6,31,(416) 467-8340,Public Elementary School,Gledhill Junior Public School,0,0,24,20,50,94,Y,10080042,636230.89,4838348.4,22OCT13
+1629,Kids Haven Community Child Care,Non Profit Agency,46,CRESTHAVEN DR,,M2H 1M1,24,(416) 492-8336,Public Elementary School,Cresthaven Public School,0,15,32,10,30,87,Y,504194,631569.97,4850466.96,22OCT13
+1630,Kids Korner Day Care,Non Profit Agency,180,WESTMORELAND AVE,,M6H 3A2,18,(416) 533-3009,Community/Recreation Centre,Dovercourt Boys And Girls Club,0,0,16,0,15,31,Y,8015587,626349.19,4835727,22OCT13
+1633,York University Co-Operative Day Care Centre,Non Profit Agency,90,ATKINSON RD,RM 128,M3J 2S5,8,(416) 736-5190,High Rise Apartment,Atkinson Residence,20,20,64,0,15,119,Y,8594966,620592.25,4847354,22OCT13
+1635,Hawthorne-On-Essex Day Care,Non Profit Agency,50,ESSEX ST,,M6G 1T3,19,(416) 393-9291,Public Elementary School,Hawthorne II Alternative Bilingual School,0,0,32,40,50,122,Y,8740418,627184.46,4836014.75,22OCT13
+1636,Keelmount Daycare Centre,Non Profit Agency,99,MOUNTVIEW AVE,,M6P 2L5,13,(416) 763-6824,Public Elementary School,Keele Public School,0,0,24,0,50,74,Y,8004943,624035.9,4834761.74,22OCT13
+1643,Le Petit Chaperon Rouge - Gainsborough,Non Profit Agency,250,GAINSBOROUGH RD,,M4L 3C6,32,(416) 465-2582,Catholic Elementary School(French),Ecole George Etienne Cartier,0,0,0,44,48,92,Y,807027,635450.21,4837249.22,22OCT13
+1644,Kindercircle Day Care,Non Profit Agency,150,KILGOUR RD,,M4G 1R8,26,(416) 424-3818,Hospital/Health Centre,Hugh Macmillan Rehabilitation Centre,10,15,0,0,0,25,Y,12601205,631050.25,4841662.08,22OCT13
+1645,Kensington Kids Early Learning Centre,Non Profit Agency,401,COLLEGE ST,,M5T 1S9,20,(416) 927-0870,Public Elementary School,Kensington Community School,10,15,48,20,0,93,Y,2812332,628542.97,4834723.41,22OCT13
+1651,Lawrence Heights Community Day Care Centre,Non Profit Agency,10,FLEMINGTON RD,,M6A 2N4,15,(416) 787-4105,Public Elementary School,Flemington Public School,10,25,24,30,30,119,Y,7062866,625304.61,4841742.34,22OCT13
+1653,Yorkview Kids Care,Non Profit Agency,130,YORKVIEW DR,,M2R 1K1,23,(416) 221-7656,Public Elementary School,Yorkview Public School,0,0,16,16,43,75,Y,579389,625893.8,4847580.62,22OCT13
+1657,Learning Step Childrens Center,Non Profit Agency,1645,QUEEN ST W,,M6R 1A9,14,(416) 533-6977,Other,,0,10,16,0,0,26,Y,14038549,625355.98,4832694.38,22OCT13
+1663,Hester How Day Care Centre,Non Profit Agency,100,QUEEN ST W,1ST FLOOR EAST TOWER,M5H 2N2,27,(416) 392-7981,Office Building,Toronto City Hall,12,20,24,20,0,76,Y,856375,630333.34,4834360.82,22OCT13
+1664,Sunnybrook Creche,Non Profit Agency,2075,BAYVIEW AVE,,M4N 3M5,25,(416) 480-4465,Other,Sunnybrook Health Science Centre,10,25,32,0,0,67,Y,7754918,630646.88,4842046.17,22OCT13
+1665,Montrose Child Care Centre,Non Profit Agency,301,MONTROSE AVE,,M6G 3G9,19,(416) 532-6675,Public Elementary School,Montrose Public School,10,15,16,20,30,91,Y,844204,627480.86,4834956.89,22OCT13
+1670,Topcliff Community Child Care,Non Profit Agency,65,TOPCLIFF AVE,,M3N 1L6,8,(416) 630-8960,Public Elementary School,Topcliff Public School,0,0,24,0,30,54,Y,7415223,619884.08,4845593.45,22OCT13
+1671,Kids Hut Daycare & Montessori,Commercial Agency,1350,YORK MILLS RD,,M3A 1Z9,34,(416) 447-3686,High Rise Apartment,,0,10,24,0,0,34,Y,579045,635271.04,4846680.01,22OCT13
+1672,Hillcrest Day Nursery,Commercial Agency,2,VAUGHAN RD,,M6G 2N1,21,(416) 653-9094,Place of Worship,Hillcrest Christian Church (Disciples),0,0,36,0,24,60,Y,10636581,627491.54,4837446.95,22OCT13
+1680,Lord Dufferin Community Day Care Centre,Non Profit Agency,350,PARLIAMENT ST,,M5A 2Z7,28,(416) 960-8604,Public Elementary School,Lord Dufferin Public School,0,0,0,40,80,120,Y,14172941,631660.14,4835275.91,22OCT13
+1681,Hughes Child Care Centre,Non Profit Agency,177,CALEDONIA RD,,M6E 4S8,17,(416) 656-8774,Public School (Closed),Hughes Jr. Public School,0,0,16,0,40,56,Y,7156906,624385.65,4837365.1,22OCT13
+1683,Oakwood Children's House,Non Profit Agency,115,WINONA DR,,M6G 3S8,21,(416) 656-3831,Public Elementary School,McMurrich Public School,0,0,16,0,0,16,Y,6620127,626454.81,4837092.23,22OCT13
+1687,Rainbow's End Faith Lutheran Day Care,Non Profit Agency,96,HUCKNALL RD,,M3J 1V8,8,(416) 633-4718,Place of Worship,Faith Lutheran Church,0,10,24,0,0,34,Y,7568736,620983.59,4845604.13,22OCT13
+1690,Matthew John Day Care Centre,Non Profit Agency,135,FIRST AVE,,M4M 1W9,30,(416) 466-8001,Place of Worship,St. Matthew's Anglican Church,0,15,32,0,15,62,Y,805425,633244.95,4835816.73,22OCT13
+1691,St. Mark's Day Care Centre - Greenland Road,Non Profit Agency,1,GREENLAND RD,,M3C 1N1,34,(416) 444-6948,Place of Worship,St. Mark's Presbyterian Church,0,9,36,0,25,70,Y,13967632,633699.37,4843407.98,22OCT13
+1692,Huron Superfriends,Non Profit Agency,541,HURON ST,,M5R 2R6,20,(416) 921-7551,Public Elementary School,Huron Street Public School,0,0,0,0,55,55,Y,7974431,628779.39,4836354.58,22OCT13
+1693,Rendezvous Child Care Centre,Non Profit Agency,18,DALLINGTON DR,,M2J 2G3,33,(416) 490-9360,Public Elementary School,Dallington Public School,0,0,36,0,45,81,Y,9963285,632387.49,4848212.49,22OCT13
+1698,Ogden Day Care Centre,Non Profit Agency,33,PHOEBE ST,,M5T 1A8,20,(416) 593-0624,Public Elementary School,Ogden Public School,0,15,24,40,22,101,Y,853889,629411.83,4834030.83,22OCT13
+1699,Three Valleys Children's Centre,Non Profit Agency,76,THREE VALLEYS DR,,M3A 3B7,34,(416) 443-9414,Public Elementary School,Three Valleys Public School,0,10,78,40,60,188,Y,568636,633825.06,4845317.32,22OCT13
+1702,Hydrokids Day Care Centre,Non Profit Agency,700,UNIVERSITY AVE,,M5G 1X6,20,(416) 592-5437,Other,Ontario Power Generation,10,20,52,0,0,82,Y,7792706,629710.1,4835035.96,22OCT13
+1705,Tot World Child Care Centre,Non Profit Agency,25,YORKWOODS GATE,,M3N 1K1,8,(416) 638-3003,Public Elementary School,Yorkwoods Elementary School,0,15,24,40,30,109,Y,10258462,619634.33,4845030.72,22OCT13
+1712,Jackman Community Day Care,Non Profit Agency,79,JACKMAN AVE,,M4K 2X5,29,(416) 466-8715,Public Elementary School,Jackman Avenue Public School,0,0,40,0,119,159,Y,825367,632666.3,4837498.57,22OCT13
+1714,Orde Day Care Centre,Non Profit Agency,18,ORDE ST,,M5T 1N7,20,(416) 598-3412,Public Elementary School,Orde Street Public School,0,0,24,54,75,153,Y,9947932,629624.47,4834992.05,22OCT13
+1715,Tumpane Child Care Learning Centre,Non Profit Agency,48,TUMPANE ST,,M3M 1L8,9,(416) 244-2465,Public Elementary School,Tumpane Public School,0,0,24,63,30,117,Y,570542,620618.88,4842374.89,22OCT13
+1717,Start Right Child Care Centre,Non Profit Agency,38,ORFUS RD,,M6A 1L6,15,(416) 781-7066,Public High School,Yorkdale Secondary School And Adult Learning Centre,10,15,24,0,0,49,Y,12789760,623985.51,4841695.1,22OCT13
+1721,Van Horne Day Care,Commercial Agency,201,VAN HORNE AVE,1ST FLOOR,M2J 2T7,33,(416) 493-3353,High Rise Apartment,,0,0,32,0,24,56,Y,571343,632451.74,4849243.5,22OCT13
+1728,Storybook Childcare Centre,Commercial Agency,1855,JANE ST,,M9N 2T7,12,(416) 241-5233,High Rise Apartment,,0,0,28,0,26,54,Y,530974,620478.75,4840317.92,22OCT13
+1729,St. Chad's Day Nursery,Non Profit Agency,1695,DUFFERIN ST,,M6E 3N9,17,(416) 652-1868,Place of Worship,St. Chad's Anglican Church,0,5,26,0,15,46,Y,9741083,625494.46,4837139.58,22OCT13
+1731,Shaughnessy Boulevard Children's Centre,Non Profit Agency,30,SHAUGHNESSY BLVD,,M2J 1H5,33,(416) 499-6500,Public Elementary School,Shaughnessy Public School,0,20,48,40,60,168,Y,10538488,632649.71,4847468.29,22OCT13
+1737,Sunburst Children's Centre,Non Profit Agency,4905,DUFFERIN ST,,M3H 5T4,10,(416) 739-4684,Other,Environment Canada Atmospheric Environment Service,10,15,16,0,0,41,Y,12167660,623225.97,4848494.83,22OCT13
+1738,Victoria Park Child Care Centre,Non Profit Agency,15,WALLINGFORD RD,,M3A 2V1,34,(416) 445-0287,Public High School,Victoria Park Secondary School,10,10,16,0,0,36,Y,572815,635113.97,4845926.21,22OCT13
+1739,Our Happiness Day Nursery,Commercial Agency,801,CARLAW AVE,,M4K 3L1,29,(416) 461-1380,House,,0,0,55,0,15,70,Y,10834010,633201.96,4837341.48,22OCT13
+1740,Early Enrichment Day Care (St. John's West Toronto),Non Profit Agency,288,HUMBERSIDE AVE,,M6P 1L5,13,(416) 762-8125,Place of Worship,St. John's Anglican Church,10,20,24,0,0,54,Y,823301,623416.9,4835098.33,22OCT13
+1743,Young Artists Day Care,Commercial Agency,11,CATFORD RD,STE. 117,M3J 1P9,8,(416) 635-9922,High Rise Apartment,,10,15,32,0,0,57,Y,497438,621433.31,4845956.91,22OCT13
+1749,Palmerston Community Daycare Centre,Non Profit Agency,734,PALMERSTON AVE,,M6G 2R4,20,(416) 533-9526,Public Elementary School,Palmerston Public School,0,0,40,0,50,90,Y,6619760,627754.13,4836013.5,22OCT13
+1750,Sandalwood Centre For Early Learning,Commercial Agency,1825,FINCH AVE W,,M3N 1M7,8,(416) 638-0357,High Rise Apartment,,10,25,56,24,30,145,Y,10071499,619778.71,4845836.14,22OCT13
+1751,Seafield Day Nursery,Commercial Agency,100,YORK GATE BLVD,109,M3N 2C4,8,(416) 663-0596,High Rise Apartment,,10,15,64,0,30,119,Y,7929447,619124.54,4846296.51,22OCT13
+1752,Seneca College Lab School,Non Profit Agency,1750,FINCH AVE E,,M2J 2X5,24,(416) 491-5050x24710,Purpose Built,,0,20,32,0,0,52,Y,515776,632810.4,4850293.38,22OCT13
+1755,St. Lawrence School Age Day Care,Non Profit Agency,230,THE ESPLANADE,,M5A 4J6,28,(416) 363-9425,Community/Recreation Centre,St. Lawrence Community Centre,0,0,44,0,52,96,Y,8354416,631843.51,4834054.34,22OCT13
+1756,Lakeside Co-Operative Playschool,Non Profit Agency,70,SILVER BIRCH AVE,,M4E 3K9,32,(416) 698-4179,Place of Worship,St. Aidan's Anglican Church,0,0,24,0,15,39,Y,14207180,638224.5,4836685.34,22OCT13
+1758,Pape Children's House,Non Profit Agency,220,LANGLEY AVE,,M4K 1B9,30,(416) 463-2043,Public Elementary School,Pape Avenue Public School,0,15,32,40,30,117,Y,14615167,633659.73,4836374.11,22OCT13
+1759,Playworks Preschool,Commercial Agency,1375,YONGE ST,,M4T 1Y4,22,(416) 967-6484,Commercial Building,Storefront,10,20,32,0,0,62,Y,8741263,629485.1,4838116.35,22OCT13
+1765,Pat Schulz Child Care Centre,Non Profit Agency,1,DANFORTH AVE,,M4K 1M8,30,(416) 393-0939,Public High School,City Adult Learning Centre,10,15,24,0,0,49,Y,3841913,632185.41,4836851.35,22OCT13
+1768,Roden Community Child Care Centre,Non Profit Agency,151,HIAWATHA RD,,M4L 2Y1,30,(416) 461-3010,Public Elementary School,Roden Public School,0,0,28,0,30,58,Y,820061,635168.81,4836795.68,22OCT13
+1769,West End Parents Day Care Centre,Non Profit Agency,375,DOVERCOURT RD,,M6J 3E5,19,(416) 534-6761,Public School (Closed),Old Orchard Public School - Closed School,0,10,40,0,30,80,Y,9410112,626982.16,4834241.89,22OCT13
+1771,Perth Early Learning Centre,Non Profit Agency,14,RUSKIN AVE,,M6P 3P8,18,(416) 533-2575,Public Elementary School,Perth Avenue Public School,0,0,24,30,15,69,Y,8431734,624764.87,4835366.75,22OCT13
+1775,Williamson Road Day Care Centre,Non Profit Agency,24,WILLIAMSON RD,,M4E 1K5,32,(416) 691-8861,Public Elementary School,Williamson Road Public School,0,0,0,0,27,27,Y,883096,637231.58,4836908.54,22OCT13
+1776,Queen's Park Child Care Centre,Non Profit Agency,900,BAY ST,M1-541,M7A 1C2,27,(416) 327-9979,Office Building,"Macdonald Block , Queen's Park",20,20,40,0,0,80,Y,768417,629981.66,4835537.46,22OCT13
+1778,Woodfield Day Care (Woodgreen),Non Profit Agency,70,WOODFIELD RD,,M4L 2W6,32,(416) 645-6000x1155,Public Elementary School,Duke Of Connaught Public School,6,10,48,0,30,94,Y,6362823,635268.92,4835966.73,22OCT13
+1779,St. Stephen's Community House,Non Profit Agency,91,BELLEVUE AVE,,M5T 2N8,20,(416) 925-2103x242,Community/Recreation Centre,St. Stephen's Community House,0,15,24,0,45,84,Y,770023,628695.77,4834711.06,22OCT13
+1783,St. Stephen's - King Edward Day Care,Non Profit Agency,112,LIPPINCOTT ST,,M5S 2P1,20,(416) 922-8705,Public Elementary School,King Edward Public School,10,15,24,20,15,84,Y,6355068,628403.77,4834925.88,22OCT13
+1786,Morse Street Child Care (Woodgreen),Non Profit Agency,180,CARLAW AVE,,M4M 2R9,30,(416) 645-6000x1155,Public Elementary School,Morse Street Public School,0,15,24,60,45,144,Y,779906,633821.58,4835245.7,22OCT13
+1787,Muppets Pre-School Centre,Commercial Agency,88,SWEENEY DR,,M4A 1T7,34,(416) 759-5159x226,Public Elementary School,Victoria Village Elementary School,0,15,96,0,75,186,Y,566907,635745.65,4843705.79,22OCT13
+1792,Muppets Too Preschool Centre,Commercial Agency,45,CASSANDRA BLVD,,M3A 1S5,34,(416) 449-3010,Public Elementary School,Cassandra Public School,0,0,48,40,65,153,Y,497128,634532.36,4845066.24,22OCT13
+1793,Wychwood Tigers Daycare Centre,Non Profit Agency,44,HILTON AVE,,M5R 3E6,21,(416) 532-1841,Public Elementary School,Hillcrest Public School,0,0,24,40,54,118,Y,821864,627679.47,4837222.8,22OCT13
+1795,Scotia Plaza Child Care Centre,Non Profit Agency,40,KING ST W,1013,M5H 3C2,28,(416) 415-2590,Office Building,Scotia Plaza,10,15,48,0,0,73,Y,8676857,630668.16,4833994.94,22OCT13
+1800,St. Lawrence Co-Operative Day Care,Non Profit Agency,2,PRINCESS ST,,M5A 4G6,28,(416) 363-9506,Purpose Built,,0,20,24,0,0,44,Y,14069163,631789.03,4833833.53,22OCT13
+1806,Queen Street Day Care Centre,Non Profit Agency,1001,QUEEN ST W,,M6J 1H4,19,(416) 535-6701,Other,Queen Street Mental Health Centre,0,15,32,0,0,47,Y,20232082,627573.08,4833330.13,22OCT13
+1809,Swansea Nursery School,Non Profit Agency,95,LAVINIA AVE,BOX #106,M6S 3H9,13,(416) 767-0889,City owned Community/Recreation Centre,,0,0,28,0,0,28,Y,831833,622743.06,4833642.74,22OCT13
+1812,Rose Avenue Child Care Centre,Non Profit Agency,675,ONTARIO ST,,M4X 1N4,28,(416) 922-8827,Public Elementary School,Rose Avenue Public School,0,0,24,40,30,94,Y,6522577,631192.25,4836304.51,22OCT13
+1813,Special Moments Child Care Centre,Commercial Agency,20,GLEBE RD E,,M4S 1N6,22,(416) 482-2675,Place of Worship,Glebe Road United Church,0,0,24,0,0,24,N,7283706,629208.4,4839754.8,22OCT13
+1818,Runnymede Adventure Club,Non Profit Agency,357,RUNNYMEDE RD,,M6S 2Y7,13,(416) 766-5599,Public Elementary School,Runnymede Public School,0,0,0,0,96,96,Y,7973683,622758.17,4834562.89,22OCT13
+1819,Swallows Day Care Ltd,Commercial Agency,823,DOVERCOURT RD,,M6H 2X4,19,(416) 536-0574,Purpose Built,,10,15,52,0,30,107,Y,794487,626593.8,4835432.32,22OCT13
+1823,Sunnyside Garden Avenue Day Care,Non Profit Agency,225,GARDEN AVE,,M6R 1H9,14,(416) 533-2008,Public Elementary School,Garden Public School,0,0,16,60,52,128,Y,807559,625071.35,4833191.41,22OCT13
+1824,Ryerson Early Learning Centre,Non Profit Agency,350,VICTORIA ST,,M5B 2K3,27,(416) 979-5338,Community College/University,Ryerson University,0,10,52,0,0,62,Y,7730108,630576.29,4834914.83,22OCT13
+1827,Upper Yonge Village Day Care Centre,Non Profit Agency,14,ST CLEMENTS AVE,,M4R 1G9,16,(416) 487-2861,Other,Other,10,25,24,0,0,59,Y,872957,628855.71,4841027.66,22OCT13
+1832,The Candy Factory Swallows Day Care,Commercial Agency,1411,BLOOR ST W,,M6P 3L4,18,(416) 537-4154,House,Plato Adult Education Centre,10,25,40,0,0,75,Y,13977566,625185.48,4834748.77,22OCT13
+1833,University Settlement,Non Profit Agency,23,GRANGE RD,,M5T 1C3,20,(416) 598-3444x246,Community/Recreation Centre,University Settlement Recreation Centre,10,20,24,0,0,54,Y,14208804,629702.29,4834262.01,22OCT13
+1835,Casa Loma Child Care Centre,Non Profit Agency,160,KENDAL AVE,,M5R 1M3,21,(416) 415-5000x4616,Community College/University,Casa Loma Campus,10,15,40,0,0,65,Y,7994619,628072.76,4836893.68,22OCT13
+1836,Capri Child Care Centre,Public (City Operated) Agency,7,CAPRI RD,,M9B 6B9,3,(416) 392-4399,High Rise Apartment,,0,10,32,0,0,42,Y,991732,615784.52,4834079.24,22OCT13
+1837,Ancaster Child Care,Public (City Operated) Agency,45,ANCASTER RD,,M3K 1S7,9,(416) 392-5064,Other,,10,10,36,0,0,56,Y,482523,623524.86,4843142.46,22OCT13
+1838,Rawlinson Child Care Centre,Public (City Operated) Agency,40,EARNSCLIFFE RD,,M6E 1J5,17,(416) 392-5068,Public Elementary School,Rawlinson Community School,10,20,24,0,0,54,Y,13967930,625710.47,4837660.98,22OCT13
+1839,Alexandra Park Child Care Centre,Public (City Operated) Agency,75,AUGUSTA SQ,,M5T 2K5,20,(416) 392-5515,Low Rise Apartment,,10,10,16,0,0,36,Y,14194946,629019.15,4834034.78,22OCT13
+1840,Berner Trail Child Care Centre,Public (City Operated) Agency,120,BERNER TRAIL,,M1B 1B3,42,(416) 392-6273,City owned Community/Recreation Centre,Berner Trail Community Centre,10,10,44,20,0,84,Y,307348,643064.82,4851148.08,22OCT13
+1841,Birchmount Child Care Centre,Public (City Operated) Agency,365,BAY MILLS BLVD,,M1T 2G5,40,(416) 392-2294,High Rise Apartment,Apartment Building,0,10,32,0,0,42,Y,305018,636717.06,4848755.85,22OCT13
+1842,Brahms Child Care Centre,Public (City Operated) Agency,5,BRAHMS AVE,,M2H 1H2,24,(416) 392-6262,High Rise Apartment,,6,10,16,0,0,32,Y,20005804,632105.41,4849939.22,22OCT13
+1843,Willowridge Child Care Centre,Public (City Operated) Agency,30,EARLDOWN DR,,M9R 2L3,4,(416) 392-5086,Purpose Built,,0,10,44,0,30,84,Y,12544632,615210.21,4836659.19,22OCT13
+1845,Greenholme - Albion Child Care Centre,Public (City Operated) Agency,10,JAMESTOWN CRES,,M9V 3M5,1,(416) 392-2875,Public Elementary School,Greenholme Public School,0,0,0,0,20,20,Y,9178016,614106.76,4843202.13,22OCT13
+1846,Lawrence Avenue East Child Care,Public (City Operated) Agency,3847,LAWRENCE AVE E,,M1G 1R5,43,(416) 392-5692,High Rise Apartment,,0,10,43,0,15,68,Y,7423570,644032.34,4846826.5,22OCT13
+1847,Blake Street Child Care Centre,Public (City Operated) Agency,84,BLAKE ST,,M4J 3C9,30,(416) 392-5055,Community/Recreation Centre,Eastview Neighbourhood Community Centre,10,20,24,0,0,54,Y,13967924,633820,4836870.06,22OCT13
+1848,Rowntree Child Care Centre,Public (City Operated) Agency,2765,ISLINGTON AVE,,M9V 5C2,1,(416) 392-5089,High Rise Apartment,,0,10,16,0,0,26,Y,10985652,615372.57,4844167.62,22OCT13
+1850,Gilder Child Care Centre,Public (City Operated) Agency,31,GILDER DR,,M1K 4P8,37,(416) 392-5696,High Rise Apartment,,0,10,32,0,0,42,Y,2917704,640405.09,4843834.99,22OCT13
+1851,Edgeley Child Care Centre,Public (City Operated) Agency,405,DRIFTWOOD AVE,,M3N 2P6,8,(416) 392-6271,Purpose Built,,10,15,32,0,0,57,Y,13970510,619425.77,4846860.82,22OCT13
+1852,Emery Child Care Centre,Public (City Operated) Agency,3395,WESTON RD,,M9M 2V9,7,(416) 392-3370,Public High School,Emery Collegiate Institute,10,10,16,0,0,36,Y,574355,617571.22,4844778.85,22OCT13
+1853,Warden Woods Satellite Child Care Centre,Public (City Operated) Agency,644,WARDEN AVE,,M1L 3Z3,35,(416) 392-5042,Public Elementary School,Warden Avenue Junior Public School,0,0,36,0,24,60,Y,395722,638799.64,4839777.2,22OCT13
+1854,Thomas Berry Child Care Centre,Public (City Operated) Agency,3495,LAKE SHORE BLVD W,,M8W 1N5,6,(416) 392-5080,Public School (Closed),Old James S. Bell Public School (Closed),10,20,52,0,24,106,Y,9109212,618577.97,4827643.83,22OCT13
+1855,Galloway Child Care Centre,Public (City Operated) Agency,4299,KINGSTON RD,,M1E 2M9,43,(416) 392-5229,High Rise Apartment,,10,10,24,0,0,44,Y,12786480,645388.47,4846840.1,22OCT13
+1856,Warden Woods Child Care Centre,Public (City Operated) Agency,76,FIRVALLEY CRT,,M1L 1N9,35,(416) 392-5078,Community/Recreation Centre,Warden Woods Community Centre,6,10,0,0,0,16,Y,11070255,638738.1,4840198.79,22OCT13
+1857,Falstaff Child Care Centre,Public (City Operated) Agency,10,FALSTAFF AVE,,M6L 2C7,12,(416) 392-5688,Purpose Built,,16,25,32,0,0,73,Y,8855191,620284.39,4841201.14,22OCT13
+1858,Canadiana Court Child Care Centre,Public (City Operated) Agency,20,GORDONRIDGE PL,,M1K 4H5,35,(416) 392-5698,Community/Recreation Centre,Gordonridge Community Centre,10,10,16,0,0,36,Y,6674316,640751.41,4842826.68,22OCT13
+1859,Parkside Child Care Centre,Public (City Operated) Agency,401,CEDARVALE AVE,,M4C 4K7,31,(416) 392-3910,Public Elementary School,Parkside Public School,0,0,32,0,15,47,Y,6427685,635641.77,4839692.07,22OCT13
+1860,Centenary Seven Oaks Child Care Centre,Public (City Operated) Agency,9,NEILSON RD,,M1E 5E1,43,(416) 392-4750,Purpose Built,Seven Oaks Home For The Aged,10,15,24,0,0,49,Y,367187,644542.79,4848966.1,22OCT13
+1861,Hollis Child Care Centre,Public (City Operated) Agency,1,HOLLIS ST,,M6M 4N1,11,(416) 392-5686,Purpose Built,,16,20,16,0,0,52,Y,2489397,621808.85,4838066,22OCT13
+1866,Firgrove Child Care Centre,Public (City Operated) Agency,4,CANE GRASSWAY,,M3N 2W8,7,(416) 392-5683,Other,,10,10,24,0,0,44,Y,6261368,619381.88,4845239,22OCT13
+1869,Flemingdon Child Care Centre,Public (City Operated) Agency,29,ST DENNIS DR,,M3C 3J3,26,(416) 392-3170,Community/Recreation Centre,Dennis R Timbrell Resource Centre,10,15,34,0,0,59,Y,8885841,634376.22,4841676.06,22OCT13
+1870,Regent Park Child Care Centre,Public (City Operated) Agency,40,REGENT ST,,M5A 3N7,28,(416) 392-5513,Purpose Built,,20,20,0,0,0,40,Y,30009806,631879.38,4835038.38,22OCT13
+1871,Northminster Child Care Centre,Public (City Operated) Agency,255,FINCH AVE W,,M2R 1M8,23,(416) 392-5690,Place of Worship,Northminster United Church,0,10,36,0,30,76,Y,11129601,625727.21,4847781.15,22OCT13
+1872,Davisville Child Care Centre,Public (City Operated) Agency,41,MILLWOOD RD,,M4S 1J6,22,(416) 392-5694,Public Elementary School,Davisville Public School,0,10,44,0,0,54,Y,13967926,629300.99,4839522.82,22OCT13
+1873,Shoreham School Age Satellite,Public (City Operated) Agency,31,SHOREHAM DR,,M3N 2S6,8,(416) 392-8599,Public Elementary School,Shoreham Public School,0,0,0,20,30,50,Y,13969058,619316.21,4847040.33,22OCT13
+1874,O'Connor School Age Satellite,Public (City Operated) Agency,1665,O CONNOR DR,,M4A 1W5,34,(416) 392-5632,Public Elementary School,O'Connor Public School,0,0,20,0,30,50,Y,8609165,636597.56,4841561.84,22OCT13
+1875,O'Connor Child Care Centre,Public (City Operated) Agency,1386,VICTORIA PARK AVE,,M4A 2L8,34,(416) 392-6545,Community/Recreation Centre,O'Connor Community Centre,10,10,32,0,0,52,Y,6686423,636780.16,4841693.55,22OCT13
+1876,Glen Road Child Care Centre,Public (City Operated) Agency,443,BLOOR ST E,,M4W 1J1,28,(416) 392-5059,Other,Fire Station,0,0,44,0,25,69,Y,14120200,630983.77,4836523.11,22OCT13
+1878,Blacksmith Child Care Centre,Non Profit Agency,45,BLACKSMITH CRES,,M3N 1V5,8,(416) 665-3839,Public Elementary School,Blacksmith Public School,0,0,24,0,30,54,Y,490154,618553.14,4847289.41,22OCT13
+1881,Carleton Village Early Learning Centre,Non Profit Agency,315,OSLER ST,,M6N 2Z4,17,(416) 651-2550,Public Elementary School,Carlton Village Public School North,0,0,16,20,30,66,Y,8714071,624131.65,4836412.82,22OCT13
+1882,Stilecroft Superkids,Non Profit Agency,50,STILECROFT DR,,M3J 1A7,9,(416) 638-0352,Public Elementary School,Stilecroft Public School,0,15,24,0,15,54,Y,7522835,621298.46,4845104.76,22OCT13
+1885,Woodbine Child Care Centre,Public (City Operated) Agency,700,MILVERTON BLVD,,M4C 1X9,31,(416) 392-2257,Place of Worship,Church Of The Resurrection,10,10,24,0,0,44,Y,843418,635801.98,4838485.81,22OCT13
+1887,Davenport Perth Child Care Centre,Public (City Operated) Agency,1900,DAVENPORT RD,,M6N 1B7,17,(416) 392-5066,Community/Recreation Centre,Davenport Perth Community Centre,10,10,16,0,0,36,Y,2216185,624551.45,4836261.43,22OCT13
+1888,Coxwell Child Care Centre,Public (City Operated) Agency,1631,QUEEN ST E,,M4L 1G4,32,(416) 392-5076,HUMSRV,Toronto Employment And Social Services-Toronto East Office,0,10,24,10,15,59,Y,856013,635790.46,4835966.86,22OCT13
+1889,Jesse Ketchum Child Care Centre,Public (City Operated) Agency,7,BERRYMAN ST,,M5R 1M7,27,(416) 392-5061,Purpose Built,Jesse Ketchum Public School,10,10,36,0,60,116,Y,7979603,629645.56,4836656.5,22OCT13
+1890,Danforth Child Care Centre,Public (City Operated) Agency,1125,DANFORTH AVE,,M4J 1M5,30,(416) 392-5070,Purpose Built,Danforth Child Care Centre,10,20,40,0,0,70,Y,8066596,634287.84,4837552.15,22OCT13
+1891,Church Street School Day Care,Non Profit Agency,83,ALEXANDER ST,,M4Y 1B7,27,(416) 925-1197,Public Elementary School,Church Street Public School,0,10,16,40,60,126,Y,762114,630668.54,4835565.78,22OCT13
+1893,Christian Community Child Care,Non Profit Agency,270,GERRARD ST E,,M5A 2G4,28,(416) 355-3574,Community/Recreation Centre,Christian Community Centre,10,15,40,0,0,65,Y,4014969,631545.27,4835444.56,22OCT13
+1895,North York Jr Ymca,Non Profit Agency,567,SHEPPARD AVE E,,M2K 1B2,24,(416) 225-7773x440,Community/Recreation Centre,North York Ymca,0,15,60,0,0,75,Y,561844,629834.97,4846911.87,22OCT13
+1896,West End Jr Ymca,Non Profit Agency,931,COLLEGE ST,,M6H 1A1,19,(416) 536-1166x440,Community/Recreation Centre,West End Ymca,0,10,52,0,60,122,Y,10576726,626923.87,4834365.75,22OCT13
+1898,Family Development Centre Ymca,Non Profit Agency,15,BREADALBANE ST,,M4Y 1C2,27,(416) 513-1164x41440,Community/Recreation Centre,Toronto Central Ymca,10,30,48,20,30,138,Y,7762681,630211.88,4835558.5,22OCT13
+1900,Second Street School Age Ymca,Non Profit Agency,71,SECOND ST,,M8V 2X4,6,(416) 763-5233,Public Elementary School,Second Street School,0,0,0,20,30,50,Y,7389731,621066.02,4828725.91,22OCT13
+1901,Lamp Jr Ymca,Non Profit Agency,185,FIFTH ST,,M8V 2Z5,6,(416) 252-8544,Community/Recreation Centre,Lamp Community Centre,0,10,32,0,0,42,Y,1001336,620770.5,4828709.05,22OCT13
+1902,University City Jr Ymca,Non Profit Agency,453,SENTINEL RD,,M3J 2T6,8,(416) 661-2329,Community/Recreation Centre,University City Ymca,0,15,32,0,45,92,Y,10071090,620772.93,4846373.62,22OCT13
+1903,Parkway Forest Jr Ymca,Non Profit Agency,102,PARKWAY FOREST DR,,M2J 1L5,33,(416) 492-1614,Community/Recreation Centre,Parkway Forest Recreation Centre,0,15,36,0,45,96,Y,20048794,633338.34,4847808.85,22OCT13
+1907,St. Gabriel's Jr Ymca,Non Profit Agency,396,SPRING GARDEN AVE,,M2N 3H5,23,(416) 221-5000,Catholic Elementary School,St. Gabriel's Separate School,0,0,16,20,39,75,Y,564348,629460,4847291.61,22OCT13
+1909,Cougar Court Child Care Centre 15,Commercial Agency,3225,EGLINTON AVE E,109,M1J 2H7,36,(416) 266-9755,Other,,30,60,68,0,0,158,Y,8930394,643655.06,4844717.5,22OCT13
+1911,Lynngate Jr Ymca,Non Profit Agency,129,CASS AVE,,M1T 2B5,40,(416) 293-3020,Public Elementary School,Lynngate Jr Public School,0,10,24,20,30,84,Y,316950,636737.81,4848227.07,22OCT13
+1912,Bridlewood Jr Ymca,Non Profit Agency,60,BRIDLEWOOD BLVD,,M1T 1P7,40,(416) 492-3364,Public Elementary School,Bridlewood Public School,0,0,24,20,30,74,Y,312084,635570.86,4848684.04,22OCT13
+1913,Maryvale Jr Ymca,Non Profit Agency,1325,PHARMACY AVE,,M1R 2J1,37,(416) 447-8115,Public Elementary School,Maryvale Public School,0,10,24,20,30,84,Y,2820814,636208.18,4845794.22,22OCT13
+1914,David Lewis Jr Ymca,Non Profit Agency,130,FUNDY BAY BLVD,,M1W 3G1,39,(416) 490-1624,Public Elementary School,David Lewis Public School,0,0,35,0,30,65,Y,3073655,635282.27,4851833.83,22OCT13
+1915,High Park Jr Ymca,Non Profit Agency,2665,DUNDAS ST W,,M6P 1Y1,14,(416) 763-1195,Community/Recreation Centre,,0,10,42,0,30,82,Y,12189731,624192.72,4835544.27,22OCT13
+1918,Wellesworth School Age Ymca,Non Profit Agency,225,WELLESWORTH DR,,M9C 4S5,3,(647) 262-3337,Public Elementary School,Wellesworth Public School,0,0,0,0,24,24,Y,1042829,614754.67,4834499.42,22OCT13
+1919,Wedgewood School Age Ymca,Non Profit Agency,5,SWAN AVE,,M9B 1V1,5,(416) 236-0697,Public Elementary School,Wedgewood Public School,0,0,0,40,30,70,Y,9531172,617233.2,4833284.81,22OCT13
+1926,Derrydown School Age Ymca,Non Profit Agency,120,DERRYDOWN RD,,M3J 1R7,8,(647) 262-3332,Public Elementary School,Derrydown Public School,0,0,0,20,21,41,Y,507241,621242.4,4845951.88,22OCT13
+1927,Holy Spirit Jr Ymca,Non Profit Agency,3530,SHEPPARD AVE E,,M1T 3K7,40,(416) 913-0911,Catholic Elementary School,Holy Spirit Separate School,0,0,32,0,27,59,Y,6292601,636535.5,4848749.45,22OCT13
+1928,Pauline Johnson School Age Ymca,Non Profit Agency,35,DUNMURRAY BLVD,,M1T 2K2,40,(416) 292-5982,Public Elementary School,Pauline Johnson Junior Public School,0,0,0,20,15,35,Y,329105,636488.36,4849184.29,22OCT13
+1929,Glamorgan School Age Ymca,Non Profit Agency,51,ANTRIM CRES,,M1P 4N4,40,(416) 297-0128,Public Elementary School,Glamorgan Public School,0,0,0,0,22,22,Y,302317,637647.95,4847671.51,22OCT13
+1931,Secord School Age Ymca,Non Profit Agency,91,BARRINGTON AVE,,M4C 4Y9,31,(416) 691-1920,Community/Recreation Centre,Secord Community Centre,0,0,0,0,24,24,Y,6427766,636861.97,4838818.87,22OCT13
+1934,W.G. Miller School Age Ymca,Non Profit Agency,60,BENNETT RD,,M1E 3Y3,44,(416) 282-8632,Public Elementary School,William G. Miller Junior Public School,0,0,0,20,30,50,Y,306924,647645.92,4847576.27,22OCT13
+1935,McGregor Jr Ymca,Non Profit Agency,555,MORTIMER AVE,,M4J 2G9,29,(416) 463-2976,Public Elementary School,McGregor Public School,0,0,22,20,87,129,Y,29703,634805.49,4838579.66,22OCT13
+1937,Chester Jr Ymca,Non Profit Agency,115,GOWAN AVE,,M4K 2E4,29,(416) 421-8101,Public Elementary School,Chester Public School,0,0,16,50,42,108,Y,3232917,632830.33,4838274.27,22OCT13
+1938,William Burgess Jr Ymca,Non Profit Agency,100,TORRENS AVE,,M4J 2P5,29,(416) 423-5518,Public Elementary School,William Burgess Public School,0,15,24,40,30,109,Y,35916,633148.16,4838762.2,22OCT13
+1939,Albion Heights School Age Ymca,Non Profit Agency,45,LYNMONT RD,,M9V 3W9,1,(416) 740-0747,Public Elementary School,Albion Heights Public School,0,0,0,0,15,15,Y,10133520,613195.07,4842777.39,22OCT13
+1941,Humbercrest School Age Ymca,Non Profit Agency,14,ST MARKS RD,,M6S 2H7,13,(416) 769-6715,Public Elementary School,Humbercrest Junior Senior Public School,0,0,0,40,30,70,Y,74152,621654.44,4835045.25,22OCT13
+1942,Brian Schoolage Ymca,Non Profit Agency,95,BRIAN DR,,M2J 3Y6,33,(416) 491-0991,Public Elementary School,Brian Public School,0,0,0,0,30,30,Y,11467213,634224.07,4848759.38,22OCT13
+1943,Crestview School Age Ymca,Non Profit Agency,101,SENECA HILL DR,,M2J 2W3,33,(416) 498-9486,Public Elementary School,Crestview Public School,0,0,0,0,30,30,Y,560542,631952.94,4849459.85,22OCT13
+1951,Knob Hill School Age Ymca,Non Profit Agency,25,SEMINOLE AVE,,M1J 1M8,38,(416) 438-5484,Public Elementary School,Knob Hill Public School,0,0,0,0,22,22,Y,384283,640909.66,4844849.74,22OCT13
+1952,Hunter's Glen  School Age Ymca,Non Profit Agency,16,HAILEYBURY DR,,M1K 4X5,37,(416) 759-5105,Public Elementary School,Hunter's Glen Junior Public School,0,0,0,0,30,30,Y,341682,640076.34,4844878.87,22OCT13
+1956,Brimwood School Age Ymca,Non Profit Agency,151,BRIMWOOD BLVD,,M1V 1E5,41,(416) 356-2500,Public Elementary School,Brimwood  Blvd. Jr. Public School,0,0,0,0,15,15,Y,313306,638799.14,4852184.31,22OCT13
+1958,George Webster Jr Ymca,Non Profit Agency,2,CEDARCREST BLVD,,M4B 2N9,31,(416) 288-0997,Public Elementary School,George Webster Public School,0,0,21,0,24,45,Y,3111473,637006.22,4839953.37,22OCT13
+3495,Northview Heights Early Learning Centre,Non Profit Agency,550,FINCH AVE W,,M2R 1N6,10,(416) 739-0987,Public High School,Northview Heights Secondary School,12,15,8,0,0,35,Y,515952,625024.11,4847770.42,22OCT13
+3497,Scarborough Jr Ymca,Non Profit Agency,230,TOWN CENTRE CRT,,M1P 4Y7,38,(416) 296-9907x440,Community/Recreation Centre,Scarborough Ymca,10,30,24,0,0,64,Y,1370814,640471.79,4848096.81,22OCT13
+3499,Blue Wave Child Care Centre,Non Profit Agency,50,DUNCAIRN RD,,M3B 1C8,25,(416) 445-0602,Public Elementary School,Norman Ingram Public School,10,10,34,0,0,54,Y,510159,632884.1,4844091.83,22OCT13
+3507,Morrish Jr Ymca,Non Profit Agency,61,CANMORE BLVD,,M1C 3T7,44,(416) 724-1925,Public Elementary School,Morrish Public School,0,0,16,0,30,46,Y,20037846,646470.44,4850291.57,22OCT13
+3508,Super Kids Day Care Centre,Commercial Agency,1149,WESTON RD,,M6N 3S3,11,(416) 767-3960,Place of Worship,Church Of The Good Shepherd,0,15,34,0,0,49,Y,8492345,621793.5,4837978.86,22OCT13
+3513,Our Lady Of Peace School Age Ymca,Non Profit Agency,70,MATTICE AVE,,M9B 1T6,5,(416) 456-5800,Catholic Elementary School,Our Lady Of Peace Separate School,0,0,0,0,30,30,Y,9530460,617648.19,4833424.91,22OCT13
+3537,Marguerite Butt Child Care Centre,Public (City Operated) Agency,3197,LAKE SHORE BLVD W,,M8V 3X5,6,(416) 392-4652,Other,Lakeshore Lodge Home For The Aged,10,20,32,0,0,62,Y,6735910,619468.25,4828003,22OCT13
+3550,Lucy Maud Montgomery Jr Ymca,Non Profit Agency,95,MURISON BLVD,,M1B 2L6,42,(416) 287-7925,Public Elementary School,Lucy Maud Montgomery Public School,0,10,16,20,51,97,Y,366470,644040.19,4850652.93,22OCT13
+3551,Norman Ingram School Age Ymca,Non Profit Agency,50,DUNCAIRN RD,,M3B 1C8,25,(416) 443-0770,Public Elementary School,Norman Ingram Public School,0,0,0,0,30,30,Y,510159,632884.1,4844091.83,22OCT13
+3596,Metro Hall Child Care Centre,Public (City Operated) Agency,55,JOHN ST,STATION 1014,M5V 3C6,20,(416) 397-5170,Office Building,Metro Hall,10,20,32,0,0,62,Y,825934,629919.79,4833611.83,22OCT13
+3629,South Drive Children's Circle,Non Profit Agency,22,SOUTH DR,,M4W 1R1,27,(416) 963-9242,Public Elementary School,Rosedale Public School,0,0,22,0,42,64,Y,869568,630435.94,4837121.99,22OCT13
+3670,Brookfield Place Child Care Centre - Mothercraft,Non Profit Agency,10,FRONT ST W,,M5J 1C4,28,(416) 367-1758,Other,Brookfield Place,10,10,36,0,0,56,Y,8676875,630859.86,4833716.96,22OCT13
+3701,Branson Pre-School,Commercial Agency,4866,BATHURST ST,,M2R 1X4,10,(416) 635-6580,High Rise Apartment,,0,10,32,0,0,42,Y,487330,625283.25,4847460.16,22OCT13
+3709,Alderbuds Child Care,Non Profit Agency,399,THE WEST MALL,,M9C 2Y2,3,(416) 394-8284,Office Building,Etobicoke City Hall,10,10,36,0,0,56,Y,3086204,615687.75,4833086.19,22OCT13
+3712,Allenby Day Care,Non Profit Agency,391,ST CLEMENTS AVE,,M5N 1M2,16,(416) 487-7108,Public Elementary School,Allenby Public School,0,0,38,0,95,133,Y,873148,627861.34,4840603.24,22OCT13
+3733,Treetop Children's Centre,Non Profit Agency,80,BRAEMAR AVE,,M5P 2L4,22,(416) 484-8702,Public Elementary School,Oriole Park Junior School,0,0,48,0,45,93,Y,7323683,628125.26,4839845.64,22OCT13
+3736,John Wanless Child Care,Non Profit Agency,245,FAIRLAWN AVE,,M5M 1T2,16,(416) 488-8571,Public Elementary School,John Wanless Public School,0,0,40,0,98,138,Y,13503695,627899.79,4842753.04,22OCT13
+3767,Unicorn Day Care Centre,Non Profit Agency,454,AVENUE RD,,M4V 2J1,22,(416) 929-6841,Public Elementary School,Brown Junior Public School,0,0,48,50,75,173,Y,7992855,628838.36,4837897.32,22OCT13
+3774,Timothy Eaton Infant & Toddler Centre,Non Profit Agency,35,GLENDOWER CIRCT,,M1T 2Z3,39,(416) 490-0434,Public Elementary School,Highland Heights Jr. Public School,10,10,0,0,0,20,Y,4812502,636733.47,4850221.56,22OCT13
+3792,Massey Centre Early Learning Centre,Non Profit Agency,1102,BROADVIEW AVE,,M4K 2S5,29,(416) 425-3636x251,Purpose Built,Massey Centre For Women,12,20,16,0,0,48,Y,18344,632439.22,4838156.17,22OCT13
+3795,North Etobicoke Jr Ymca,Non Profit Agency,88,HUMBER COLLEGE BLVD,,M9V 5G3,1,(416) 744-4265,Low Rise Apartment,,10,20,32,0,0,62,Y,8127977,612845.29,4842809.01,22OCT13
+3810,Isabella Walton Child Care,Non Profit Agency,835,BIRCHMOUNT RD,,M1K 5K1,35,(416) 750-4598,High Rise Apartment,,10,10,32,0,0,52,Y,6727805,638722.06,4843030.23,22OCT13
+3829,Queen Victoria Child Care Centre,Non Profit Agency,100,CLOSE AVE,,M6K 2V3,14,(416) 530-0683,Public Elementary School,Queen Victoria Junior School,0,0,24,60,45,129,Y,784384,626246.59,4832442.26,22OCT13
+3875,Fleming Jr Ymca,Non Profit Agency,22,LITTLES RD,,M1B 5B5,42,(416) 287-8534,Public Elementary School,Fleming Public School,0,0,32,20,23,75,Y,4933051,644470.77,4852781.25,22OCT13
+3880,Casa Del Zotto Children's Centre,Non Profit Agency,3010,DUFFERIN ST,,M6B 4J5,15,(416) 256-6191,High Rise Apartment,Casa Del Zotto,0,0,20,24,30,74,Y,9655347,624456.03,4840808.44,22OCT13
+3884,Toronto Eaton Centre - Mothercraft,Non Profit Agency,14,TRINITY SQ,,M5G 1B1,27,(416) 340-9651,Other,Marriott Hotel,10,10,36,0,0,56,Y,7762783,630503.3,4834548.13,22OCT13
+3893,Antica Village Children's Day Care Centre,Commercial Agency,360,HULLMAR DR,,M3N 2X7,8,(416) 661-8666,Community/Recreation Centre,Antica Recreation Centre,0,0,24,0,15,39,Y,11267566,618829.28,4847559.95,22OCT13
+3942,N.Y.A.D. Scarborough Village,Non Profit Agency,15,LUELLA ST,,M1J 3P2,38,(416) 261-4815,Public Elementary School,Scarborough Village Public School,0,10,8,20,30,68,Y,13515947,643143.81,4844766.96,22OCT13
+3952,Millvalley Child Care Centre,Commercial Agency,411,MILL RD,,M9C 1Y9,3,(416) 621-7553,Public Elementary School,Mill Valley,0,0,52,20,30,102,Y,7471919,613951.42,4833102.81,22OCT13
+3957,Swansea Kids Place,Non Profit Agency,207,WINDERMERE AVE,,M6S 3J9,13,(416) 763-1908,Public Elementary School,Swansea Public School,0,0,0,0,65,65,Y,7635396,622815.58,4833178.29,22OCT13
+3959,Sunflower House,Non Profit Agency,162,DUNN AVE,,M6K 2R6,14,(416) 530-0884,House,,10,10,24,0,0,44,Y,8168622,626352.31,4832523.9,22OCT13
+3963,Le Petit Chaperon Rouge Etobicoke,Non Profit Agency,755,ROYAL YORK RD,,M8Y 2T3,5,(416) 236-4557,Catholic Elementary School(French),Ecole Sainte Marguerite D'Youville,0,10,16,44,60,130,Y,10142951,620491.24,4832302.88,22OCT13
+3967,Lady Bug Day Care Centre,Commercial Agency,400,BURNHAMTHORPE RD,,M9B 2A8,5,(416) 626-1251,Place of Worship,St. James United Church,0,0,48,0,0,48,N,991023,616422.4,4833423.17,22OCT13
+3970,Grace Church On-The-Hill Child Care Centre,Non Profit Agency,300,LONSDALE RD,,M4V 1X4,22,(416) 932-3502,Place of Worship,Grace Church On-The-Hill,20,42,30,0,0,92,Y,7273403,628150.2,4838394.55,22OCT13
+3972,Network Child Care Services - Ossington,Non Profit Agency,756,OSSINGTON AVE,,M6G 3T9,19,(416) 530-7766,Other,Italian Congress Building,0,0,40,0,0,40,Y,8417700,626877.89,4835383.43,22OCT13
+3992,Our Lady Of Sorrows School Age Ymca,Non Profit Agency,32,MONTGOMERY RD,,M8X 1Z4,5,(416) 305-6633,Catholic Elementary School,Our Lady Of Sorrows Separate School,0,0,0,0,60,60,Y,1019749,619480.21,4833624.3,22OCT13
+4012,Kateri Kids Child Care Centre,Non Profit Agency,70,MARGARET AVE,,M2J 4C5,33,(416) 496-2965,Catholic Elementary School,Blessed Kateri Tekakwitha Separate School,0,0,24,0,24,48,Y,540372,633712.39,4849204.65,22OCT13
+4028,Waterfront Montessori Children's Centre,Non Profit Agency,18,WYANDOT AVE,,M5J 2M9,28,(416) 203-1017,Community/Recreation Centre,Algonquin Island Residents Association,0,0,24,0,0,24,Y,8237599,632201.64,4831483.24,22OCT13
+4044,Mary Ward Child Care Centre,Non Profit Agency,3200,KENNEDY RD,,M1V 3S8,39,(416) 297-9660,Catholic High School,Mary Ward Separate School,10,15,24,0,0,49,Y,9467845,636389.08,4852584.93,22OCT13
+4049,Rouge Valley Jr Ymca,Non Profit Agency,30,DURNFORD RD,,M1B 4X3,44,(416) 282-7253,Public Elementary School,Rouge Valley Public School,0,10,16,40,45,111,Y,9602601,648706.34,4851029.84,22OCT13
+4074,St. Bede Child Care Centre,Non Profit Agency,521,SEWELLS RD,,M1B 5H3,42,(416) 724-7132,Catholic Elementary School,St. Bede's Separate School,0,0,32,0,37,69,Y,11272303,644216.29,4852997.1,22OCT13
+4110,Whitney Child Centre,Non Profit Agency,119,ROSEDALE HEIGHTS DR,,M4T 1C7,27,(416) 481-0211,Public Elementary School,Whitney Public School,0,15,60,0,45,120,Y,861261,630680.42,4838182.81,22OCT13
+4115,Churchill Chums School Age Child Care Centre,Non Profit Agency,188,CHURCHILL AVE,,M2N 1Z5,23,(416) 221-5923,Public Elementary School,Churchill Public School,10,10,16,16,60,112,Y,499519,626584.15,4847391.49,22OCT13
+4144,Heath And Ferndale Child Care Program,Non Profit Agency,23,FERNDALE AVE,,M4T 2B4,22,(416) 961-9678,Public Elementary School,Deer Park Public School,0,15,24,40,45,124,Y,4070042,629614.46,4838438.86,22OCT13
+4176,Denlow Community Child Care Centre,Non Profit Agency,50,DENLOW BLVD,,M3B 1P7,25,(416) 443-9394,Public Elementary School,Denlow Public School,0,0,20,0,25,45,Y,507023,631693.79,4844722.33,22OCT13
+4184,Native Child And Family Services Of Toronto-Gizhaadaawgamik,Non Profit Agency,935,DUNDAS ST E,,M4M 1R4,30,(416) 469-8417,Public Elementary School,Dundas Public School/First Nations Public School,0,0,0,20,0,20,Y,7576813,633130.42,4835444.23,22OCT13
+4186,York Humber Child Care,Non Profit Agency,100,EMMETT AVE,,M6M 2E6,11,(416) 241-5534,Public High School,York Humber High School,10,15,16,0,0,41,Y,9344875,620456.69,4838084.5,22OCT13
+4218,Dunlace Children's Centre,Non Profit Agency,20,DUNLACE DR,,M2L 2S1,25,(416) 445-7976,Public Elementary School,Dunlace Public School,0,0,24,20,40,84,Y,9963196,631163.95,4846558.49,22OCT13
+4240,French Connection,Non Profit Agency,40,ERSKINE AVE,,M4P 1Y2,25,(416) 485-1678,Public Elementary School,John Fisher Public School,0,0,0,16,60,76,Y,11541855,629090.11,4840903.83,22OCT13
+4258,Port Royal Jr Ymca,Non Profit Agency,410,PORT ROYAL TRAIL,,M1V 4R1,41,(416) 298-8911,Public Elementary School,Port Royal Public School,0,0,32,0,30,62,Y,6266944,637504.9,4853631.88,22OCT13
+4263,Lambton Park Child Care Centre,Non Profit Agency,50,BERNICE CRES,,M6N 1W9,11,(416) 762-5177,Public Elementary School,Lambton Park Community School,0,0,20,20,0,40,Y,52404,621055.35,4835825.79,22OCT13
+4276,Harbourfront Child Care Centre,Non Profit Agency,650,QUEENS QUAY W,101,M5V 3N2,20,(416) 203-1300,Purpose Built,,10,10,16,0,0,36,Y,857290,629143.14,4832435.47,22OCT13
+4307,D.A.S. Day Care,Non Profit Agency,85,LOWER JARVIS ST,,M5E 1R8,28,(416) 368-9735,Public Elementary School,Downtown Alternative Primary School,0,0,0,20,30,50,Y,8351468,631409.65,4833816.77,22OCT13
+4310,Trinity Bellwoods Community Children's Group/Care,Non Profit Agency,155,CRAWFORD ST,,M6J 2V5,19,(416) 537-9021,Community/Recreation Centre,Trinity Community Recreation Centre,0,0,0,0,35,35,Y,9468176,627786.63,4833602,22OCT13
+4319,Brian Petits Amis,Non Profit Agency,95,BRIAN DR,,M2J 3Y6,33,(416) 491-1231,Public Elementary School,Brian Public School,0,0,36,0,0,36,Y,11467213,634224.07,4848759.38,22OCT13
+4323,Owen Community Learning Centre,Non Profit Agency,111,OWEN BLVD,,M2P 1G6,25,(416) 730-8948,Public Elementary School,Owen Public School,0,0,24,12,42,78,Y,548301,629409.19,4845035.04,22OCT13
+4372,Briarcrest Child Care,Non Profit Agency,60,WELLESWORTH DR,,M9C 4R3,3,(416) 620-9914,Public Elementary School,Briarcrest Junior Public School,0,0,24,30,30,84,Y,8344927,614465.36,4835586.37,22OCT13
+4436,St. Cyril's Before & After School Programme,Non Profit Agency,18,KEMPFORD BLVD,,M2N 2B9,23,(416) 222-0151,Catholic Elementary School,St. Cyril's Separate School,0,0,40,0,59,99,Y,532995,627402.6,4848106.9,22OCT13
+4438,Beaches Child Care Centre,Non Profit Agency,646,KINGSTON RD,,M4E 1P9,32,(416) 691-0569,House,,0,15,31,0,0,46,Y,7586694,637095.41,4837393.11,22OCT13
+4543,Network Group Satellite,Non Profit Agency,720,OSSINGTON AVE,,M6G 3T7,19,(416) 536-2331,Place of Worship,Ossington Avenue Baptist  Church,0,15,24,0,0,39,Y,9487026,626917.81,4835299,22OCT13
+4545,Northlea Community Child Care,Non Profit Agency,305,RUMSEY RD,,M4G 1R4,26,(416) 424-2890,Public Elementary School,Northlea Public School,0,0,40,0,80,120,Y,33244,631283.23,4841246,22OCT13
+4547,N.Y.A.D. Corvette,Non Profit Agency,30,CORVETTE AVE,,M1K 3G2,35,(416) 266-4990,Public Elementary School,Corvette Public School,0,0,36,40,0,76,Y,323066,639957.04,4842740,22OCT13
+4549,N.Y.A.D. Progress,Non Profit Agency,939,PROGRESS AVE,,M1G 3T8,38,(416) 431-3204,Public High School,Centennial College Progress Campus,3,10,24,0,0,37,Y,13503977,642275.82,4849213.31,22OCT13
+4565,Life-Bridge Child Care,Non Profit Agency,330,UNIVERSITY AVE,,M5G 1R8,20,(416) 552-6323,Office Building,Canada Life Building,10,15,32,0,0,57,Y,877904,630017.33,4834228.66,22OCT13
+4571,Squirrel's Nest Child Care Centre,Non Profit Agency,1305,ELLESMERE RD,,M1P 2Y2,37,(416) 438-6383,Purpose Built,,10,15,40,0,30,95,Y,6786836,639691.52,4847445.56,22OCT13
+4590,Garderie Chez Tante Laure,Non Profit Agency,1375,MORNINGSIDE AVE,,M1B 3C5,42,(416) 284-7185,Public Elementary School (French),Ecole Elementaire Laure-Riese,0,0,34,0,15,49,Y,2370095,644606.87,4851972.01,22OCT13
+4637,Jewish Russian Community Centre Preschool & Day Care,Non Profit Agency,5950,BATHURST ST,UNIT #109,M2R 1Y9,10,(416) 736-0781,High Rise Apartment,,0,15,84,0,0,99,Y,9313350,625024.58,4848756.91,22OCT13
+4680,Riverdale Child Care (Woodgreen),Non Profit Agency,1094,GERRARD ST E,,M4M 2A1,30,(416) 645-6000x1155,Public High School,Riverdale Collegiate Institue,10,15,24,0,0,49,Y,11585699,634227.44,4836351.68,22OCT13
+4708,North York Little Prints Daycare,Non Profit Agency,20,YORK MILLS RD,UNIT 210,M2P 2C2,25,(416) 229-0572,Other,,10,15,40,20,0,85,Y,11533940,628439.39,4844510.14,22OCT13
+4714,Malvern Child Care Centre,Public (City Operated) Agency,1321,NEILSON RD,,M1B 3C2,42,(416) 392-3766,Purpose Built,,10,20,52,0,0,82,Y,12834077,643206.57,4851861.02,22OCT13
+4719,Parkdale Public School Child Care,Non Profit Agency,78,SEAFORTH AVE,,M6K 3L2,14,(416) 393-8386,Public Elementary School,Parkdale Public School,0,0,0,0,30,30,Y,10180114,626065.47,4833208.6,22OCT13
+4745,Downtown Montessori,Non Profit Agency,200,FRONT ST W,,M5V 3K2,20,(416) 340-8757,Other,Simcoe Place,12,15,32,0,0,59,Y,10598283,630196.54,4833478.11,22OCT13
+4750,First Stage - North Albion,Non Profit Agency,2580,KIPLING AVE,,M9V 3B2,1,(416) 394-4688,Public High School,North Albion Collegiate Institute,10,15,16,0,0,41,Y,3497653,613903.94,4844539.59,22OCT13
+4839,Macaulay - Humberwood Child Development Centre,Non Profit Agency,850,HUMBERWOOD BLVD,,M9W 7A6,2,(416) 394-4766,City owned Community/Recreation Centre,Humberwood Downs / Holy Child Catholic School,0,10,43,20,30,103,Y,12551948,611197.06,4842465.8,22OCT13
+4847,Centennial College Early Childhood Education Centre - East York,Non Profit Agency,550,MORTIMER AVE,,M4J 5C2,29,(416) 289-5104,Purpose Built,Centennial College Of Applied Arts & Technology,10,10,36,0,0,56,Y,29702,634789.96,4838651.63,22OCT13
+4849,Macaulay Child Development Centre -Keelesdale,Non Profit Agency,200,BICKNELL AVE,LOWER LEVEL,M6M 4G9,12,(416) 394-4222x221,Public Elementary School,Keelesdale Junior Public School,0,0,16,20,25,61,Y,52633,622738.11,4838009.67,22OCT13
+4887,Learning Jungle - Buttonwood Campus,Commercial Agency,100,ALLANHURST DR,,M9A 4K4,4,(416) 241-3800,Public School (Closed),Buttonwood Hill,20,30,48,0,0,98,Y,7792249,619324.04,4837191.46,22OCT13
+4936,Sheppard Business Park Child Care Centre,Commercial Agency,1220,SHEPPARD AVE E,P.O. BOX  51,M2K 2S5,24,(416) 499-1499,Other,,0,30,48,0,0,78,Y,561900,631330.55,4847880.41,22OCT13
+4937,Elkhorn Jr Ymca,Non Profit Agency,10,ELKHORN DR,,M2K 1J3,24,(416) 229-6324,Public Elementary School,Elkhorn Public School,0,0,20,40,60,120,Y,4504013,630363.72,4847515.64,22OCT13
+4948,Guildwood Satellite Program,Commercial Agency,85,LIVINGSTON RD,,M1E 1K7,43,(416) 269-0885,Place of Worship,Church Of The Holy Trinity (Guildwood),0,0,0,0,15,15,Y,11342932,645045.03,4845124.49,22OCT13
+4950,General Mercer Early Learning Centre,Non Profit Agency,30,TURNBERRY AVE,,M6N 1P8,17,(416) 651-3983,Public Elementary School,General Mercer Public School,0,0,16,0,24,40,Y,877576,623796.73,4837151.76,22OCT13
+4965,Maurice Cody Child Care,Non Profit Agency,364,BELSIZE DR,,M4S 1N2,22,(416) 484-4071,Public Elementary School,Maurice Cody Public School,0,0,16,60,90,166,Y,13971288,630718.53,4840145.64,22OCT13
+4970,St. Lawrence Infant Toddler Centre,Non Profit Agency,4,MARKET ST,,M5E 1M6,28,(416) 363-5989,High Rise Apartment,,20,20,0,0,0,40,Y,14113279,631304.22,4833811.55,22OCT13
+4987,Cabbagetown Early Learning Centre,Non Profit Agency,162,PARLIAMENT ST,,M5A 2Z1,28,(416) 968-0990,Other,,10,20,32,0,0,62,Y,8754456,631851.36,4834634.75,22OCT13
+5070,Muppets Infant & Toddler Centre 312,Commercial Agency,312,MAIN ST,,M4C 4X7,31,(416) 690-8668,House,,10,0,53,0,0,63,Y,8232326,636811.03,4838465.45,22OCT13
+5111,St. Stephen's - Waterfront Child Care Centre,Non Profit Agency,635,QUEENS QUAY W,,M5V 3G3,20,(416) 260-9442,Public Elementary School,Waterfront Public School,0,0,20,40,0,60,Y,20056424,629276.27,4832443.25,22OCT13
+5166,Learning Jungle School - Briarcrest Manor,Commercial Agency,1982,ISLINGTON AVE,,M9P 3N5,4,(416) 244-8691,HUMSRV,,6,10,29,0,0,45,Y,1009107,617135.65,4838836,22OCT13
+5300,Orde Day Care Satellite,Non Profit Agency,132,ST PATRICK ST,,M5T 1V1,20,(416) 591-0040,Public High School,Contact Alternative School,10,15,24,0,0,49,Y,7796144,629785.46,4834455.01,22OCT13
+5406,Tic Toc Day Care,Commercial Agency,1117,BIRCHMOUNT RD,,M1K 1S6,37,(416) 755-1789,House,,10,10,16,20,0,56,Y,308491,638447.31,4843991.02,22OCT13
+5468,Growing Tykes Learning Centre 910,Non Profit Agency,910,MARKHAM RD,,M1H 2Y2,38,(416) 438-4088,Purpose Built,Growing Tykes Learning Centre,20,30,72,0,30,152,Y,8745651,642489.9,4847517.46,22OCT13
+5543,Millwood Jr Ymca,Non Profit Agency,222,MILL RD,,M9C 1Y2,3,(416) 622-6331,Public Elementary School,Millwood Public School,0,0,21,0,45,66,Y,1018827,614766.61,4831913.86,22OCT13
+5699,Ancaster Satellite,Public (City Operated) Agency,44,ANCASTER RD,,M3K 1S6,9,(416) 392-5576,Public Elementary School,Ancaster Public School,0,0,0,0,28,28,Y,482522,623446.15,4843123.26,22OCT13
+5700,Jesse Ketchum Satellite,Public (City Operated) Agency,61,DAVENPORT RD,,M5R 1H4,27,(416) 392-5061,Public Elementary School,Jesse Ketchum Public School,0,0,0,40,0,40,Y,7979412,629603.34,4836586.55,22OCT13
+5702,Gilder Satellite,Public (City Operated) Agency,47,GILDER DR,,M1K 4P7,37,(416) 392-3743,Low Rise Apartment,,0,0,0,0,15,15,Y,9086393,640485.53,4843846.8,22OCT13
+5788,Annex Early Learning Centre,Non Profit Agency,161,MADISON AVE,,M5R 2S6,20,(416) 924-0545,House,,10,15,26,0,15,66,Y,836346,628572.42,4836601.76,22OCT13
+5792,Courtleigh Place Child Care Centre,Commercial Agency,135,FENELON DR,,M3A 3K7,34,(416) 446-2875,High Rise Apartment,,10,25,24,0,0,59,Y,20015349,633772.12,4846651.49,22OCT13
+5808,Scarborough Day Nursery School,Commercial Agency,51,EASTWOOD AVE,,M1N 3G9,36,(416) 698-5833,House,,0,0,44,0,30,74,Y,330339,639603.93,4838898.16,22OCT13
+5828,Muppets Children's Centre 314,Commercial Agency,314,MAIN ST,,M4C 4X7,31,(416) 690-8668,House,,10,10,32,0,0,52,Y,8232327,636807.2,4838472.77,22OCT13
+5834,Rockford Child Care,Non Profit Agency,60,ROCKFORD RD,,M2R 3A7,10,(416) 663-6286,Public Elementary School,Rockford Public School,0,15,24,0,45,84,Y,9212874,624518.66,4849071.53,22OCT13
+5847,Studio 123,Non Profit Agency,401,RICHMOND ST W,BOX 123,M5V 3A8,20,(416) 343-0093,Other,401 Richmond,4,10,16,0,0,30,Y,7930615,629447.49,4833779.67,22OCT13
+5861,Harmony Childcare Centre,Non Profit Agency,124,NORTHCLIFFE BLVD,,M6E 3K4,17,(416) 656-8902,Catholic Elementary School,St. Clair Catholic School,0,0,44,0,46,90,N,68935,625606.48,4837224.57,22OCT13
+5863,Institute Of Child Study After School Daycare,Non Profit Agency,45,WALMER RD,,M5R 2X2,20,(416) 934-4514,Other,University Of Toronto,0,0,24,0,21,45,N,2377004,628503.13,4836190.93,22OCT13
+5871,St. Alphonsus,Non Profit Agency,540,ST CLAIR AVE W,,M6C 1A4,21,(416) 651-2664,Place of Worship,St. Alphonsus Catholic Church,0,10,36,0,15,61,N,9187243,627312.97,4837664.9,22OCT13
+5873,Vaughan Co-Op Nursery School,Non Profit Agency,729,ST CLAIR AVE W,,M6C 1B2,21,(416) 651-6718,Place of Worship,St. Matthews United Church,0,10,32,0,0,42,N,12510434,626737.58,4837437.17,22OCT13
+5878,Bennington Heights Child Care Centre,Commercial Agency,76,BENNINGTON HEIGHTS DR,,M4G 1B1,26,(416) 423-6522,Public Elementary School,Bennington Heights Public School,0,0,40,0,30,70,Y,2945619,631378.58,4838943.43,22OCT13
+5882,Immaculata Day Care,Non Profit Agency,57,SYLVAN AVE,,M6H 1G4,18,(416) 534-5773,Purpose Built,,0,25,16,0,15,56,Y,876217,626395.52,4834448.58,22OCT13
+5897,Seneca Hill Centre For Early Learning,Commercial Agency,350,SENECA HILL DR,SUITE 101,M2J 4S7,33,(416) 499-5112,High Rise Apartment,,20,20,50,0,0,90,Y,560545,632246.92,4849725.83,22OCT13
+5908,St. Monica's Satellite (Central Eglinton),Non Profit Agency,14,BROADWAY AVE,,M4P 1T4,25,(416) 440-0383,Catholic Elementary School,St. Monica's Catholic School,0,0,0,0,45,45,Y,7632822,629081.15,4840707.11,22OCT13
+5958,Children's Playgarden /Toronto Military Family Resource Centre,Non Profit Agency,5,YUKON LANE,,M3K 0A1,9,(416) 633-6200x4317,Other,,10,15,24,0,0,49,Y,14677775,623150.56,4845071.24,22OCT13
+6103,Withrow Child Care Centre,Non Profit Agency,25,BAIN AVE,,M4K 1E5,30,(416) 463-1457,Public Elementary School,Withrow Public School,0,0,24,20,45,89,Y,765985,632834.31,4836369.73,22OCT13
+6366,Bessborough Child Care Centre,Non Profit Agency,211,BESSBOROUGH DR,,M4G 3K2,26,(416) 467-0389,Public Elementary School,Bessborough Drive Public School,0,0,19,0,56,75,N,17935,631302.51,4840423.19,22OCT13
+6368,Dentonia Park Co-Op Nursery School,Non Profit Agency,140,DAWES RD,,M4C 5C2,31,(416) 691-1202,Place of Worship,Presbyterian Community Church,0,0,24,0,0,24,N,20553,637175,4839048.2,22OCT13
+6374,Children's Creative Corner Co-Op Nursery School,Non Profit Agency,125,EVELYN CRES,RM. 234,M6P 3E3,13,(416) 769-4938,Public High School,Western Technical Commercial School,0,0,16,0,0,16,N,7986677,622989.66,4834696.24,22OCT13
+6376,Mrs. Park's Nursery School,Commercial Agency,822,MILLWOOD RD,,M4G 1W4,26,(416) 424-2135,Place of Worship,Leaside United Church,0,0,44,0,0,44,N,29072,631416.59,4840211.06,22OCT13
+6378,Alderwood Co-Op Nursery School,Non Profit Agency,44,DELMA DR,,M8W 4N6,6,(416) 346-6242,Place of Worship,Alderwood United Church,0,0,16,0,0,16,N,996022,616920.29,4828612.09,22OCT13
+6382,John G. Althouse - Princess Margaret,Non Profit Agency,65,TROMLEY DR,,M9B 5Y7,3,(416) 394-6989,Public Elementary School,Princess Margaret Junior Public School,0,0,0,20,60,80,Y,10513559,616143.69,4836153.2,22OCT13
+6384,John G. Althouse B & A School Program,Non Profit Agency,130,LLOYD MANOR RD,,M9B 5K1,3,(416) 394-6847,Public Elementary School,John G. Althouse Middle School,0,0,0,0,30,30,N,10512731,616551.38,4835805.83,22OCT13
+6390,Plasp - Father Serra,Non Profit Agency,111,SUN ROW DR,,M9P 3J3,4,(905) 870-1711,Catholic Elementary School,Father Serra Catholic School,0,0,0,20,45,65,Y,1035168,617911.91,4837843.67,22OCT13
+6395,St. Gregory's Before & After School Programme,Non Profit Agency,126,RATHBURN RD,,M9B 2K6,3,(416) 236-8794,Catholic Elementary School,St. Gregory's Catholic School,0,0,0,0,49,49,N,8115497,617304.73,4834877.16,22OCT13
+6397,Bloor West Montessori School,Non Profit Agency,3962,BLOOR ST W,,M9B 1M3,5,(416) 234-9441,Place of Worship,St. Matthews Church,0,0,24,0,0,24,N,8740071,617027.69,4832621.73,22OCT13
+6399,Broadacres Before And After School Program,Non Profit Agency,45,CRENDON DR,,M9C 3G6,3,(416) 620-9753,Public Elementary School,Broadacres Junior Public School,0,0,0,0,30,30,N,7515119,615149.84,4833554.04,22OCT13
+6403,Etobicoke Montessori School,Commercial Agency,4,LA ROSE AVE,,M9P 1A5,2,(416) 246-9896,Purpose Built,Standalone Child Care Building,0,0,48,0,0,48,N,1012251,619720.19,4837953.31,22OCT13
+6424,Plasp - St. Clements,Non Profit Agency,4319,BLOOR ST W,,M9C 2A2,3,(905) 890-1711,Catholic Elementary School,St. Clements Catholic School,0,0,0,0,45,45,N,988595,615035.86,4831794.61,22OCT13
+6425,Humbervale Montessori School,Commercial Agency,1447,ROYAL YORK RD,,M9P 3V8,2,(416) 244-4001,Commercial Building,Humbervale Place,0,0,56,0,0,56,N,1029713,618652.3,4837887.37,22OCT13
+6427,Kingsway Nursery School,Commercial Agency,85,THE KINGSWAY,,M8X 2T6,5,(416) 233-1491,Place of Worship,Kingsway Lampton United Church,0,0,48,0,0,48,N,10079873,620310.08,4834183.78,22OCT13
+6431,Martingrove Montessori School,Commercial Agency,35,HEDGES BLVD,,M9B 3C3,3,(416) 626-8176,Place of Worship,Martingrove Baptist Church,0,0,25,0,0,25,N,10575666,616136.21,4835832.38,22OCT13
+6433,New Toronto Co-Op Nursery School,Non Profit Agency,153,LAKE SHORE DR,,M8V 1Z9,6,(416) 259-8776,Other,New Toronto Lawn Bowling Club,0,0,24,0,0,24,N,7369630,620616.66,4827698.06,22OCT13
+6435,Oxford Little Readers Program,Commercial Agency,4195,DUNDAS ST W,4,M8X 1Y4,5,(416) 234-1054,Other,4195 Dundas St W,0,0,36,0,0,36,N,7257506,620035.76,4834977.93,22OCT13
+6437,Prince Edward Montessori School Of Toronto,Commercial Agency,2850,BLOOR ST W,,M8X 1B2,5,(416) 234-9127,Place of Worship,All Saints Anglican Church,0,0,32,0,0,32,N,988255,620548.38,4833761.83,22OCT13
+6443,Rosethorn Satellite Child Care,Commercial Agency,2,REMINGTON DR,,M9A 2J1,4,(416) 239-4682,Public Elementary School,Rosethorn Junior Public School,0,0,20,0,90,110,N,1026805,617750.86,4834916.34,22OCT13
+6445,Sonechko Day Care,Non Profit Agency,301,LANOR AVE,,M8W 2R1,6,(416) 255-7555,Public School (Closed),Douglas Park Public School (Closed),0,9,24,0,0,33,N,7323719,618183.44,4829481,22OCT13
+6447,St. George's School Age Child Care Programme,Non Profit Agency,70,PRINCESS ANNE CRES,,M9A 2P7,4,(416) 231-2433,Public Elementary School,St. George's Junior Public School,0,0,0,20,45,65,Y,1024923,617546.22,4836321.5,22OCT13
+6449,Sunnylea Child Care Centre,Non Profit Agency,35,GLENROY AVE,,M8Y 2M2,5,(416) 233-6509,Public Elementary School,Sunnylea Junior School,0,10,24,0,55,89,N,6807238,620414.94,4833022.13,22OCT13
+6451,Sunnylea Co-Operative Nursery School,Non Profit Agency,35,GLENROY AVE,,M8Y 2M2,5,(416) 716-1258,Public Elementary School,Sunnylea Junior Middle School,0,0,16,0,0,16,N,6807238,620414.94,4833022.13,22OCT13
+6453,Plasp - Humber Valley Village,Non Profit Agency,65,HARTFIELD RD,,M9A 3E1,4,(905) 890-1711,Public Elementary School,Humber Valley Village Junior Middle Public School,0,0,0,20,30,50,Y,1006145,618718.95,4835556.51,22OCT13
+6455,Jenny Lynn Day Care,Non Profit Agency,160,SILVERHILL DR,,M9B 3W7,5,(416) 234-1791,Public School (Closed),Cloverdale Public School,0,10,16,0,24,50,N,9109922,616850.31,4832005,22OCT13
+6459,Princess Margaret Nursery School,Non Profit Agency,70,PRINCESS ANNE CRES,,M9A 2P7,4,(416) 233-8213,Public Elementary School,St. George's Junior Public School,0,0,32,0,0,32,N,1024923,617546.22,4836321.5,22OCT13
+6461,St. George's (Islington) Nursery,Non Profit Agency,4600,DUNDAS ST W,,M9A 1A5,4,(416) 233-7510,Place of Worship,St. George's On The Hill Anglican Church,0,0,64,0,0,64,N,3125850,619228.23,4834610.84,22OCT13
+6463,Hydro Bright Lights Childcare Centre,Non Profit Agency,800,KIPLING AVE,"KP 100 BUILDING, UNIT 5",M8Z 6C4,5,(416) 207-6856,Purpose Built,Ontario Power Generator Plant,10,15,26,0,0,51,N,9722613,618360.05,4831624.6,22OCT13
+6465,Lambton - Kingsway B & After School Program,Non Profit Agency,525,PRINCE EDWARD DR N,,M8X 2M6,5,(416) 394-6400,Public Elementary School,Lamton-Kingsway Junior Middle School,0,0,0,0,55,55,N,7033947,620185.65,4834819.29,22OCT13
+6467,Royal York Road School,Non Profit Agency,851,ROYAL YORK RD,,M8Y 2V3,5,(416) 239-1555,Place of Worship,Royal York Road United Church,0,0,30,0,0,30,N,10144721,620249.46,4833051.82,22OCT13
+6471,Plasp - All Saints,Non Profit Agency,1435,ROYAL YORK RD,,M9P 3A7,2,(905) 890-1711,Catholic Elementary School,All Saints Catholic School,0,0,0,0,73,73,N,1029710,618693.47,4837788,22OCT13
+6474,Silver Creek Centre For Early Learning & Development,Non Profit Agency,65,HARTSDALE DR,,M9R 2S8,4,(416) 249-9770,Public School (Closed),Silver Creek Nursery School,0,9,23,0,0,32,Y,1006240,617242.11,4837496.92,22OCT13
+6476,Garderie Rayon De Soleil,Non Profit Agency,1,NESS DR,,M3A 2W1,34,(416) 444-3464,Catholic Elementary School(French),Ste. Madeleine Catholic School,0,0,24,0,45,69,N,545070,635000.16,4846580.51,22OCT13
+6480,Mallow Day Care Centre,Commercial Agency,235,DONWAY E,,M3B 2Y8,34,(416) 446-1726,Place of Worship,Donway Baptist Church,0,0,22,0,0,22,N,568402,633466.92,4844185.57,22OCT13
+6490,Central Montessori Schools - Florence,Commercial Agency,157,FLORENCE AVE,,M2N 1G5,23,(416) 222-5097,Place of Worship,Korean Methodist Church,0,15,40,0,15,70,N,517058,627370.25,4845798.34,22OCT13
+6492,Central Montessori Schools - Sheppard,Commercial Agency,200,SHEPPARD AVE E,,M2N 3A9,23,(416) 222-5940,Office Building,,0,15,64,0,0,79,N,5266268,628641.12,4846665.23,22OCT13
+6498,Lansing Co-Op Nursery School,Non Profit Agency,80,CHURCH AVE,,M2N 4G1,23,(416) 225-4581,Purpose Built,Lansing Co-Op Nursery,0,0,52,0,0,52,N,12383206,627965.48,4847881.79,22OCT13
+6502,Menorah Nursery,Commercial Agency,4300,BATHURST ST,,M3H 6A4,10,(416) 638-6910,High Rise Apartment,,0,15,32,0,0,47,N,487297,625721.07,4845389.58,22OCT13
+6508,Lee Wiggins Childcare Centre (The),Non Profit Agency,4700,KEELE ST,RM 201,M3J 1P3,8,(416) 736-5959,Other,York University,0,0,25,0,0,25,N,20029109,620518.27,4847574.16,22OCT13
+6513,Armour Heights Child Care Program,Non Profit Agency,148,WILSON AVE,108,M5M 3A5,16,(416) 486-6881,Public Elementary School,Armour Heights Public School,0,0,24,0,45,69,N,576041,627252.11,4844088.42,22OCT13
+6515,Lawrence Park School,Commercial Agency,2180,BAYVIEW AVE,,M4N 3K7,25,(416) 489-4459,Place of Worship,Lawrence Park Community Church,0,30,75,0,0,105,N,487610,630428.36,4842387.02,22OCT13
+6517,St. Philip's Community Preschool,Non Profit Agency,375,MELROSE AVE,,M5M 1Z6,16,(416) 782-8026,Place of Worship,Melrose Community Church,0,0,24,0,0,24,N,542320,627265.2,4842812.15,22OCT13
+6519,Carmelite Missionary Sisters Of St. Theresa Of Child Jesus,Non Profit Agency,1196,WILSON AVE,,M3M 1H3,9,(416) 636-6123,Purpose Built,Carmelite Missionary Sisters,0,14,72,0,30,116,N,576359,621724.31,4842271.44,22OCT13
+6521,Temple Sinai Nursery School,Non Profit Agency,210,WILSON AVE,,M5M 3B1,16,(416) 487-3281,Synagogue,Temple Sinai Congregation,0,42,66,0,0,108,N,576050,626768.98,4843934.29,22OCT13
+6527,Blessed Trinity Before & After School,Non Profit Agency,3205,BAYVIEW AVE,,M2K 1G3,24,(416) 226-3336,Catholic Elementary School,Blessed Trinity Catholic School,0,0,18,0,15,33,Y,9602629,629383.17,4849238.92,22OCT13
+6529,Childlife Preschool,Commercial Agency,19,DON RIDGE DR,,M2P 1H3,25,(416) 222-3361,Place of Worship,St. John's Church (York Mills),0,0,48,0,0,48,N,508075,628389.47,4844784.26,22OCT13
+6533,Rumball Early Education Centre,Non Profit Agency,2395,BAYVIEW AVE,,M2L 1A2,25,(416) 449-9651,Purpose Built,The Bob Rumball Centre For The Deaf,0,0,20,0,0,20,Y,487624,630405.8,4843464.01,22OCT13
+6535,Hillcrest Progressive School,Non Profit Agency,59,PLYMBRIDGE RD,,M2P 1A2,25,(416) 489-8355,Purpose Built,Hillcrest Progressive School,0,0,105,0,0,105,N,552379,629007.46,4844101.44,22OCT13
+6537,Montessori Education Centre,Commercial Agency,80,GEORGE HENRY BLVD,,M2J 1E7,33,(416) 502-1769,Place of Worship,St. Matthew The Anglican Church,0,0,45,0,0,45,N,519563,632690.23,4847829.77,22OCT13
+6543,Agincourt Montessori School,Commercial Agency,2575,MIDLAND AVE,,M1S 1R3,41,(416) 291-0726,Place of Worship,,0,0,25,0,0,25,N,5479010,638486.23,4849371.43,22OCT13
+6545,Agincourt Temple Day Care Centre,Non Profit Agency,3080,BIRCHMOUNT RD,,M1W 3K3,39,(416) 497-0329x230,Place of Worship,,10,15,48,0,15,88,Y,4616611,635978.89,4851208.5,22OCT13
+6547,Baylawn Co-Operative Preschool,Non Profit Agency,25,HAVENVIEW RD,,M1S 3A4,42,(416) 293-7131,Catholic Elementary School,St. Elizabeth Seton Catholic School,0,0,24,0,0,24,N,342863,641054.99,4849703.96,22OCT13
+6549,Bridlegrove Daycare Centre,Non Profit Agency,2575,PHARMACY AVE,,M1W 2K2,40,(416) 497-7667,Place of Worship,Bridlegrove Bible Chapel,0,15,40,10,0,65,Y,373582,634760.98,4850139.58,22OCT13
+6551,Sunshine Beechgrove Child Care,Non Profit Agency,4679,KINGSTON RD,"UNIT 8, 9,&10",M1E 2P8,44,(416) 284-6523,Commercial Building,,10,15,56,0,45,126,N,352370,647022.92,4848370.92,22OCT13
+6553,Sunshine Fairmount Child Care,Non Profit Agency,31,SLOLEY RD,,M1M 1C7,36,(416) 265-3572,Public Elementary School,Fairmount Junior Public School,0,0,24,0,40,64,N,2261459,642491.15,4842046.15,22OCT13
+6555,Sunshine Simcoe Child Care,Non Profit Agency,166,SYLVAN AVE,,M1E 1A3,43,(416) 264-4958,Public Elementary School,Elizabeth Simcoe Junior Public School,0,0,24,0,40,64,N,390308,644449.43,4844132,22OCT13
+6557,Sunshine Mackie Child Care Centre,Non Profit Agency,60,HEATHFIELD DR,,M1M 3B1,36,(416) 269-6309,Public Elementary School,George P. Mackie Public School,0,0,0,0,27,27,N,343513,643966.74,4844252.17,22OCT13
+6559,Holland-Bloorview Kids Rehab. - Scarborough,Non Profit Agency,1,WAYNE AVE,,M1R 1Y1,37,(416) 759-8079,Public Elementary School,George Peck Public School,0,0,24,0,0,24,Y,396495,637395.02,4843994.96,22OCT13
+6563,After Four Children's Enrichment Program,Non Profit Agency,10,JAPONICA RD,,M1R 4R7,40,(416) 446-7398,Catholic Elementary School,Our Lady Of Wisdom Catholic School,0,0,0,0,26,26,N,348652,636169,4846619.83,22OCT13
+6565,Waabanong - Native Child And Family Services Of Toronto,Non Profit Agency,20,WALDOCK ST,ROOM 107,M1E 2E5,43,(416) 283-4552,Public Elementary School,Eastview Junior Public School,0,0,16,0,0,16,N,395203,645582.46,4846480.13,22OCT13
+6571,Banting And Best Child Care Centre,Non Profit Agency,380,GOLDHAWK TRAIL,,M1V 4E7,41,(416) 291-6163,Public Elementary School,Banting And Best Public School,0,0,32,0,18,50,N,338836,638277.18,4853836.21,22OCT13
+6573,Charlottetown Blvd. Childcare Centre,Non Profit Agency,111,ISLAND RD,UNIT #5,M1C 2P7,44,(416) 724-0147,Commercial Building,Westrouge Plaza,0,10,76,0,42,128,N,14071770,649826.24,4850878.16,22OCT13
+6575,Chartland Child Care,Non Profit Agency,109,CHARTLAND BLVD S,,M1S 2R7,41,(416) 292-7278,Public Elementary School,Chartland Junior Public School,0,0,22,0,20,42,N,6332543,638518.77,4850836.05,22OCT13
+6577,Cheer Day Care Centre Of Scarborough,Non Profit Agency,3300,KENNEDY RD,,M1V 3S8,39,(416) 292-4720,Place of Worship,Toronto Chinese United Church,0,5,36,0,15,56,N,9467834,636313.52,4852776.15,22OCT13
+6581,First Impressions Child Care Centre,Commercial Agency,115,IONVIEW RD,,M1K 3A1,37,(416) 759-9212,Place of Worship,Iondale Heights United Church,0,10,24,0,15,49,N,347922,638970.53,4844174.77,22OCT13
+6583,Good Shepherd Day Care Centre,Non Profit Agency,2230,BIRCHMOUNT RD,,M1T 2M2,40,(416) 293-5631,Place of Worship,Toronto Mandarin Chinese Community Church,0,10,40,0,23,73,N,9637983,636983.76,4848553.33,22OCT13
+6587,Meadowvale Daycare Centre,Commercial Agency,761,MEADOWVALE RD,,M1C 1T1,44,(416) 281-4171,Public Elementary School,Meadowvale Public School,0,0,20,0,20,40,N,6349862,647687.75,4850576.55,22OCT13
+6589,Port Union Panthers,Non Profit Agency,5450,LAWRENCE AVE E,,M1C 3B2,44,(416) 396-5658,Community/Recreation Centre,Port Union Community Centre,0,0,0,0,60,60,N,9313149,649640.13,4848859.18,22OCT13
+6593,St. Crispins Day Care Centre,Non Profit Agency,530,MIDLAND AVE,,M1N 1T1,36,(416) 267-1618,Place of Worship,,0,10,14,0,30,54,Y,363246,640860.94,4841746.45,22OCT13
+6597,Dearham Wood Daycare,Non Profit Agency,66,DEARHAM WOOD,,M1E 1S4,43,(416) 283-7207,Public Elementary School,Poplar Road Public School,0,0,24,0,30,54,N,326920,645906.02,4845886.92,22OCT13
+6599,Humberside Montessori,Commercial Agency,411,CLENDENAN AVE,,M6P 2X3,13,(416) 762-5509,House,,10,30,76,0,0,116,N,10923616,623174.81,4835338.79,22OCT13
+6603,Holland-Bloorview Kids Rehab. - High Park,Non Profit Agency,285,INDIAN ROAD CRES,,M6P 2G8,14,(416) 767-2192,Public Elementary School,Indian Road Crescent Junior Public School,0,0,24,0,0,24,Y,824662,624147.99,4835321.67,22OCT13
+6608,Holland-Bloorview Kids Rehab. - Play & Learn,Non Profit Agency,666,EGLINTON AVE W,,M5N 1B9,21,(416) 782-1105,Purpose Built,,0,15,33,0,0,48,Y,14015125,627247.85,4839809.18,22OCT13
+6616,Mooredale Preschool - Coach House,Non Profit Agency,146,CRESCENT RD,,M4W 1V2,27,(416) 922-3714x113,Community/Recreation Centre,Mooredale House,0,0,61,0,0,61,N,788943,630532.91,4837254.96,22OCT13
+6620,Shaawnong Head Start,Non Profit Agency,935,DUNDAS ST E,,M4M 1R4,30,(416) 469-8417,Public Elementary School,First Nations Public School,0,0,16,0,0,16,N,7576813,633130.42,4835444.23,22OCT13
+6622,Epnigishmok - Native Child And Family Services Of Toronto,Non Profit Agency,611,ST CLAIR AVE W,,M6C 1A3,21,(416) 653-5381,Place of Worship,St. Michaels And All Angels Church,0,0,16,0,0,16,N,9171886,627109,4837524.79,22OCT13
+6624,Kids Club Day Care Connection,Non Profit Agency,780,KINGSTON RD,,M4E 1R7,32,(416) 693-6596,Catholic Elementary School,St. John Catholic School,0,0,0,20,67,87,N,829026,637452.42,4837547.9,22OCT13
+6628,North Yonge Infant Nursery,Commercial Agency,27,MELROSE AVE,,M5M 1Y6,16,(416) 481-8900,House,,10,15,0,0,0,25,N,7777170,628435.99,4843184.5,22OCT13
+6630,North Yonge Preschool,Commercial Agency,25,MELROSE AVE,,M5M 1Y6,16,(416) 481-8900,House,,0,0,32,0,0,32,N,14208227,628441.88,4843182.53,22OCT13
+6632,A Place To Play Nursery School Of Bloor West Village,Non Profit Agency,680,ANNETTE ST,,M6S 2C8,13,(416) 767-6650,Place of Worship,Runnymede Presbyterian,0,0,16,0,0,16,N,7985487,622143.82,4834930.35,22OCT13
+6636,Beaches Co-Operative Playschool,Non Profit Agency,975,KINGSTON RD,,M4E 1T1,32,(416) 690-9935,Place of Worship,Kingston Road United Church,0,15,24,0,0,39,N,14120967,638097.48,4837559.92,22OCT13
+6638,Miles Nadal Jewish Community Centre Nursery School,Non Profit Agency,750,SPADINA AVE,,M5S 2J2,20,(416) 924-6211x119,Community/Recreation Centre,Miles Nadal Jewish Community Centre,0,30,40,0,0,70,N,8418224,628656.58,4835815.4,22OCT13
+6640,Bloor West Nursery School,Non Profit Agency,432,RUNNYMEDE RD,,M6S 2Y8,13,(416) 767-6729,Place of Worship,Runnymede United Church,0,0,24,0,0,24,N,20092173,622616.92,4834657.21,22OCT13
+6642,Cabbagetown Co-Op Nursery School,Non Profit Agency,2,LANCASTER AVE,,M4X 1C1,28,(416) 964-2984,Community/Recreation Centre,Cabbagetown Youth Centre,0,0,24,0,0,24,N,7683920,631439.58,4835905.85,22OCT13
+6646,Children's Garden Nursery School,Commercial Agency,1847,BAYVIEW AVE,,M4G 3E4,26,(416) 488-4298,Place of Worship,St. Augustine Of Canterbury,0,0,59,0,0,59,N,17599,630717.69,4841183.49,22OCT13
+6648,Community Centre 55 - Children Services (Main),Non Profit Agency,97,MAIN ST,,M4E 2V6,32,(416) 691-1113,Community/Recreation Centre,Community Centre 55,0,0,32,0,60,92,Y,836457,637080.42,4837747.91,22OCT13
+6652,Dover Gardens Nursery School,Non Profit Agency,228,BARTLETT AVE,,M6H 3G4,18,(416) 533-7337,Public Elementary School,Dovercourt Public School,0,0,16,0,0,16,N,6619920,626098.38,4835825.5,22OCT13
+6654,Dufferin / St. Clair Bears,Non Profit Agency,402,MELITA CRES,,M6G 3X6,21,(416) 653-6233,Catholic Elementary School,St Bruno's Catholic School,0,0,16,0,0,16,N,841367,626787.38,4836561.18,22OCT13
+6658,Fairlawn Preschool,Commercial Agency,28,FAIRLAWN AVE,,M5M 1S7,16,(416) 483-8793,Place of Worship,Fairlawn Avenue United Church,0,0,30,0,0,30,N,7777140,628448.22,4843009.17,22OCT13
+6660,Forest Hill Montessori School,Commercial Agency,2,WEMBLEY RD,,M6C 2E9,21,(416) 781-4449,Place of Worship,Forst Hill United Church,0,0,48,0,0,48,N,881213,626807.9,4839744.43,22OCT13
+6668,Kodomoen Childcare Centre,Non Profit Agency,630,SPADINA AVE,FLOOR 2,M5S 2H4,20,(416) 599-2426,Place of Worship,Knox Presbyterian Church,0,0,16,0,0,16,N,870141,628799.22,4835410.84,22OCT13
+6674,Leroux Froebel Bilingual School,Commercial Agency,72,MAIN ST,,M4E 2V7,32,(416) 698-1923,Place of Worship,Calvary Baptist Church,0,15,77,0,67,159,N,836442,637064.54,4837632.92,22OCT13
+6676,Little Tots' Manor,Non Profit Agency,211,BELSIZE DR,,M4S 1M3,22,(416) 485-5515,House,,10,37,28,0,0,75,N,770528,629969.47,4839872.63,22OCT13
+6678,Manor Montessori School 1,Commercial Agency,240,MANOR RD E,,M4S 1R8,22,(416) 488-4218,Place of Worship,Manor Road United Church,0,0,35,0,0,35,N,837878,630070.38,4840178.26,22OCT13
+6680,Manor Road Co-Operative Nursery School,Non Profit Agency,111,MANOR RD E,,M4S 1R4,22,(416) 489-9554,Place of Worship,The Church Of The Transfiguration,0,0,24,0,0,24,N,7359688,629609.48,4839952.62,22OCT13
+6682,McMurrich Co-Op Play School,Non Profit Agency,115,WINONA DR,,M6G 3S8,21,(416) 653-7557,Public Elementary School,McMurrich Public School,0,0,16,0,0,16,N,6620127,626454.81,4837092.23,22OCT13
+6686,Montessori For Children - St. Clair,Non Profit Agency,25,ALVIN AVE,,M4T 2A7,22,(416) 927-1958,House,Montessori For Children,0,0,48,0,0,48,N,762588,629525.28,4838398.88,22OCT13
+6690,Sisters Of Our Lady Of Mount Carmel,Non Profit Agency,2700,JANE ST,,M3L 1S4,7,(416) 749-5545,Other,,10,15,48,0,15,88,N,10092807,619613.57,4844018.03,22OCT13
+6692,My School Co-Op Nursery School,Non Profit Agency,116,FERMANAGH AVE,,M6R 1M2,14,(416) 516-2397,Catholic Elementary School,St. Vincent De Paul,0,0,24,0,0,24,N,804845,625160.66,4833596.29,22OCT13
+6697,Oriole Nursery School,Non Profit Agency,1570,YONGE ST,,M4T 1Z8,22,(416) 960-1293,Place of Worship,Christ Church Deer Park,0,0,32,0,0,32,N,7274022,629270.31,4838500.99,22OCT13
+6703,Sadochok Preschool Centre,Non Profit Agency,35,WEST DEANE PARK DR,,M9B 2R5,3,(416) 626-7195,Catholic Elementary School,Joseph Cardinal Slipyj Catholic School,0,0,24,0,0,24,N,1043008,615611.49,4834829.44,22OCT13
+6705,Scott Mission,Non Profit Agency,1550,O CONNOR DR,,M4B 2V3,31,(416) 923-8872x510,Purpose Built,The Scott Mission,10,15,16,0,0,41,Y,8609161,636416.13,4841321.73,22OCT13
+6709,St. Alban's Preschool,Non Profit Agency,843,PALMERSTON AVE,,M6G 2R8,20,(416) 534-8461,Community/Recreation Centre,,0,10,56,0,0,66,Y,2439716,627708.96,4836375.4,22OCT13
+6711,St. Clement's Early Learning School,Commercial Agency,70,ST CLEMENTS AVE,,M4R 1H2,16,(416) 489-0822,Place of Worship,St. Clement's Anglican Church,0,0,55,0,0,55,N,30010979,628726.57,4840975.21,22OCT13
+6713,Stepping Stones Day Nursery,Commercial Agency,342,RUNNYMEDE RD,,M6S 2Y6,13,(416) 769-9719,House,,0,15,24,0,0,39,N,7963473,622729.59,4834373.93,22OCT13
+6715,Creative Preschool Of East Toronto,Non Profit Agency,16,PHIN AVE,,M4J 3T2,30,(416) 465-3865,Public High School,Eastern Commerce Collegiate Institute,0,0,40,0,0,40,N,853872,634064.01,4837358.63,22OCT13
+6717,McLoughlin Schools,Non Profit Agency,80,ROXBOROUGH ST W,,M5R 1T8,27,(416) 968-6163,House,,0,0,34,0,0,34,N,10258487,629459.36,4837104.08,22OCT13
+6719,Ranleigh Rascals,Non Profit Agency,81,RANLEIGH AVE,,M4N 1X2,25,(416) 487-3510,Public Elementary School,Bedford Park Public School,0,0,43,0,97,140,N,7792874,628849.88,4842668.66,22OCT13
+6723,Time For Play Co-Operative Nursery School,Non Profit Agency,357,RUNNYMEDE RD,,M6S 2Y7,13,(416) 769-1550,Public Elementary School,Runnymede Public School,0,0,16,0,0,16,N,7973683,622758.17,4834562.89,22OCT13
+6731,Ukrainian Co-Op Nursery School,Non Profit Agency,516,THE KINGSWAY,,M9A 3W6,4,(416) 763-2922,Place of Worship,St. Paul's,0,0,39,0,0,39,N,1036939,617022.08,4836420.68,22OCT13
+6744,Toronto Hebrew Congregation,Non Profit Agency,1950,BATHURST ST,,M5P 3K9,21,(416) 789-3291x240,Synagogue,Holy Blossom Temple,0,0,88,0,0,88,N,8855434,626880.01,4839344.72,22OCT13
+6746,Humbercrest Co-Operative Nursery School,Non Profit Agency,25,REXFORD RD,,M6S 2M2,13,(416) 763-7309,Public Elementary School,King George Public School,0,0,16,0,0,16,N,71098,621985.07,4835352.35,22OCT13
+6752,St. Bernadette's Family Resource Centre,Non Profit Agency,20,BANSLEY AVE,,M6E 2A2,15,(416) 397-6300,Catholic Elementary School,D'Arcy McGee,0,10,16,0,30,56,Y,51593,625470.15,4838649.05,22OCT13
+6777,Huron Playschool Co-Operative,Non Profit Agency,383,HURON ST,,M5S 2G5,20,(416) 977-1109,Place of Worship,St. Thomas Anglican Church,0,0,24,0,0,24,N,823556,628924.9,4835788.41,22OCT13
+6789,Banting And Best Schoolage Satellite,Non Profit Agency,255,ALTON TOWERS CIR,,M1V 4E7,41,(416) 523-0045,Catholic Elementary School,Prince Of Peace Catholic School,0,0,0,0,22,22,N,7554003,638377.11,4853696.59,22OCT13
+6799,Young Women's Christian Association Of Greater Toronto,Non Profit Agency,177,CALEDONIA RD,,M6E 4S8,17,(416) 652-0077x229,Public School (Closed),Beatrice House Early Childhood Developmental Centre,10,10,24,0,0,44,Y,7156906,624385.65,4837365.1,22OCT13
+6809,Yes I Can Nursery School,Non Profit Agency,25,OLD YORK MILLS RD,,M2P 1B5,25,(416) 486-4911,Place of Worship,,0,0,28,0,0,28,S,2594838,628471.53,4844388.92,22OCT13
+6860,Gibraltar Point Day Nursery,Non Profit Agency,30,CENTRE ISLAND PK,,M5J 2E9,28,(416) 393-1907,Public Elementary School,Island Public & Natural Science School,0,0,20,0,0,20,Y,14258202,630836.14,4830246.15,22OCT13
+6899,Mooredale Preschool - Main House,Non Profit Agency,146,CRESCENT RD,,M4W 1V2,27,(416) 922-3952,Community/Recreation Centre,Mooredale House,0,15,16,0,0,31,N,788943,630532.91,4837254.96,22OCT13
+6953,Rene Gordon School Age Ymca,Non Profit Agency,20,KAREN RD,,M3A 3L6,34,(647) 280-1115,Public Elementary School,Rene Gordon Public School,0,0,0,20,30,50,Y,532360,633578.68,4846515.78,22OCT13
+7055,York Mills Child Care Centre,Commercial Agency,1200,YORK MILLS RD,,M3A 1X8,34,(416) 449-9453,High Rise Apartment,,10,20,40,0,15,85,Y,20231832,634015.33,4846303.01,22OCT13
+7102,Kids Love Day Care,Commercial Agency,38,PAYZAC AVE,,M1E 2W7,43,(416) 281-9208,Purpose Built,,5,10,24,0,0,39,Y,371545,645101.83,4846349.65,22OCT13
+7106,Epic School,Non Profit Agency,111,MANOR RD E,,M4S 1R4,22,(416) 489-0132,Place of Worship,The Church Of The Transfiguration,0,0,42,0,0,42,N,7359688,629609.48,4839952.62,22OCT13
+7108,Phoenix Montessori School,Non Profit Agency,19,GLEN AGAR DR,,M9B 5L5,3,(416) 695-1212,Public School (Closed),Kipling Grove Public School (Closed),0,15,40,0,0,55,N,8087389,616774.02,4835146.63,22OCT13
+7111,Bowmore Child Enrichment Centre,Non Profit Agency,80,BOWMORE RD,,M4L 3J2,32,(416) 465-6678,Public Elementary School,Bowmore Public School,0,0,37,0,0,37,Y,6361762,635855.91,4837052.98,22OCT13
+7181,Kids Kingdom Nursery School,Commercial Agency,225,GOSFORD BLVD,,M3N 2Z5,8,(416) 663-2323,Purpose Built,,20,25,24,24,0,93,Y,20345352,618881.29,4847138.45,22OCT13
+7230,Hillside Montessori School,Commercial Agency,76,ANGLESEY BLVD,,M9A 3C1,4,(416) 695-3466,Place of Worship,Humber Valley United Church,0,0,24,0,0,24,N,9311721,618586.72,4835510.71,22OCT13
+7236,Ikebata Nursery School,Commercial Agency,6,GARAMOND CRT,,M3C 1Z5,26,(416) 510-1441,Community/Recreation Centre,Japanese Cultural Centre,0,15,60,0,0,75,N,10180045,634166.59,4842563.32,22OCT13
+7382,Centennial Infant And Child Centre,Non Profit Agency,1580,YONGE ST,,M4T 1Z8,22,(416) 935-0200x231,Purpose Built,,0,0,32,0,0,32,Y,7274023,629296.73,4838534.14,22OCT13
+7473,Full Circle Educational Recreational Child & Family Centre,Non Profit Agency,233,WESTVIEW BLVD,,M4B 3J7,31,(416) 757-8884,Place of Worship,Westview Presbyterian Church,0,0,18,0,11,29,N,36958,636527.89,4841197.07,22OCT13
+7491,Teddy Bear  Educare 1,Commercial Agency,69,SIX POINT RD,,M8Z 2X3,5,(416) 231-8998,Commercial Building,Commercial Retrofit - Single Unit,0,10,46,0,0,56,N,7791984,619043.68,4832271.71,22OCT13
+7505,The Rec Room Before & After School Program,Commercial Agency,255,ROYAL YORK RD,,M8V 2V8,6,(416) 253-8553,Coomunity/Recreation Centre,Mimico Adult Centre,0,0,48,0,108,156,N,7890983,621289.38,4829732.5,22OCT13
+7528,My Little School,Commercial Agency,1492,VICTORIA PARK AVE,,M4A 2M6,34,(416) 755-0305,Other,,10,15,24,0,20,69,Y,571955,636703.45,4842362.78,22OCT13
+7549,Plasp - St. Pius X,Non Profit Agency,71,JANE ST,,M6S 3Y3,13,(905) 890-1711,Catholic Elementary School,St. Pius X,0,0,0,40,60,100,Y,825426,622184.46,4834035.54,22OCT13
+7561,One Step At A Time Child Care,Non Profit Agency,21,QUEBEC AVE,,M6P 2T3,13,(416) 767-1897,House,,0,15,19,0,0,34,N,7994420,623621.25,4834333.66,22OCT13
+7652,Friendly Little Campus 2,Commercial Agency,63,ORCHARD PARK DR,,M1E 3T8,44,(416) 282-5556,Purpose Built,,20,30,44,0,0,94,Y,369393,646398.62,4848289.81,22OCT13
+7685,Cedarvale B & A School Program,Non Profit Agency,145,AVA RD,,M6C 1W4,21,(416) 658-1874,Public Elementary School,Cedarvale Community School,0,0,0,0,24,24,Y,51217,626476.17,4839098.52,22OCT13
+7689,Rawlinson B & A School Program,Non Profit Agency,231,GLENHOLME AVE,,M6E 3C7,17,(416) 394-3079,Public Elementary School,Rawlinson Community School,0,0,0,40,45,85,Y,60867,625718.54,4837733.93,22OCT13
+7691,H.J. Alexander B & A School Program,Non Profit Agency,30,KING ST,,M9N 1K9,11,(416) 769-2328,Public Elementary School,H.J. Alexander Community School,0,0,0,0,30,30,Y,7074422,619193.54,4839671.76,22OCT13
+7693,King George B & A School Program,Non Profit Agency,25,REXFORD RD,,M6S 2M2,13,(416) 767-4439,Public Elementary School,King George Junior Public School,0,0,0,0,25,25,Y,71098,621985.07,4835352.35,22OCT13
+7694,Lambton Park B & A School,Non Profit Agency,50,BERNICE CRES,,M6N 1W9,11,(416) 769-1174,Public Elementary School,Lambton Park Community School,0,0,0,0,30,30,Y,52404,621055.35,4835825.79,22OCT13
+7695,Portage Trail B & A School Program,Non Profit Agency,100,SIDNEY BELSEY CRES,,M6M 5H6,11,(416) 241-5534,Public Elementary School,Portage Trail Junior School,0,0,0,0,30,30,Y,14171495,620082.24,4838554.7,22OCT13
+7699,Weston Memorial B & A School Program,Non Profit Agency,200,JOHN ST,,M9N 1K2,11,(416) 656-8774,Public Elementary School,Weston Memorial Junior Public School,0,0,0,20,39,59,Y,64616,620090.19,4840074.88,22OCT13
+7708,Garderie La Farandole - Pierre Elliott Trudeau,Non Profit Agency,77,GRACE ST,,M6J 2S4,19,(416) 603-6062,Public Elementary School (French),Ecole Elementaire Pierre Elliott Trudeau,0,10,26,20,60,116,Y,7571375,627839.5,4834339.96,22OCT13
+7710,Blake Street Satellite,Public (City Operated) Agency,21,BOULTBEE AVE,ROOM 104,M4J 1A7,30,(416) 392-3012,Public Elementary School,Blake Public School,0,0,0,20,30,50,Y,774626,633931.99,4836541.16,22OCT13
+7712,Scarborough Citadel Child Care,Non Profit Agency,2021,LAWRENCE AVE E,,M1R 2Z2,37,(416) 759-1721,Church,Salvation Army Scarborough Citadel Corp.,0,10,16,10,0,36,Y,11063332,637268.81,4844746.72,22OCT13
+7714,Antrim Child Care,Commercial Agency,4A,ANTRIM CRES,MAILBOX #4,M1P 4Y8,40,(416) 292-7890,High Rise Apartment,,0,10,31,0,0,41,Y,1367198,638073.05,4847723.83,22OCT13
+7766,Maplewood Before And After School Care,Non Profit Agency,15,CHERRYWOOD AVE,,M6C 2X4,21,(416) 654-2498,Public Elementary School,Humewood Community School,0,0,0,0,60,60,Y,55237,626682.03,4838047.46,22OCT13
+7818,Ascot Day Care,Non Profit Agency,95,REGAL RD,,M6H 2J6,17,(416) 653-7760,Public Elementary School,Regal Road Public School,0,0,36,0,45,81,Y,9270479,625738.25,4836600.84,22OCT13
+7939,Plasp - Holy Angels,Non Profit Agency,65,JUTLAND RD,,M8Z 2G6,5,(905) 890-1711,Catholic Elementary School,Holy Angels Catholic School,0,0,0,0,45,45,N,7667021,619573.03,4831447.81,22OCT13
+7953,Ridley Orchard School,Commercial Agency,100,OLD ORCHARD GROVE,,M5M 2E2,16,(416) 482-3272,Place of Worship,St. Timothy Anglican Church,0,15,74,0,0,89,N,13972029,628100.67,4843373.63,22OCT13
+7978,Future Stars Child Care Centre,Commercial Agency,3895,LAWRENCE AVE E,,M1G 3T3,43,(416) 431-3898,High Rise Apartment,,0,0,24,0,28,52,Y,7423573,644233.06,4846902.55,22OCT13
+7981,Petite Maison Montessori,Commercial Agency,126,O CONNOR DR,,M4K 2K7,29,(416) 429-0507,Place of Worship,Don Mills United Church,0,0,48,10,0,58,N,30420,632895.86,4838926.71,22OCT13
+7987,Broadlands School Age Ymca,Non Profit Agency,106,BROADLANDS BLVD,,M3A 1J7,34,(647) 262-3334,Public Elementary School,Broadlands Public School,0,0,0,0,18,18,N,492477,635526.26,4844806.09,22OCT13
+8162,Growing Tykes Learning Centre 4105,Non Profit Agency,4105,LAWRENCE AVE E,,M1E 2S2,43,(416) 438-5989,Purpose Built,Growing Tykes Learning Centre,30,40,72,0,0,142,Y,8104824,645265.39,4847266.49,22OCT13
+8163,Parkdale Early Learning Centre,Non Profit Agency,119,CLOSE AVE,,M6K 2V2,14,(416) 535-6116,House,,10,15,24,0,0,49,Y,784390,626278.92,4832536.61,22OCT13
+8168,St. Robert School Age Ymca,Non Profit Agency,70,BAINBRIDGE AVE,,M3H 2K2,10,(647) 262-3335,Catholic Elementary School,St. Robert Catholic School,0,0,0,0,25,25,N,485543,625251.19,4845022.46,22OCT13
+8169,Carousel Child Care Development Centre,Commercial Agency,623,FINCH AVE W,101,M2R 3V4,10,(416) 636-0614,High Rise Apartment,,0,14,32,0,0,46,Y,10313426,624421.58,4847368.91,22OCT13
+8170,Beez Kneez Nursery School (The),Commercial Agency,7,ROSLIN AVE,,M4N 1Y8,25,(416) 920-5478,House,,0,10,34,0,0,44,N,7792978,628642.92,4842835.54,22OCT13
+8197,Toronto French Montessori School,Commercial Agency,53,CUMMER AVE,,M2M 2E5,24,(416) 250-9952,Place of Worship,Newton Brook United Church,0,0,12,0,0,12,N,7323935,627520.35,4849231.41,22OCT13
+8198,Play And Grow Child Care Centre,Non Profit Agency,227,DREWRY AVE,,M2M 1E3,23,(416) 395-5098,Public Elementary School,R J Lang Public School,0,0,0,20,22,42,N,7274066,626599.61,4848806.36,22OCT13
+8200,Avalon Children's Montessori School,Commercial Agency,31,WOOD GLEN RD,,M1N 2V8,36,(416) 690-7744,Place of Worship,Fallingbrook Presbyterian Church,0,0,31,0,0,31,N,14120505,638980.58,4838003.67,22OCT13
+8205,Montessori Jewish Day School Of Toronto,Non Profit Agency,55,YEOMANS RD,,M3H 3J7,10,(416) 784-5071,Synagogue,Beth David Synagogue,0,0,67,0,0,67,N,7994686,625598.66,4844983.81,22OCT13
+8258,Apple Day Care Centre,Commercial Agency,3434,EGLINTON AVE E,"102, 104, 110",M1J 2J1,36,(416) 264-3158,High Rise Apartment,,6,10,12,12,15,55,Y,330832,644014.53,4844951.65,22OCT13
+8477,Birchmount Bluffs Neighbourhood Centre,Non Profit Agency,93,BIRCHMOUNT RD,,M1N 3J7,36,(416) 396-4310,Purpose Built,Birchmount Bluffs Neighbourhood Centre,0,0,20,0,0,20,N,5504478,639952.48,4839310.84,22OCT13
+8570,Kids Zone - Glendale,Commercial Agency,123,GLENDALE AVE,,M6R 2T3,14,(416) 534-1758,House,,0,15,36,0,0,51,N,812220,624937.46,4833116.49,22OCT13
+8703,St. Bartholomew's Children's Centre,Non Profit Agency,509,DUNDAS ST E,,M5A 3V3,28,(416) 368-6375,Place of Worship,St. Bartholomew's Anglican Church,0,0,0,0,30,30,Y,6523120,631908.83,4835157.29,22OCT13
+8743,Muppets Children's Centre 316,Commercial Agency,316,MAIN ST,,M4C 4X7,31,(416) 690-8668,House,,6,20,0,0,0,26,Y,8232329,636801.32,4838480.35,22OCT13
+8823,Grace Christian School - Day Nursery,Non Profit Agency,201,TEMPO AVE,,M2H 2R9,24,(416) 502-1540,,,0,25,76,8,0,109,Y,11484452,633531.03,4851364.45,22OCT13
+8826,Plasp - Islington Junior,Non Profit Agency,44,CORDOVA AVE,,M9A 2H5,5,(905) 890-1711,Public Elementary School,Islington Junior Middle School,0,0,0,20,30,50,Y,994430,618705.29,4833551.45,22OCT13
+8839,Josyf Cardinal Slipyj B & After School Care,Non Profit Agency,35,WEST DEANE PARK DR,,M9B 2R5,3,(416) 763-0068,Catholic Elementary School,Josyf Cardinal Slipyj Catholic School,0,0,24,0,28,52,N,1043008,615611.49,4834829.44,22OCT13
+8905,Rhyme & Reason Day Care,Commercial Agency,474,BROWNS LINE,,M8W 3T9,6,(416) 255-3008,Purpose Built,Child Care Centre - Single Unit,0,10,31,0,30,71,N,3326936,617327.78,4828546.58,22OCT13
+8929,N.Y.A.D. Midland,Non Profit Agency,720,MIDLAND AVE,,M1K 4C9,35,(416) 264-8050,Public High School,Scarborough Centre For Alternative Studies,16,20,24,0,0,60,Y,363296,640393.9,4842928.73,22OCT13
+8930,Kids' Ville Nursery School,Commercial Agency,31,ST DENNIS DR,SUITE 122,M3C 1G7,26,(416) 421-1993,High Rise Apartment,,10,25,60,0,0,95,Y,564406,634544.17,4841749.62,22OCT13
+9001,Forest Grove Montessori Preschool,Commercial Agency,43,FOREST GROVE DR,,M2K 1Z4,24,(416) 225-1666,Place of Worship,Forest Grove United Church,0,0,37,0,0,37,N,517347,630410.43,4848424.75,22OCT13
+9017,Northwest Childhood Learning Centre,Commercial Agency,2978,ISLINGTON AVE,103,M9L 2K6,7,(416) 740-2888,Other,,0,15,32,0,0,47,Y,8492510,615003.26,4845836.48,22OCT13
+9240,Finch Business Park Child Care,Commercial Agency,1183A,FINCH AVE W,100,M3J 2G3,8,(416) 739-1478,Other,,10,30,72,0,0,112,Y,11272533,622078.98,4846665.63,22OCT13
+9294,Le Petit Chaperon Rouge - Coxwell,Non Profit Agency,419,COXWELL AVE,,M4L 3B9,32,(416) 463-3955,Low Rise Apartment,,6,15,48,0,0,69,Y,10557756,635367.87,4837174.48,22OCT13
+9320,Plasp - St. Cecilia,Non Profit Agency,355,ANNETTE ST,,M6P 1R3,13,(905) 890-1711,Catholic Elementary School,St. Cecilia Catholic School,0,0,0,0,30,30,N,7987740,622985.94,4835141.47,22OCT13
+9330,Garderie Mon Petit Jardin,Non Profit Agency,500,SANDHURST CIR,,M1S 3Y7,41,(416) 397-6982,Catholic Elementary School(French),Ecole St. Jean De Lalande,0,0,24,0,15,39,Y,382095,639619.68,4851429.21,22OCT13
+9373,Head Start Montessori,Non Profit Agency,260,YORKLAND BLVD,,M2J 1R7,33,(416) 756-7300,Place of Worship,Garden Church,0,15,24,0,0,39,N,9602782,633955.68,4847728.75,22OCT13
+9433,Yorktown Montessori School,Commercial Agency,349,KENNETH AVE,,M2N 4V9,23,(416) 226-6932,Place of Worship,Willowdale United Church,0,0,41,0,0,41,N,12510406,627958.89,4847977.11,22OCT13
+9444,North Toronto Early Years Learning Centre,Commercial Agency,11,BEDFORD PARK AVE,,M5M 1H8,16,(416) 544-0133,Place of Worship,North Toronto Early Years Learning Centre,0,10,50,0,0,60,N,7762988,628570.76,4842579.81,22OCT13
+9456,Wilmington Best Schoolage Satellite Centre,Non Profit Agency,285,WILMINGTON AVE,103,M3H 5K8,10,(416) 633-2665,Public Elementary School,Charles H. Best East Public School,0,0,0,0,30,30,N,575920,624048.23,4846976.22,22OCT13
+9457,Gradale Academy,Non Profit Agency,159,ROXBOROUGH DR,,M4W 1X7,27,(416) 923-9009,Place of Worship,Rosedale United Church,0,0,32,0,0,32,N,7963296,631174.14,4837856.25,22OCT13
+9462,St. Vincent Sunshine,Non Profit Agency,116,FERMANAGH AVE,,M6R 1M2,14,(416) 532-0428,Catholic Elementary School,St. Vincent De Paul,0,0,24,0,30,54,N,804845,625160.66,4833596.29,22OCT13
+9465,St. Denis Sunshine,Non Profit Agency,67,BALSAM AVE,,M4E 3B8,32,(416) 434-9146,Catholic Elementary School,St. Denis Catholic School (Jr),0,0,0,0,30,30,N,10431199,637844.64,4836753.05,22OCT13
+9466,Highland Creek Montessori Pre-School,Commercial Agency,226,MORRISH RD,,M1C 1E8,44,(416) 286-9351,Other,,0,0,24,0,0,24,N,9544329,647127.24,4849309.69,22OCT13
+9467,The Village Shul Tots Together,Non Profit Agency,1072,EGLINTON AVE W,,M6C 2E2,21,(416) 785-1107,Place of Worship,The Village Shul,0,30,24,0,0,54,N,8608458,626378.88,4839525.14,22OCT13
+9470,Norseman Jr Ymca,Non Profit Agency,80,LOTHIAN AVE,,M8Z 4K5,5,(416) 236-5793,Public Elementary School,Norseman Public School,0,0,20,0,0,20,Y,7808024,619417.18,4832696.99,22OCT13
+9471,Norseman School Age Ymca,Non Profit Agency,105,NORSEMAN ST,,M8Z 2R1,5,(416) 236-5793,Public Elementary School,Norseman Public School,0,0,0,60,45,105,Y,7794390,619668.4,4832104.55,22OCT13
+9506,East City Ymca Nursery School,Non Profit Agency,907,KINGSTON RD,,M4E 1S4,32,(416) 694-1159,Commercial Building,Ymca,0,8,24,0,0,32,N,2923735,637842.66,4837541.65,22OCT13
+9536,Pineway Child Care Learning Center,Non Profit Agency,110,PINEWAY BLVD,,M2H 1A8,24,(416) 225-7156,Public Elementary School,Pineway Public School,0,15,48,20,30,113,Y,551399,630739.79,4850251.16,22OCT13
+9540,Bruce Woodgreen Early Learning Centre,Non Profit Agency,51,LARCHMOUNT AVE,,M4M 2Y6,30,(416) 645-6000x1155,Public Elementary School,Bruce Public School,0,15,24,40,30,109,Y,8392356,634370.39,4835353.24,22OCT13
+9549,All About Kids,Commercial Agency,90,GERRARD ST W,,M5G 1J6,27,(416) 977-0555,Other,Residence Building For Uhn,0,15,34,0,0,49,N,7792645,630116.05,4834997.04,22OCT13
+9573,Teddy Bear Educare 2,Commercial Agency,86,ADVANCE RD,,M8Z 2T7,5,(416) 236-3308,Commercial Building,Single Unit,0,0,39,0,0,39,N,981917,619097.61,4832207.04,22OCT13
+9595,City Kids Child Care Centre,Public (City Operated) Agency,34,BATHURST ST,,M5V 3W3,19,(416) 392-0932,Purpose Built,,20,20,32,0,0,72,Y,14173019,628878.06,4833046.23,22OCT13
+9607,Children's Magic Moments Child Care And Nursery School,Commercial Agency,98,BRAEMAR AVE,,M5P 2L4,22,(416) 488-0114,Purpose Built,,10,15,24,0,0,49,N,7323691,628150.07,4839889.63,22OCT13
+9608,Sunnyside Day Care On High Park Blvd.,Commercial Agency,10,HIGH PARK BLVD,,M6R 1M4,14,(416) 538-9654,House,,10,35,32,10,0,87,N,820384,624955.97,4833543.34,22OCT13
+9633,Treasured Moments - Bloor,Commercial Agency,3107,BLOOR ST W,STE. 104,M8X 1E2,5,(416) 234-0303,Commercial Building,,10,20,24,0,0,54,N,10756315,619670.31,4833413.07,22OCT13
+9658,Network Child Care (Wade Avenue),Non Profit Agency,544,LANSDOWNE AVE,,M6H 3Y5,18,(416) 537-0793,High Rise Apartment,Tamil Co-Operative Homes Inc.,0,15,24,0,0,39,Y,14205586,625498.77,4834997.34,22OCT13
+9679,St. Joseph's Sunshine Child Care Centre,Non Profit Agency,176,LESLIE ST,,M4M 3C7,30,(416) 469-2866,Catholic Elementary School,St. Joseph's Catholic School,0,0,16,0,14,30,N,832894,634476.28,4835885.62,22OCT13
+9703,Beez Kneez - Lytton Park,Commercial Agency,1252,AVENUE RD,,M5N 2G7,16,(416) 920-5478,House,House,0,10,30,0,0,40,N,765745,627893.82,4841168.22,22OCT13
+9707,Growing Tykes Learning Centre 5150,Non Profit Agency,5150,DUNDAS ST W,,M9A 1C3,5,(416) 207-9259,Purpose Built,,20,35,64,0,0,119,Y,10759569,618227.06,4833112.68,22OCT13
+9741,University Of Toronto Early Learning Centre,Non Profit Agency,7,GLEN MORRIS ST,,M5S 1H9,20,(416) 978-6726,Purpose Built,,10,30,62,0,0,102,Y,14612222,628899.06,4835569.28,22OCT13
+9742,University Of Toronto Learning Centre,Non Profit Agency,252,BLOOR ST W,,M5S 1V6,20,(416) 978-0027,Purpose Built,,0,0,24,0,0,24,Y,772766,629086.37,4836071.35,22OCT13
+9764,Childspace 3,Non Profit Agency,49,FELSTEAD AVE,,M4J 1G3,30,(416) 469-9766,Catholic High School,St. Patrick Catholic High School,10,20,32,0,0,62,Y,6355204,634761.38,4837296,22OCT13
+9768,University Of Toronto Child Care On Charles,Non Profit Agency,35,CHARLES ST W,,M4Y 1R6,27,(416) 415-2604,High Rise Apartment,Tower Co-Op,10,15,36,0,0,61,Y,9909750,629987.47,4836061.54,22OCT13
+9780,Boulton Avenue Child Care Centre,Non Profit Agency,131,BROADVIEW AVE,,M4M 2E9,30,(416) 463-7625,Other,Royal Canadian Curling Club,10,15,32,0,15,72,Y,776296,633035.46,4835193.94,22OCT13
+9800,Central Montessori Schools - York Mills Campus,Commercial Agency,18,COLDWATER RD,,M3B 1Y7,25,(416) 510-1200,Private Elementary School,Central Montessori Private School,10,70,209,0,0,289,N,501770,632136.43,4845840.99,22OCT13
+9813,Vert Casa Progressive Academic Teaching Academy,Commercial Agency,2723,ST CLAIR AVE E,,M4B 1M8,31,(416) 752-8300,Place of Worship,St. Columba Anglican Church,0,0,14,0,0,14,N,8594190,636144.45,4840356.64,22OCT13
+9815,Kids & Company,Commercial Agency,160,BLOOR ST E,,M4W 1B9,27,(416) 924-5437,Office Building,Unilever Office Building,20,25,40,0,0,85,N,11466485,630339.38,4836449.87,22OCT13
+9847,Kids & Company,Commercial Agency,320,FRONT ST W,STE. 100,M5V 3B6,20,(416) 345-1543,Other,,9,14,0,0,0,23,N,7929697,629756.33,4833367.84,22OCT13
+9916,Broad View French Montessori School,Commercial Agency,1007,BROADVIEW AVE,,M4K 2S1,29,(416) 467-1618,Commercial Building,,0,15,30,0,0,45,N,7485314,632445.62,4837911.57,22OCT13
+9927,Kids & Company-Wellington,Commercial Agency,95,WELLINGTON ST W,SUITE 201,M5J 2N7,28,(416) 863-6868,Office Building,Fogler Rubinoff Building,40,45,30,0,0,115,N,7929317,630467.84,4833655.74,22OCT13
+9928,Don Mills Children's Centre,Commercial Agency,33,KERN RD,,M3B 1S9,34,(416) 386-9744,Other,,6,10,16,0,0,32,Y,8837781,632806.17,4845081.35,22OCT13
+9939,Debbie Yeung Child Care Centre (Woodgreen),Non Profit Agency,249,COSBURN AVE,,M4J 2M2,29,(416) 645-6000x1155,Purpose Built,Woodgreen Community Services-Homeward Bound,10,15,48,0,0,73,Y,19830,633600.44,4838611.37,22OCT13
+9950,Little Hearts Childcare,Non Profit Agency,587,OAKWOOD AVE,,M6E 2X7,15,(416) 784-1360,Place of Worship,Prayer Outreach Ministries,0,15,16,0,0,31,Y,69800,625532.8,4839090.87,22OCT13
+9965,Martin Luther Church Day Nursery B & A,Non Profit Agency,2379,LAKE SHORE BLVD W,,M8V 1B7,6,(416) 259-2861,Church,,0,0,0,16,30,46,Y,1013098,621992.12,4830038.55,22OCT13
+9989,Prodigy Learning Centre,Commercial Agency,1545,JANE ST,,M9N 2R3,12,(416) 241-1902,High Rise Apartment,,0,10,24,0,0,34,Y,20363734,620737.88,4839289.99,22OCT13
+9995,Abacus Montessori Learning Centre,Commercial Agency,1,CREDIT UNION DR,,M4A 2S6,34,(416) 494-4650,Other,Beck Taxi,0,9,50,0,0,59,N,504128,635499.15,4842479.94,22OCT13
+10017,Midland Child Care Centre,Non Profit Agency,4220,MIDLAND AVE,,M1V 4S7,41,(416) 291-4886,Other,,0,15,48,0,0,63,Y,363608,636910.17,4853620.07,22OCT13
+10047,Angel Child Care Learning Centre,Commercial Agency,25,THUNDER GROVE,,M1V 3M2,41,(416) 299-0547,Purpose Built,,0,15,32,0,0,47,Y,5002046,639498.26,4851876.69,22OCT13
+10066,St. George Mini School - Bond,Non Profit Agency,141,BOND AVE,,M3B 1M1,34,(416) 391-0944,Place of Worship,St. George Orthodox Church,0,10,40,0,0,50,Y,11541988,633045.17,4844734.88,22OCT13
+10104,Macaulay Child Development Centre - Jane Street Child Care Centre,Non Profit Agency,610,JANE ST,,M6S 4A6,13,(416) 769-8021,Purpose Built,,10,20,32,0,0,62,Y,14225877,621631.04,4835559.82,22OCT13
+10161,Three R's Early Learning Centre,Non Profit Agency,225,WELLESWORTH DR,,M9C 4S5,3,(416) 621-7890,Public Elementary School,Wellesworth Junior Public School,0,0,24,0,0,24,N,1042829,614754.67,4834499.42,22OCT13
+10166,Metamorphosis Child Care Centre (Network),Non Profit Agency,40,DONLANDS AVE,,M4J 3N6,29,(416) 463-4429,Place of Worship,Metamorphosis Greek Orthodox Church,0,15,24,0,0,39,Y,7846375,633948.92,4837599.23,22OCT13
+10170,Manor Montessori School 2,Commercial Agency,14,DE SAVERY CRES,,M4S 2L2,22,(416) 488-7370,Low Rise Apartment,Manor Montessori School,0,0,92,0,0,92,N,8947520,629723.92,4839934.32,22OCT13
+10180,Plasp - David Hornell,Non Profit Agency,32,VICTORIA ST,,M8V 1M6,6,(905) 890-1711,Public Elementary School,David Hornell Junior School,0,0,0,20,30,50,Y,7973823,621911.86,4830481.61,22OCT13
+10192,Broad View French Montessori School II Limited,Commercial Agency,1236,KINGSTON RD,,M1N 1P3,36,(416) 690-9305,Commercial Building,,0,10,24,0,0,34,N,20359283,638736.72,4837858.45,22OCT13
+10203,Plasp - St. Eugene,Non Profit Agency,30,WESTROYAL RD,,M9P 2C3,4,(905) 890-1711,Place of Worship,All Saints Church,0,0,0,0,45,45,N,1043818,617847.33,4838549.04,22OCT13
+10213,Kids & Company-Steeles,Commercial Agency,3389,STEELES AVE E,,M2H 3S8,24,(416) 493-5437,Office Building,Ing Direct Building,10,15,24,0,0,49,N,14074192,633202.6,4852264.26,22OCT13
+10215,Tiny Treasure Day Care Centre,Commercial Agency,602,THE QUEENSWAY,,M8Y 1K1,5,(416) 247-9485,Other,Child Care Centre,0,0,26,0,0,26,N,9085562,621419.63,4831481.64,22OCT13
+10219,Wellesley Early Learning Centre,Non Profit Agency,495,SHERBOURNE ST,2ND FLOOR,M4X 1K7,28,(416) 928-9900x221,City owned Community/Recreation Centre,Wellesley Community Centre,10,20,32,0,0,62,Y,10923450,631038.29,4836038.34,22OCT13
+10221,Gatehouse Family Day Care,Non Profit Agency,200,LONSDALE RD,,M4V 1W6,22,(416) 932-8361,Community College/University,Upper Canada College Campus,6,4,5,0,0,15,N,7254136,628652.86,4838613.15,22OCT13
+10245,Saint Nicholas Child Care Centre - Network,Non Profit Agency,3840,FINCH AVE E,,M1T 3T4,39,(416) 850-5652,Church,,0,20,32,0,0,52,Y,3369839,636632.51,4850907.85,22OCT13
+10267,Kids View Community Child Care,Non Profit Agency,105,BESTVIEW DR,,M2M 2Y1,24,(416) 221-0555,Public Elementary School,Steelesview Public School,0,0,16,20,30,66,Y,9467757,629847.39,4850999.97,22OCT13
+10270,Denton Place Centre For Early Learning,Commercial Agency,30,DENTON AVE,,M1L 4P2,35,(416) 686-6445x1,High Rise Apartment,,10,20,40,0,30,100,Y,327663,637974.91,4839085.86,22OCT13
+10298,O Happy Day Daycare,Commercial Agency,94,VAUGHAN RD,,M6C 2M1,21,(416) 656-2929,House,,6,16,32,0,0,54,N,75225,627226.24,4837715.81,22OCT13
+10335,Leaside Children's House,Commercial Agency,839,MILLWOOD RD,,M4G 1W5,26,(416) 425-0101,House,,0,10,31,0,0,41,N,29081,631535.91,4840117.11,22OCT13
+10337,Friendly Little Campus,Commercial Agency,3255,LAWRENCE AVE E,1,M1H 3A3,38,(416) 431-3233,Other,,10,10,16,0,0,36,Y,354428,641698.81,4846092.59,22OCT13
+10338,Kids & Company- Finch,Commercial Agency,5650,YONGE ST,SUITE 101,M2M 4G3,23,(416) 222-0905,Office Building,North American Centre (Xerox Building Office),20,15,16,0,8,59,N,11485200,627455.92,4848454.68,22OCT13
+10347,Lily's House Day Care Centre,Commercial Agency,1032,COXWELL AVE,,M4C 3G5,29,(416) 423-8580,Commercial Building,,0,0,16,0,0,16,N,7794190,634606.68,4839331.11,22OCT13
+10396,Garderie La Farandole Felix-Leclerc,Non Profit Agency,50,CELESTINE DR,,M9R 3N3,4,(647) 438-9139,Public Elementary School (French),Ecole Felix Leclerc,0,0,16,10,15,41,Y,992445,615922.58,4838192.02,22OCT13
+10407,Airport Academy And Child Care,Commercial Agency,44,FASKEN DR,22 & 25,M9W 5M8,2,(416) 674-8955,Commercial Building,Davpart,10,15,68,0,0,93,N,14072406,612696.03,4838164.79,22OCT13
+10418,Eyet Early Learning Centre - Annies Place,Non Profit Agency,101,BARRINGTON AVE,120,M4C 4Y9,31,(416) 396-2454,Public Elementary School,Secord Public School,0,0,16,0,0,16,Y,10363878,636839.38,4838885.83,22OCT13
+10432,Absorbent Minds,Commercial Agency,16,OLD KINGSTON RD,,M1E 3J5,44,(416) 284-6286,Place of Worship,,0,10,41,0,0,51,N,369257,646180.05,4848247.61,22OCT13
+10437,Kiiwednong Aboriginal Head Start,Non Profit Agency,2784,KEELE ST,,M3M 2G2,9,(416) 630-3423,Commercial Building,Native Child Family Services,0,0,32,0,0,32,N,11585127,622188.11,4842573.73,22OCT13
+10439,Central Montessori Schools  - Willowdale Campus,Commercial Agency,157,WILLOWDALE AVE,,M2N 4Y7,23,(416) 250-1022,Purpose Built,Central Montessori,0,14,48,0,0,62,N,575631,628735.41,4846976.73,22OCT13
+10442,St. Sylvester Child Care Centre,Non Profit Agency,260,SILVER SPRINGS BLVD,,M1V 1S4,39,(416) 291-0023,Catholic Elementary School,St. Sylvester Catholic School,0,0,26,0,30,56,Y,386354,636548.95,4851433.18,22OCT13
+10443,Macaulay Child Development Centre - Dovercourt Child Care Centre,Non Profit Agency,228,BARTLETT AVE,,M6H 3G4,18,(416) 516-8367,Public Elementary School,Dovercourt Public School,0,10,16,40,25,91,Y,6619920,626098.38,4835825.5,22OCT13
+10444,Alexander Muir Gladstone Jr Ymca,Non Profit Agency,108,GLADSTONE AVE,,M6J 3L2,18,(416) 534-8454,Public Elementary School,Alexander Muir Gladstone Public School,0,10,24,20,30,84,Y,10527839,626700.83,4833535.42,22OCT13
+10459,C.A.S.P. Catholic After School Program,Non Profit Agency,53,GRACEFIELD AVE,,M6L 1L3,12,(416) 885-9036,Catholic Elementary School,St. Francis Xavier Catholic School,0,0,0,0,30,30,N,8896734,622168.93,4840653.74,22OCT13
+10462,Plasp - Transfiguration B & A,Non Profit Agency,55,LUDSTONE DR,,M9R 2J2,4,(905) 890-1711,Church,,0,0,0,0,44,44,N,1015960,615804.21,4838393.07,22OCT13
+10463,Hearts Child Care Centre,Commercial Agency,5535,EGLINTON AVE W,200,M9C 5K5,3,(416) 742-3535,Office Building,Centennial Building Court,20,30,112,0,0,162,N,14621473,612697.1,4833860.11,22OCT13
+10468,Gerrard Early Learning Centre,Non Profit Agency,163,GERRARD ST E,,M5A 2E4,27,(416) 926-2208,Other,,10,18,32,0,0,60,Y,808288,631084.78,4835241,22OCT13
+10476,Casa Vera Montessori School,Non Profit Agency,2000,KEELE ST,,M6M 3Y4,12,(416) 850-9705,Place of Worship,Greenborough Community Church,0,7,20,0,0,27,N,9066246,622815.06,4839172.5,22OCT13
+10477,The Divine Infant Child Care Centre,Non Profit Agency,30,INGLETON BLVD,,M1V 3H7,41,(416) 299-1405,Catholic Elementary School,The Divine Infant Catholic School,0,0,24,0,30,54,Y,347231,639077.95,4853313.66,22OCT13
+11460,The Beez Kneez - Millwood,Commercial Agency,423,MILLWOOD RD,,M4S 1K3,22,(416) 487-8847,Other,,0,10,33,0,0,43,N,842767,630204.46,4839840.76,22OCT13
+11593,Young Women's Christian Association Of Greater Toronto,Non Profit Agency,66,BERGAMOT AVE,,M9W 1V9,2,(416) 748-8179x310,Low Rise Apartment,Ywca Bergamot Apartments,10,20,32,0,0,62,Y,14650065,616156.56,4841211.47,22OCT13
+11598,C.D.Farquharson Jr Ymca,Non Profit Agency,1965,BRIMLEY RD,,M1S 2B1,41,(647) 438-7124,Public Elementary School,C.D. Farquharson Jr Public School,0,0,24,0,30,54,Y,312706,639504.53,4849173.09,22OCT13
+11601,Chester Le Child Care Centre,Public (City Operated) Agency,201,CHESTER LE BLVD,,M1W 2K7,39,(416) 338-0715,Public Elementary School,Chester Le Junior Public School,10,20,32,0,0,62,Y,6242276,634243.55,4850634.04,22OCT13
+11606,Epiphany Of Our Lord Jr Ymca,Non Profit Agency,3150,PHARMACY AVE,,M1W 3J5,39,(416) 493-3008,Catholic Elementary School,Epiphany Of Our Lord Academy,0,0,16,20,15,51,Y,373586,634416.09,4850678.67,22OCT13
+11609,Firgrove Satellite Child Care,Public (City Operated) Agency,270,FIRGROVE CRES,,M3N 1K8,7,(416) 392-6259,Public Elementary School,Firgrove Public School,0,0,20,0,0,20,Y,3062806,619146.5,4845170.98,22OCT13
+11622,Immaculate Conception Child Care Centre,Non Profit Agency,23,COMAY RD,,M6M 2K9,12,(416) 247-0537,Catholic Elementary School,Immaculate Conception,0,0,30,20,24,74,Y,501943,622645.74,4839199.32,22OCT13
+11623,Red Apple Day Care - Blessed John XXIII,Non Profit Agency,175,GRENOBLE DR,,M3C 3E7,26,(416) 429-6662,Catholic Elementary School,Blessed John XXIII,0,0,44,20,45,109,Y,523760,634536.69,4841069.68,22OCT13
+11629,Leslieville Child Care (Woodgreen),Non Profit Agency,254,LESLIE ST,,M4M 3C9,30,(416) 645-6000x1155,Public Elementary School,Leslieville Public School,0,0,16,40,24,80,Y,832942,634431.2,4836052.79,22OCT13
+11643,Shirley Street Jr Ymca,Non Profit Agency,38,SHIRLEY ST,,M6K 1S9,18,(416) 849-3642,Public Elementary School,Shirley Street Public School,0,15,32,20,25,92,Y,10759447,626060.47,4833801.45,22OCT13
+11644,Sir Samuel Steele Jr Ymca,Non Profit Agency,131,HUNTSMILL BLVD,,M1W 2Y2,39,(647) 438-6702,Public Elementary School,Sir Samuel Steele,0,10,24,30,30,94,Y,6261352,634519.38,4851535.5,22OCT13
+11645,St. Aidan Early Learning Centre Network,Non Profit Agency,3521,FINCH AVE E,,M1W 2S2,40,(416) 493-0500,Catholic Elementary School,St. Aidan Catholic School,0,15,20,0,0,35,Y,5237185,635994.29,4850535.28,22OCT13
+11646,St. Andrew Child Care Centre,Non Profit Agency,2533,KIPLING AVE,,M9V 3A8,1,(416) 742-2228,Catholic Elementary School,St. Andrew Catholic School,10,20,32,20,30,112,Y,8206173,614130.44,4844297.89,22OCT13
+11651,St. Boniface Jr Ymca,Non Profit Agency,20,MARKANNA DR,,M1M 2J1,36,(416) 261-9092,Catholic Elementary School,St. Boniface Catholic School,0,15,20,20,0,55,Y,10258148,643320.43,4844415.27,22OCT13
+11655,St. Fidelis Early Learning Centre,Non Profit Agency,9,BANNERMAN ST,,M6L 2S5,12,(416) 245-2446,Catholic Elementary School,St. Fidelis Catholic School,0,0,24,0,30,54,Y,486267,622031.68,4841366.47,22OCT13
+11657,St. Francis De Sales Jr Y,Non Profit Agency,333,FIRGROVE CRES,,M3N 1K9,7,(647) 438-6372,Catholic Elementary School,St. Francis De Sales Catholic School,0,0,16,30,23,69,Y,9035632,619205.58,4845408.9,22OCT13
+11663,St. Jerome Jr Ymca,Non Profit Agency,111,SHARPECROFT BLVD,,M3J 1P5,9,(647) 438-6375,Catholic Elementary School,St. Jerome Catholic School,0,0,16,20,15,51,Y,7560969,621678.39,4844864.88,22OCT13
+11665,St. Joseph Jr Ymca,Non Profit Agency,176,LESLIE ST,,M4M 3C7,30,(647) 439-9905,Catholic Elementary School,St. Joseph's Catholic School,0,0,16,20,15,51,Y,832894,634476.28,4835885.62,22OCT13
+11666,St. Marcellus Early Learning Centre,Non Profit Agency,15,DENFIELD ST,,M9R 3H2,4,(416) 248-1803,Catholic Elementary School,St. Marcellus Catholic School,0,0,16,20,0,36,Y,996286,616523.67,4837102.48,22OCT13
+11668,Plp Early Learning At St. Mark,Non Profit Agency,45,CLOVERHILL RD,,M8Y 1T4,5,(416) 259-9335,Catholic Elementary School,St. Mark Catholic School,0,15,32,20,15,82,Y,7940024,621776,4832164.14,22OCT13
+11669,East Scarborough - St. Martin De Porres,Non Profit Agency,230,MORNINGSIDE AVE,,M1E 3E1,43,(416) 282-9998,Catholic Elementary School,St. Martin De Porres Catholic School,0,0,36,0,0,36,Y,365462,645926.18,4847383.93,22OCT13
+11672,St. Paschal Baylon,Non Profit Agency,15,ST PASCHAL CRT,,M2M 1X6,23,(647) 430-7074,Catholic Elementary School,St. Paschal Baylon Catholic School,0,0,20,0,0,20,Y,564800,626194.1,4849766.99,22OCT13
+11673,Eyet Early Learning Centre - Tom's Place,Non Profit Agency,80,SACKVILLE ST,ROOM 105,M5A 3E5,28,(647) 258-9794,Catholic Elementary School,St. Paul's Catholic School,0,10,16,20,0,46,Y,11070056,632092.8,4834691.61,22OCT13
+11674,St. Philip Neri Early Learning Centre,Non Profit Agency,20,BEVERLY HILLS DR,,M3L 1A1,7,(416) 245-8260,Catholic Elementary School,St. Philip Neri Catholic School,0,0,16,0,0,16,S,10145181,619996.03,4841509.01,22OCT13
+11676,St. Roch Child Care Centre,Non Profit Agency,174,DUNCANWOODS DR,,M9L 2E3,7,(416) 744-7785,Catholic Elementary School,St. Roch Catholic School,0,0,16,20,23,59,Y,10430603,615372.28,4845294.3,22OCT13
+11677,St. Rose Of Lima Jr Ymca,Non Profit Agency,3220,LAWRENCE AVE E,,M1H 1A4,38,(647) 439-0016,Catholic Elementary School,St. Rose Of Lima Catholic School,0,0,36,0,28,64,Y,354417,641623.66,4846219.37,22OCT13
+11692,Our Lady Of Grace Jr Ymca,Non Profit Agency,121,BRIMWOOD BLVD,,M1V 1E5,41,(416) 293-7326,Catholic Elementary School,Our Lady Of Grace,0,0,24,0,22,46,Y,313294,638717.39,4852229.21,22OCT13
+11714,Shaughnessy Boulevard Children's Centre,Non Profit Agency,101,VAN HORNE AVE,,M2J 2S8,33,(416) 491-3945,Catholic Elementary School,St. Matthias Catholic School,0,0,0,0,30,30,N,571309,631992.18,4849067.09,22OCT13
+11715,Discovering Minds Montessori Preschool,Commercial Agency,74,BATHURST ST,#1 REAR,M5V 2P5,19,(416) 504-0110,Place of Worship,,0,0,32,0,0,32,N,767657,628815.22,4833239.94,22OCT13
+11719,Tiki's Day Care Centre,Commercial Agency,20,TANGREEN CRT,,M2M 3Y9,23,(416) 840-0042,Community/Recreation Centre,Young Village Recreation Centre,0,15,48,0,0,63,N,11125044,626599.73,4850140.9,22OCT13
+11720,Enderby (Woodgreen),Non Profit Agency,118,ENDERBY RD,,M4E 2S7,32,(416) 645-6000x3501,Purpose Built,,10,20,32,0,0,62,Y,14114361,636807.55,4838080.69,22OCT13
+11726,North Toronto Early Years Learning Centre,Commercial Agency,27,CASTLEFIELD AVE,,M4R 1G3,16,(416) 484-9597,Place of Worship,Castlefield Community Church,0,25,50,0,0,75,N,8536755,628841.09,4840821.26,22OCT13
+11727,Dian Childcare Centre,Non Profit Agency,283,PHARMACY AVE,,M1L 3G1,35,(416) 615-1141,High Rise Apartment,,0,0,16,0,0,16,Y,2312050,638135.03,4839816.78,22OCT13
+11731,Downtown Montessori At Concord City Place,Non Profit Agency,335,BREMNER BLVD,,M5V 3V4,20,(416) 623-1738,Other,Concord City Place,10,15,32,0,0,57,Y,14620874,629692.08,4832984.82,22OCT13
+11753,St. Gabriel Lalemant,Non Profit Agency,160,CROW TRAIL,,M1B 1Y3,42,(416) 754-2555,Catholic Elementary School,St. Gabriel Lalemant Catholic School,0,15,20,0,0,35,Y,324733,642605.96,4852376.24,22OCT13
+11757,St. Jude Early Learning Centre,Non Profit Agency,3251,WESTON RD,,M9M 2T9,7,(416) 743-0140,Catholic Elementary School,St. Jude Catholic School,0,10,16,20,0,46,Y,574322,617611.53,4843864.3,22OCT13
+11759,St. Dorothy Child Care Centre,Non Profit Agency,155,JOHN GARLAND BLVD,,M9V 1N7,1,(416) 745-9892,Catholic Elementary School,St. Dorothy's School,0,0,0,20,30,50,Y,1009961,613402.31,4842792.51,22OCT13
+11767,Downtown Kids Academy,Commercial Agency,905,KING ST W,SUITE 101,M6K 3G9,19,(416) 345-9973,Other,,5,20,24,0,0,49,N,828395,628050.17,4833078.11,22OCT13
+11772,Thorncliffe Park Day Care Centre,Non Profit Agency,48,THORNCLIFFE PARK DR,,M4H 1J7,26,(416) 423-0880,City owned Community/Recreation Centre,Jenner Jean-Marie Community Centre,10,10,32,0,0,52,Y,35502,633519.43,4839992.96,22OCT13
+11785,Heritage Child Care & Early Learning Centre,Non Profit Agency,44,PORT ROYAL TRAIL,,M1V 2G8,41,(647) 436-6670,Catholic Elementary School,St. Rene Goupil Catholic Public School,0,0,24,0,30,54,Y,375269,637638.42,4853010.09,22OCT13
+11787,Winchester Daycare Centre,Non Profit Agency,15,PROSPECT ST,,M4X 1C7,28,(416) 920-1034,Public Elementary School,Winchester Public School,0,0,24,0,0,24,Y,6522886,631312.88,4835905,22OCT13
+11809,Kreative Kids Child Care Centre,Non Profit Agency,100,BAMBURGH CIR,,M1W 3R3,39,(647) 438-9411,Catholic Elementary School,St. Henry's Catholic  School,0,10,16,20,30,76,Y,3054064,634433.37,4852310.7,22OCT13
+11818,Distillery District Early Learning Centre,Commercial Agency,55,MILL ST,"BUILDING #9, STE. 200",M5A 3C4,28,(416) 360-4042,High Rise Apartment,,20,30,55,0,0,105,N,30031582,632270.56,4834156.24,22OCT13
+11820,All About Kids Sheppard,Commercial Agency,2005,SHEPPARD AVE E,SUITE 115,M2J 5B4,33,(416) 496-3232,Commercial Building,Crown Property Management,10,15,24,0,0,49,N,20233550,633711.47,4847927.11,22OCT13
+11821,Kids & Company,Commercial Agency,251,CONSUMERS RD,SUITE 100,M2J 4R3,33,(416) 493-2045,Office Building,Parkway Place,20,30,48,0,0,98,N,13503307,634352.43,4847462.51,22OCT13
+11842,San Romanoway Boys & Girls Club,Non Profit Agency,10,SAN ROMANOWAY,"GROUND FLOOR, NORTH WING",M3N 2Y2,8,(416) 739-7949,High Rise Apartment,,0,0,0,0,40,40,N,10071746,619393.81,4845900.95,22OCT13
+11887,Odyssey Montessori School,Non Profit Agency,136,SORAUREN AVE,,M6R 2E4,14,(416) 535-9402,Place of Worship,Greek Orthodox Cathedral Of The Virgin Mary,0,0,64,0,0,64,N,869050,625579.77,4833240.83,22OCT13
+11901,Playland  - Daycare Centre,Commercial Agency,5050,DUFFERIN ST,106,M3H 5T5,8,(416) 667-7529,Commercial Building,,0,0,18,0,0,18,N,10280138,622999.78,4848705.16,22OCT13
+11907,Garfield Avenue Children's Circle,Non Profit Agency,1,GARFIELD AVE,,M4T 1E6,27,(416) 574-9242,Catholic Elementary School,Our Lady Of Perpetual Help Separate School,0,0,0,0,30,30,N,7944487,630260.87,4838224.54,22OCT13
+11909,Community Centre 55 - Children Services (Kimberley),Non Profit Agency,50,SWANWICK AVE,,M4E 1Z5,32,(416) 691-1113,Public Elementary School,Kimberley Public School,0,0,0,0,39,39,N,876040,637079.46,4837806.42,22OCT13
+11912,High Park Early Learning Centre,Non Profit Agency,17,HIGH PARK AVE,,M6P 2R5,13,(416) 760-9958,House,,10,25,32,0,0,67,Y,7994462,623757.67,4834387.27,22OCT13
+11916,Uptown Yonge Preschool And Child Development Centre,Commercial Agency,1,LORD SEATON RD,,M2P 2C1,25,(647) 439-0316,Other,,0,16,16,0,0,32,N,538186,628217.47,4845387.2,22OCT13
+11921,Mount Pleasant Road Children's Circle,Non Profit Agency,129,MOUNT PLEASANT RD,,M4W 2S3,27,(416) 920-0639,Place of Worship,Rosedale Presbyterian Church,0,15,19,0,0,34,N,7955654,630543.63,4836923,22OCT13
+11922,The Beez Kneez - Forest Hill,Commercial Agency,212,ST CLAIR AVE W,,M4V 1R2,22,(416) 920-5478,Other,,0,15,24,0,0,39,N,9109685,628582.46,4838053.82,22OCT13
+11923,Harrison School Age Ymca,Non Profit Agency,81,HARRISON RD,,M2L 1V9,25,(416) 845-7003,Public Elementary School,Harrison Public School,0,0,0,0,20,20,N,525261,630615.51,4845982.09,22OCT13
+11928,Sunflower Montessori Day Care,Commercial Agency,582,OAKWOOD AVE,,M6E 2X5,15,(416) 656-6300,House,,0,10,15,0,0,25,N,2302310,625567.84,4838847.84,22OCT13
+11930,Waterclub Jr Ymca,Non Profit Agency,208,QUEENS QUAY W,,M5J 2Y5,20,(416) 915-7344x300,Other,,10,10,32,0,0,52,Y,14244138,630554.55,4832952.99,22OCT13
+11937,All My Children Child Care,Commercial Agency,1590,SANDHURST CIRCLE,,M1V 2L4,41,(416) 291-9200,Community/Recreation Centre,Forest Manor Recreation Centre,0,15,40,0,5,60,N,14190587,639050.63,4851794.63,22OCT13
+11948,Healthy Earth Bilingual Nursery School,Commercial Agency,2206,QUEEN ST E,,M4E 1E7,32,(416) 690-5969,House,,0,0,32,0,0,32,N,9950462,637885.28,4836704.16,22OCT13
+11950,Oxford Learning Centre - 1217984 Ontario,Commercial Agency,3130,BATHURST ST,,M6A 2A1,15,(416) 781-1225,Other,,0,0,16,0,0,16,N,11342942,626414.88,4841822,22OCT13
+11969,Kids & Company,Commercial Agency,3300,BLOOR ST W,158,M8X 2W8,5,(416) 237-0404,Office Building,Sunlife Financial Centre,20,30,30,0,0,80,N,10756711,619156.92,4833337.52,22OCT13
+11974,Westmount B & A School Program,Non Profit Agency,95,CHAPMAN RD,,M9P 1E9,2,(416) 656-5181,Public Elementary School,Westmount Junior School,0,0,0,0,30,30,N,9847243,619291.36,4838185.04,22OCT13
+11988,Abc Academy,Commercial Agency,18,MELROSE AVE,,M5M 1Y5,16,(416) 485-5437,Other,Abc Academy Inc,10,23,15,0,0,48,N,7777164,628434.77,4843231.24,22OCT13
+12012,Brookside Child Care Centre,Non Profit Agency,75,OASIS BLVD,,M1X 0A3,42,(416) 396-5757,Public Elementary School,Brookside Public School,0,10,48,0,15,73,Y,14248664,642010.3,4854348.95,22OCT13
+12023,The Helene Comay Nursery School,Non Profit Agency,601,CHRISTIE ST,25,M6G 4C7,21,(647) 406-4369,Community/Recreation Centre,Artscape Wychwood Barns,0,0,24,0,0,24,N,20259082,627012.48,4837311.95,22OCT13
+12026,St. Helen's Early Learning Centre,Non Profit Agency,1196,COLLEGE ST,,M6H 1B8,18,(416) 534-5772,Catholic Elementary School,St. Helen's Catholic School,0,0,32,20,15,67,Y,785703,626098.66,4834197.73,22OCT13
+12062,Windermere Early Learning Centre,Non Profit Agency,103,THE QUEENSWAY,,M6S 5B3,13,(416) 763-2734,Other,,10,15,32,0,0,57,Y,20033897,623384.78,4832393.12,22OCT13
+12063,Downtown Montessori At Infinity Place,Non Profit Agency,26,GRAND TRUNK CRES,,M5J 3A9,20,(416) 849-3691,Other,Infinity Place,10,15,36,0,0,61,Y,20078637,630424.98,4833159.67,22OCT13
+12066,Graydon Hall Child Care Services In Don Valley Business Park,Commercial Agency,150,FERRAND DR,SUITE 102,M3C 3E5,26,(416) 429-5444,Office Building,Amexon Building,10,30,58,0,0,98,N,515400,634334.95,4842020.14,22OCT13
+12067,Little Acorns Montessori School,Commercial Agency,40,UNDERHILL DR,,M3A 2J5,34,(416) 725-6459,Church,,0,0,13,0,0,13,N,570764,634722.38,4844591.9,22OCT13
+12068,Jingbao Bilingual Children's Centre,Non Profit Agency,3105,DON MILLS RD,,M2J 3C2,33,(416) 494-4105,Catholic Elementary School,Our Lady Of Guadalupe Catholic School,0,0,40,10,15,65,Y,10906432,632472.64,4849630.39,22OCT13
+12072,It's Playtime Childcare Centre,Commercial Agency,1423,DANFORTH AVE,,M4J 1N3,30,(416) 465-6688,Commercial Building,,0,0,12,0,14,26,N,7940295,634854.75,4837742.36,22OCT13
+12073,Bright Minds Childcare & Montessori School,Commercial Agency,1450,O CONNOR DR,"BUILDING #2, UNIT 110",M4B 2T8,31,(416) 755-0002,Office Building,,0,8,16,0,0,24,N,8609110,636390.97,4841240.5,22OCT13
+12074,Enjoy Learning Centre,Commercial Agency,27,PASSMORE AVE,UNIT #1,M1V 4T4,39,(416) 840-8488,Industrial Building,Al Reisman Ltd.,0,0,0,0,45,45,N,5020021,636487.35,4852902.1,22OCT13
+12075,Kew Park Montessori Day School,Commercial Agency,79,HIAWATHA RD,,M4L 2X7,32,(416) 694-6273,Place of Worship,Neighbourhood Unitarian Universalist Congregation,0,0,16,0,0,16,N,14624738,635254.97,4836467.4,22OCT13
+12084,Thorncliffe Park School Age Day Care Centre,Non Profit Agency,80,THORNCLIFFE PARK DR,,M4H 1K3,26,(416) 423-0880,Public Elementary School,Thorncliffe Park Public School,0,0,0,0,21,21,Y,3829444,633457.6,4840263.12,22OCT13
+12092,Pinnacle Jr Ymca,Non Profit Agency,12,YONGE ST,UNIT 1,M5E 1Z9,28,(416) 849-3316,High Rise Apartment,,10,10,32,0,0,52,Y,20078581,630948.39,4833298.57,22OCT13
+12108,Mindwerx 4 Kids Learning Centre,Non Profit Agency,3825,BLOOR ST W,,M9B 1K9,5,(416) 233-5437,House,Mindwerx 4 Kids Learning Centre,0,10,32,0,0,42,N,8731056,617938.63,4832826.56,22OCT13
+12109,Kids Club Daycare & Learning Centre,Non Profit Agency,104,ADVANCE RD,,M8Z 2T7,5,(416) 236-2863,Commercial Building,Kids Club Daycare,10,25,20,0,0,55,N,981929,619265.54,4832300.1,22OCT13
+12110,Kids Zone - Constance,Commercial Agency,76,CONSTANCE ST,,M6R 1S6,14,(416) 551-4354,House,,0,0,36,0,0,36,N,7979986,624700.72,4833867.37,22OCT13
+12124,Native Child & Family Life Centre,Non Profit Agency,156,GALLOWAY RD,,M1E 1X2,43,(416) 969-8510x3728,Other,Ghesig House,10,10,16,20,0,56,Y,336726,645270.3,4846834.92,22OCT13
+12129,Angelgate Daycare,Non Profit Agency,432,RUNNYMEDE RD,,M6S 2Y8,13,(416) 763-6078,Place of Worship,Runnymede United Church,0,0,14,0,60,74,N,20092173,622616.92,4834657.21,22OCT13
+12180,Rippleton Roadsters Satellite Program,Non Profit Agency,1340,LESLIE ST,,M3C 2K9,25,(416) 821-7183,Catholic Elementary School,St. Bonaventure Catholic School,0,0,0,0,70,70,N,4301082,632364.05,4843312.62,22OCT13
+12187,Little Learners Child Care -Toddlers,Non Profit Agency,230,JANE ST,,M6S 3Z1,13,(647) 430-8445,Other,,0,14,0,0,0,14,N,7368716,621994.11,4834428.72,22OCT13
+12188,Little Learners - Preschool,Non Profit Agency,232,JANE ST,,M6S 3Z1,13,(647) 430-8445,Other,,0,0,16,0,0,16,N,14205654,621993.31,4834431.01,22OCT13
+12194,Tiny Todd's Montessori And Daycare,Commercial Agency,410,GOLDHAWK TRAIL,,M1V 4E7,41,(416) 332-9404,Place of Worship,Goldhawk Campus,0,5,14,0,4,23,N,338837,638374.18,4853768.46,22OCT13
+12197,Peek-A-Bears Child Care,Commercial Agency,2032,GERRARD ST E,,M4E 2B1,32,(416) 691-5799,Commercial Building,,0,10,32,0,0,42,N,809185,636212.03,4837670.13,22OCT13
+12200,Le Petit Chaperon Rouge - Queensdale,Non Profit Agency,80,QUEENSDALE AVE,,M4J 1Y3,29,(416) 463-3975,Public Elementary School (French),Ecole Elementaire La Mosaique,0,0,24,63,80,167,Y,32143,634537.49,4838278.16,22OCT13
+12207,Little Tots' Manor 2,Non Profit Agency,376,BALLIOL ST,,M4S 1E2,22,(416) 485-5515,Other,,0,0,36,0,0,36,N,766443,630087.32,4839571.65,22OCT13
+12212,Lycee Francais De Toronto,Non Profit Agency,2327,DUFFERIN ST,,M6E 3S5,15,(416) 924-1789,Public School (Closed),Lycee Francais De Toronto,0,0,22,0,0,22,N,9741281,625012.62,4838794.01,22OCT13
+12213,Centro Abruzzo (Italian Canadian Benevolent Corporation),Non Profit Agency,340,FALSTAFF AVE,,M6L 3E8,12,(416) 645-1014,Community/Recreation Centre,Centro Abruzzo,0,15,40,0,30,85,N,20362446,622240.96,4841728.39,22OCT13
+12214,Adath Israel Nursery,Non Profit Agency,37,SOUTHBOURNE AVE,,M3H 1A4,10,(416) 635-5340,Synagogue,Adath Isreal Congregation,0,30,19,0,0,49,N,563759,626314.96,4843807.92,22OCT13
+12216,Big Bears Daycare,Commercial Agency,51,DURNFORD RD,2ND FLOOR,M1B 1G6,44,(416) 778-8860,Other,,10,10,32,0,0,52,Y,9602604,648771.2,4851119.09,22OCT13
+12218,Gateway Montessori School,Commercial Agency,2610,BIRCHMOUNT RD,,M1W 2P5,40,(416) 299-4468,Place of Worship,Chinese Gospel Church,0,0,24,0,0,24,N,308647,636519.6,4849810.56,22OCT13
+12219,West End Parents Day Care Satellite,Non Profit Agency,380,OSSINGTON AVE,,M6J 3A5,19,(416) 534-6761,Public Elementary School,Ossington / Old Orchard Public School,0,0,0,40,15,55,Y,9486678,627190.62,4834287.61,22OCT13
+12220,Sunny Faces Day Care Centre - St. Benedict Site,Non Profit Agency,2202,KIPLING AVE,,M9W 4K9,2,(416) 744-0778,Catholic Elementary School,St. Benedict School,0,0,0,30,30,60,Y,6052172,614901.67,4841879.54,22OCT13
+12226,Plasp - James Culan,Non Profit Agency,605,WILLARD AVE,,M6S 3S1,13,(905) 890-1711,Catholic Elementary School,James Culan Catholic School,0,0,0,20,30,50,Y,10561021,622094.27,4835125.98,22OCT13
+12227,Rolph Road Leaside Day Care Centres - St. Anselm,Non Profit Agency,182,BESSBOROUGH DR,,M4G 4H5,26,(416) 487-5862,Catholic Elementary School,St. Anselm Catholic School,0,0,0,0,45,45,N,13991663,631188.86,4840218.71,22OCT13
+12228,Norway School Age Ymca,Non Profit Agency,390,KINGSTON RD,,M4L 1T9,32,(416) 294-3654,Public Elementary School,Norway Public School,0,0,0,0,28,28,N,14198771,636486.03,4837089.72,22OCT13
+12258,Tiny Treasure Day Care Centre,Commercial Agency,600,THE QUEENSWAY,,M8Y 1K1,5,(416) 247-9485,Other,Child Care Centre,0,20,0,0,0,20,N,9085561,621434.28,4831478.33,22OCT13
+12261,Westside Montessori School,Commercial Agency,511,RICHMOND ST W,,M5V 1Y3,20,(647) 430-5321,Other,,0,8,39,0,0,47,N,7930871,629037.69,4833699,22OCT13
+12268,"Victoria Education Centre, Montessori & Child Care",Non Profit Agency,1038,WOODBINE AVE,,M4C 4C4,31,(416) 422-5550,Place of Worship,Toronto Chinese Mennonite Church,0,10,37,0,0,47,N,37462,635879.67,4838316.83,22OCT13
+12273,Purple Tree Child Care,Commercial Agency,384,SOUDAN AVE,,M4S 1W8,22,(416) 932-9119,Other,,0,10,20,0,16,46,N,10486006,630139.02,4840405.98,22OCT13
+12280,Kids & Company-Sheppard,Commercial Agency,2,SHEPPARD AVE E,SUITE 200,M2N 5Y7,23,(416) 227-9808,Office Building,,14,15,15,0,0,44,N,11835376,627925.5,4846421.5,22OCT13
+12293,The Kinder Connection @ Beth Sholom,Commercial Agency,1445,EGLINTON AVE W,,M6C 2E6,21,(416) 783-7400,Synagogue,Beth Sholom Synagogue,0,0,24,0,0,24,N,8608492,625877.06,4839304.64,22OCT13
+12304,Kinder Connection (Wilson) The,Commercial Agency,37,SOUTHBOURNE AVE,,M3H 1A4,10,(416) 636-3000,Synagogue,Adath Isreal Synagogue,0,0,51,0,0,51,N,563759,626314.96,4843807.92,22OCT13
+12305,Curlew Montessori School,Commercial Agency,81,CURLEW DR,,M3A 2P8,34,(416) 385-7373,Place of Worship,Toronto Somang Korean Presbyterian Church,0,0,24,0,0,24,N,8292439,635553.55,4844389.17,22OCT13
+12308,Abc Academy,Commercial Agency,20,MELROSE AVE,,M5M 1Y5,16,(416) 484-0222,Purpose Built,Abc Academy,10,10,16,0,0,36,N,7777165,628423.84,4843226.87,22OCT13
+12309,Green Apple Kids,Commercial Agency,3605,DUNDAS ST W,,M6S 2T1,13,(416) 570-6096,Commercial Building,Green Apple Kids,10,55,64,0,0,129,N,14075674,621434.57,4835600.8,22OCT13
+12310,The Salvation Army - Kid-Z-Own,Non Profit Agency,107,CEDARVALE AVE,,M4C 4J9,31,(416) 467-7416x223,Church,The Salvation Army East Toronto,0,0,0,0,30,30,N,10071461,636099.95,4838292.01,22OCT13
+12333,Jingbao Bilingual Children's Centre - Scarborough,Non Profit Agency,2350,MCCOWAN RD,,M1S 4B4,41,(416) 321-6006,Catholic Elementary School,St. Ignatius Of Loyola Catholic School,0,0,20,18,0,38,N,9780844,639515.83,4851296.87,22OCT13
+12335,Children's Garden Junior School,Non Profit Agency,670,EGLINTON AVE E,,M4G 2K4,26,(416) 423-5017,Place of Worship,Leaside Presbyterian Church,0,0,32,0,0,32,N,11915536,631087.28,4840988.8,22OCT13
+12336,Macaulay Child Development Centre-Warren Park,Non Profit Agency,135,VARSITY RD,,M6S 4P4,13,(416) 769-1253,Public Elementary School,Warren Park Junior Public School (Tdsb),0,0,16,40,0,56,Y,10663463,620973.74,4835298.46,22OCT13
+12337,Three R's Schoolhouse,Commercial Agency,1577,ROYAL YORK RD,,M9P 3C5,2,(416) 840-7675,Place of Worship,St. Andrew's Presbyterian Church,0,2,11,0,30,43,N,9383534,618160.72,4839256.85,22OCT13
+12338,Teddy Bear Academy,Commercial Agency,167,HIGH PARK AVE,,M6P 2S3,13,(647) 351-1566,Place of Worship,,10,25,24,0,0,59,N,820254,623564.85,4834962.13,22OCT13
+12353,Munchkinz Preschool,Commercial Agency,260,THE QUEENSWAY,,M8Y 1J4,5,(416) 252-0600,Purpose Built,Standalone Day Nursery,0,0,31,0,0,31,N,1037005,621942.65,4831644.6,22OCT13
+12373,Prosserman Jewish Community Centre,Non Profit Agency,4588,BATHURST ST,,M2R 1W6,10,(416) 638-1881x4351,Other,,0,40,80,40,0,160,Y,487320,625423.3,4846488.43,22OCT13
+12375,Archway Montessori School,Non Profit Agency,3385,LAWRENCE AVE E,,M1H 1A8,38,(416) 438-8103,Place of Worship,Church Of The Master,0,15,32,0,0,47,N,354466,642202.93,4846253.8,22OCT13
+12376,Nurture's Way Montessori School,Non Profit Agency,42,TUXEDO CRT,,M1G 3S3,38,(416) 916-7005,Other,,0,10,24,0,0,34,N,11530099,642373.29,4848814.86,22OCT13
+12377,Rowanwood Daycare,Non Profit Agency,1275,DUNDAS ST W,,M6J 1X8,18,(416) 302-0629,Commercial Building,,0,0,20,0,0,20,N,2695741,626999.75,4833902.79,22OCT13
+12378,Better Beginnings Nursery School,Non Profit Agency,1208,KINGSTON RD,,M1N 1N8,36,(416) 903-7827,Place of Worship,,0,0,28,0,0,28,N,20103106,638656.11,4837803.34,22OCT13
+12385,Cole Street Child Care Centre,Public (City Operated) Agency,10,COLE ST,,M5A 0A3,28,(416) 392-5866,Other,,10,20,32,0,0,62,Y,20168852,631735.83,4835220.3,22OCT13
+12386,Follow The Child,Commercial Agency,462,BIRCHMOUNT RD,UNIT #20,M1K 1N8,35,(647) 347-7651,Place of Worship,,0,10,19,0,14,43,N,308291,639402.64,4840594.94,22OCT13
+12387,Little Learners Academy,Non Profit Agency,268,JANE ST,,M6S 3Z2,13,(416) 551-7114,Other,Building,0,15,24,0,15,54,N,9340633,621963.61,4834519.41,22OCT13
+12397,Kinder College Early Learning Centre,Non Profit Agency,218,RICHMOND ST W,,M5V 1V6,20,(416) 479-0004,Place of Worship,,20,30,47,0,0,97,N,7929612,629969.65,4834040.21,22OCT13
+12399,Plasp - Nativity Of Our Lord Catholic School,Non Profit Agency,35,SAFFRON CRES,,M9C 3T8,3,(905) 890-1711,Catholic Elementary School,Nativity Of Our Lord Catholic School,0,0,0,20,30,50,Y,3049684,614870.11,4834110.99,22OCT13
+12409,Treasured Moments - Burnhamthorpe,Commercial Agency,316,BURNHAMTHORPE RD,,M9B 2A1,5,(416) 646-7776,Commercial Building,,10,15,48,0,0,73,N,9544297,617042.03,4833656.18,22OCT13
+12661,Eyet Early Learning Centre - Crescent Town School,Non Profit Agency,4,MASSEY SQ,RMS 135 & 136,M4C 5M9,31,(416) 690-0349,Public Elementary School,Crescent Town Elementary School,0,10,16,40,0,66,Y,4202208,637583.91,4839396.41,22OCT13
+12700,First Stage Child Care Centre,Non Profit Agency,85,MOUNT OLIVE DR,,M9V 2C9,1,(416) 746-6847,Public Elementary School,,0,10,24,0,0,34,Y,1020028,613579.7,4844360.1,22OCT13
+12704,Wunderkind Learning Centre,Non Profit Agency,3281,YONGE ST,2ND FLOOR,M4N 2L8,25,(416) 655-6254,Place of Worship,,0,0,18,0,17,35,N,7777273,628598.24,4842886.27,22OCT13
+12719,Jingbao -Toronto Chinese Language & Culture School Inc.,Non Profit Agency,96,DENISON AVE,,M5T 1E4,20,(416) 603-8885,Public Elementary School,Ryerson Jr And Sr Public School,0,0,48,0,0,48,N,10560819,628803.6,4834153.2,22OCT13
+12734,Rexdale Women's Centre Nursery,Non Profit Agency,925,ALBION RD,207,M9V 1A6,1,(416) 741-1633,Community/Recreation Centre,Community Centre,0,5,8,0,0,13,N,10985943,615743.05,4843274.62,22OCT13
+12735,Boardwalk Montessori School Inc.,Commercial Agency,1975,QUEEN ST E,A,M4L 1J1,32,(416) 691-6740,Other,,0,10,47,0,0,57,N,7683441,636991.57,4836379.15,22OCT13
+12737,Annex Montessori Inc.,Commercial Agency,427,BLOOR ST W,,M5S 1X7,20,(416) 994-0549,Place of Worship,,0,10,24,0,0,34,N,10736588,628524.27,4835794.28,22OCT13
+12739,Five Peas In A Pod Child Care,Commercial Agency,505,EGLINTON AVE W,SUITE 200,M5N 1B1,22,(416) 481-2582,Office Building,,0,0,20,0,0,20,N,8168666,627821.42,4839926.43,22OCT13
+12772,Heart Beatz Child Care,Non Profit Agency,141,VILLAGE GREEN SQ,,M1S 0L3,40,(416) 321-1719,Community/Recreation Centre,Cliffcrest Community Centre,10,20,16,0,0,46,Y,30021063,638345.65,4848399.83,22OCT13
+12776,Macaulay Child Development Centre - J.R. Wilcox Day Care Centre,Non Profit Agency,231,AVA RD,,M6C 1X3,21,(416) 652-6408,Public Elementary School,J.R. Wilcox Community Centre,0,0,0,40,0,40,Y,51261,625996.93,4838957.98,22OCT13
+12778,Curious Caterpillars,Commercial Agency,28,COLLEGE VIEW AVE,,M5P 1J4,22,(647) 344-8681,Other,,10,15,24,0,0,49,N,785787,628352.33,4839804.54,22OCT13
+12787,Creative Minds Montessori Academy Inc.,Commercial Agency,285,LAWSON RD,UNIT 101,M1C 2J6,44,(647) 347-6068,Other,,0,10,32,0,20,62,N,354778,648675.87,4849654.35,22OCT13
+12791,Trust Child Care,Commercial Agency,29,BIRCH AVE,,M4V 1E2,22,(416) 944-1999,Other,,30,72,48,0,0,150,N,8741491,629527.85,4837469.16,22OCT13
+12795,Gan Chabad Preschool,Non Profit Agency,147,OVERBROOK PL,,M3H 4R1,10,(647) 894-8533,Other,,0,10,8,0,0,18,N,548114,624119.92,4846420.81,22OCT13
+12797,Abc Academy Bayview,Commercial Agency,1432,BAYVIEW AVE,,M4G 3B3,22,(647) 349-2229,Other,,20,30,48,0,0,98,N,768499,630998.11,4839846.34,22OCT13
+12798,Agape Christian Montessori School,Non Profit Agency,301,SILVER STAR BLVD,,M1V 0B6,41,(647) 717-1800,Other,,0,10,24,0,0,34,N,14238043,637214.61,4852279.47,22OCT13
+12800,Learning Jungle School - Kennedy Campus,Commercial Agency,3376,KENNEDY RD,UNIT 101,M1V 3S8,39,(416) 291-7187,Other,,0,0,35,0,0,35,N,9467864,636301.73,4852857.94,22OCT13
+12805,Little Footsteps Childcare Inc.,Commercial Agency,404,WILLARD AVE,,M6S 3R5,13,(416) 604-0330,Place of Worship,St Paul Anglican Church,0,10,16,20,30,76,N,10906769,622236.82,4834500.12,22OCT13
+12834,Mandarin Child Care Centre,Commercial Agency,2155,LAWRENCE AVE E,,M1R 5G9,37,(416) 298-6030,Other,,0,0,20,0,0,20,N,20041314,638035.01,4844987.75,22OCT13
+12835,Teach Me To Fly Preschool,Commercial Agency,2560,GERRARD ST E,,M1N 1W8,36,,Other,,13,23,13,0,0,49,N,337310,638734.09,4838560.15,22OCT13
+12836,Windermere Kids Inc.,Commercial Agency,356,WINDERMERE AVE,,M6S 3L3,13,(416) 761-9772,Church,Windermere United Church,10,15,32,0,0,57,N,883840,622535.68,4833766.42,22OCT13
+12844,La Petite École,Commercial Agency,130,KENNEDY AVE,,M6S 2X9,13,(416) 871-6145,Other,,0,0,24,0,0,24,N,10341165,622913.37,4833999.7,22OCT13
+12859,Little Feet Little Faces Preschool,Commercial Agency,183,AVENUE RD,,M5R 2J2,27,(416) 923-8882,Other,,0,0,55,0,0,55,N,765441,629243.66,4836829.24,22OCT13
+12860,Kids & Company,Commercial Agency,703,BLOOR ST W,,M6G 1L5,19,(647) 345-5702,Other,,6,8,8,0,0,22,N,8416843,627568.37,4835492.17,22OCT13
+12862,Yonge-Churchill Child Care Centre,Non Profit Agency,5350,YONGE ST,,M2N 5R5,23,(416) 221-4747,Church,St George's Anglican Church,10,30,48,0,60,148,N,20232538,627577.23,4847781.37,22OCT13
+12869,All About Kids - Leslieville,Commercial Agency,1055,GERRARD ST E,,M4M 1Z7,30,(416) 463-5437,Other,,10,15,22,0,15,62,N,14075057,634134.51,4836219.5,22OCT13
+12878,Learn With Me Children Centre Inc.,Commercial Agency,1615,KINGSTON RD,,M1N 1S4,36,(416) 694-7445,Other,,0,15,24,0,0,39,N,351947,639741.89,4838743.06,22OCT13
+12887,Precious Blood  Jr Ymca Elp,Non Profit Agency,1035,PHARMACY AVE,,M1R 2G8,37,(647) 278-4385,Catholic Elementary School,Precious Blood Catholic School,0,0,0,20,0,20,Y,373219,636699.82,4844102.68,22OCT13
+12888,Dewson Ymca School Age Program,Non Profit Agency,65,CONCORD AVE,,M6H 2N9,19,(416) 536-1166,Other,,0,0,0,0,30,30,Y,6523008,627022.44,4834711.23,22OCT13
+12892,Network Childcare Services - Holy Cross,Non Profit Agency,299A,DONLANDS AVE,,M4J 3R7,29,(416) 530-0722,Catholic Elementary School,Holy Cross Catholic School,0,0,0,30,0,30,Y,21633,633714.46,4838487.53,22OCT13
+12893,St. Lawrence Co-Operative - Market Lane,Non Profit Agency,246,THE ESPLANADE,,M5A 4J6,28,(416) 363-9425,Public Elementary School,Market Lane Junior School,0,0,0,40,0,40,Y,8354441,631862.65,4834060.59,22OCT13
+12894,Holy Family Childcare Centre-Queen Victoria,Non Profit Agency,141,CLOSE AVE,,M6K 2V6,14,(416) 530-0683,Catholic Elementary School,Holy Family,0,0,0,0,25,25,Y,8322307,626227,4832718.67,22OCT13
+12897,Toronto Woods Daycare,Non Profit Agency,3072,BAYVIEW AVE,,M2N 5L3,23,(416) 222-7222,Place of Worship,Beth Tikvah Synagogue,0,14,21,0,0,35,N,14120342,629462.25,4848333.64,22OCT13
+12899,Centre De La Petite Enfance - Les Amis Du Monde,Non Profit Agency,55,PELHAM AVE,,M6N 1A5,17,(416) 410-2232,Public Elementary School (French),École Élémentaire Charles-Sauriol,0,0,16,40,30,86,Y,8321585,624518.61,4835900.16,22OCT13
+12903,Montessori Start Inc,Non Profit Agency,1195,LAWRENCE AVE W,,M6A 1E2,15,(416) 901-9363,Other,,10,15,20,0,0,45,N,536175,623474.5,4840706.27,22OCT13
+12906,Smart Start Montessori School,Commercial Agency,2660,KENNEDY RD,,M1T 3H7,39,(416) 644-1131,Other,,0,10,39,0,0,49,N,350659,637221.09,4850369.4,22OCT13
+12911,K.A.S.I.A. Preschool (Kids Achieving Success In Advance),Non Profit Agency,65,GLEN MANOR DR,,M4E 3V3,32,(416) 826-9451,Other,,0,0,16,0,0,16,N,10864355,637663.75,4836537.5,22OCT13
+12917,George Brown - Nelson Mandela Child Care Centre,Non Profit Agency,440,SHUTER ST,,M5A 1X6,28,(416) 415-2450,Public Elementary School,Nelson Mandela Park Public School,10,15,24,20,0,69,Y,7635592,632177.76,4835011.48,22OCT13
+12922,St. George Mini School - Mallard,Non Profit Agency,33,MALLARD RD,,M3B 1S4,34,(647) 478-6114,Church,,10,15,32,0,0,57,Y,11541969,632869.66,4844906.53,22OCT13
+12923,Monarch Park Montessori,Non Profit Agency,201,MONARCH PARK AVE,,M4J 4R9,29,(647) 748-8822,Place of Worship,Holy Trinity Macedono-Bulgarian Eastern Orthodox Church,0,15,24,0,0,39,N,843768,634755.44,4838070.85,22OCT13
+12924,Pine Lake Montessori School #1,Non Profit Agency,253,SHEPPARD AVE W,,M2N 1N2,23,(416) 227-9100,Other,,0,15,0,0,0,15,N,562030,626940.32,4846055.75,22OCT13
+12929,Blue Butterfly Montessori School,Non Profit Agency,300,RICHMOND ST W,100,M5V 1X2,20,(416) 479-0202,Other,,0,7,13,0,0,20,N,10223858,629693.41,4833938.44,22OCT13
+12935,Kidz Kare Daycare,Non Profit Agency,15,YORK ST,3,M5J 0A3,28,(416) 900-1060,Other,,0,25,32,24,15,96,N,20054355,630578.39,4833200.84,22OCT13
+12937,Yes I Can Nursery School Of Toronto (Yonge St),Non Profit Agency,3335,YONGE ST,,M4N 2M1,25,(416) 486-4911,Other,,0,10,16,0,0,26,N,7763009,630537.9,4834866.59,22OCT13
+12938,Plasp - Mother Cabrini,Non Profit Agency,720,RENFORTH DR,,M9C 2N9,3,(905) 890-1711,Other,,0,0,0,0,30,30,N,1027151,613967.93,4835279.29,22OCT13
+12941,The Orchard Montessori School,Commercial Agency,375,DOVERCOURT RD,,M6J 3E5,19,(416) 530-2951,Other,Old Orchard Public School,0,0,24,0,0,24,N,9410112,626982.16,4834241.89,22OCT13
+12980,Le Petit Chaperon Rouge - Scarborough,Non Profit Agency,255,CORONATION DR,,M1E 2J3,44,(647) 558-4359,Public Elementary School (French),École Élémentaire Scarborough Sud,0,0,16,20,0,36,Y,322971,646505.66,4846873.262,22OCT13
+12981,Islington Village Childcare Academy Inc.,Commercial Agency,112,JUTLAND RD,,M8Z 2H1,5,(416) 255-2000,Office Building,Islington Village Childcare,20,30,20,24,0,94,N,7667027,619530.703,4831514.499,22OCT13
+12988,Ola Day Care Inc.,Non Profit Agency,2211,DUNDAS ST W,,M6R 1X6,14,(647) 351-6521,Office Building,Ola Day Care Inc.,0,15,15,0,0,30,N,8648662,624817.75,4834348.589,22OCT13
+12989,St. Wilfrid Jr Ymca Elp,Non Profit Agency,1685,FINCH AVE W,,M3J 2G8,8,(416) 271-3456,Catholic Elementary School,St. Wilfrid Catholic School,0,0,0,20,0,20,Y,11574893,620527.99,4846075.24,22OCT13
+12990,John English Jms Jr Ymca Elp,Non Profit Agency,95,MIMICO AVE,,M8V 1R4,6,(416) 763-5233,Public Middle School,John English Jms Public School,0,0,0,10,0,10,Y,7561025,621481.16,4829643.04,22OCT13
+12991,St. Timothy's Jr Ymca,Non Profit Agency,25,ROCHELLE CRES,,M2J 1Y3,33,(416) 271-3456,Catholic Elementary School,St. Timothy's Catholic School,0,0,0,20,15,35,Y,5145355,632664.89,4847998.57,22OCT13
+12992,N.Y.A.D. Cedar Drive,Non Profit Agency,21,GATESVIEW AVE,,M1J 3G4,36,(416) 396-6123,Public Elementary School,Cedar Drive Public School,0,0,0,20,0,20,Y,337054,643704.98,4844971.63,22OCT13
+12993,N.Y.A.D. Mason Road,Non Profit Agency,78,MASON RD,,M1M 3R2,36,(647) 636-1107,Public Elementary School,Mason Road Junior Public School,0,0,0,20,0,20,Y,360667,642864.61,4844220.47,22OCT13
+12999,Toronto Kiwanis Boys And Girls Clubs - St. Mary Catholic School,Non Profit Agency,20,PORTUGAL SQ,,M6J 3P2,19,(416) 925-2243,Catholic Elementary School,St Mary Catholic School,0,0,0,20,0,20,Y,8457265,628653.97,4833552.88,22OCT13
+13000,Milliken Heritage,Non Profit Agency,130,PORT ROYAL TRAIL,,M1V 2T4,41,(647) 436-6670,Public Elementary School,Milliken Public School,0,0,0,20,0,20,Y,375326,637629.17,4852703.02,22OCT13
+13001,Fraser Mustard Before And After Program,Non Profit Agency,80,THORNCLIFFE PARK DR,,M4H 1K3,26,(416) 697-8767,Public Elementary School,Thorncliffe Park Public School,0,0,0,40,0,40,Y,3829444,633457.6,4840263.12,22OCT13
+13002,Kindergarten Care At Rosethorn,Non Profit Agency,2,REMINGTON DR,,M9A 2J1,4,(416) 239-4682,Public Elementary School,Rosethorn Junior Public School,0,0,0,40,0,40,Y,1026805,617750.86,4834916.34,22OCT13
+13005,Le Petit Chaperon Rouge - Richview,Non Profit Agency,59,CLEMENT RD,,M9R 1Y5,4,(647) 558-4359,Catholic Elementary School(French),Ecole Elementaire Catholique Etobicoke,0,0,16,20,0,36,Y,993855,616095.93,4837059.13,22OCT13
+13006,Kaleidoscope Preschool Satellite Program,Non Profit Agency,1059,LILLIAN ST,,M2M 3G1,24,(416) 226-1380,Public Elementary School,Lillian Public School,0,0,0,20,0,20,Y,537109,627865.53,4850423.4,22OCT13
+13007,Community Centre 55 -Ted Reeves,Non Profit Agency,175,MAIN ST,,M4E 2W2,32,(416) 691-1113,Other,,0,0,0,0,45,45,N,6294641,637063.263,4838026.32,22OCT13
+13012,Top Mandarin Day Care Centre,Non Profit Agency,3143,SHEPPARD AVE E,,M1T 3J7,40,(647) 352-0743,Place of Worship,Grace Point Baptist Church,,,,,,,N,385358,635507.02,4848204.97,22OCT13
+13016,Gan Shalom Preschool (Op: Chabad On The Avenue),Non Profit Agency,157,FALKIRK ST,,M5M 4K4,16,,Other,,0,15,11,0,0,26,N,514088,626601.21,4842957.56,22OCT13
+13017,Pine Lake Montessor #2,Non Profit Agency,255,SHEPPARD AVE W,,M2N 1N2,23,(416) 227-9100,Other,,0,0,20,0,0,20,N,562031,626926.9,4846046.71,22OCT13
