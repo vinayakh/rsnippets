@@ -15,3 +15,6 @@ http://www.joesdatadiner.com/2013/10/uk-house-prices-vs-household-incomes.html
 
 Interactive 3D using Shinrgl
 http://trestletechnology.net/2013/10/interactive-3d-in-shiny-shinyrgl/
+
+FEMA's Flood Insurance program - Analysis and maps using R
+http://gopigoteti.tumblr.com/post/64618543500/femas-flood-insurance-program-analysis-maps-using
