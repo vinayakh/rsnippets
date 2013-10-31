@@ -18,3 +18,6 @@ http://trestletechnology.net/2013/10/interactive-3d-in-shiny-shinyrgl/
 
 FEMA's Flood Insurance program - Analysis and maps using R
 http://gopigoteti.tumblr.com/post/64618543500/femas-flood-insurance-program-analysis-maps-using
+
+Maps with Twitter Activity
+http://rcrastinate.blogspot.in/2013/10/no-surprises-more-people-tweet-more.html
