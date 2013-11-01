@@ -1,6 +1,7 @@
 # Description : Mapping daycare centres using RgoogleMaps
 # Website : http://rforwork.info/2013/10/17/big-and-small-daycares-in-toronto-by-building-type-mapped-using-rgooglemaps-and-toronto-open-data/
 
+doInstall <- TRUE # Change to FALSE if you don't want packages installed.
 toInstall <- c("ff","ffbase","RgoogleMaps","plyr")
 if(doInstall){install.packages(toInstall, repos = "http://cran.r-project.org")}
 lapply(toInstall, library, character.only = TRUE)

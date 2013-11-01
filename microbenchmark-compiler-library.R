@@ -1,6 +1,7 @@
 # Description : Running microbenchmarks and improving speed with complier package
 # Website : http://wiekvoet.blogspot.com/2013/10/carry-over-balanced-designs-for-8.html
 
+doInstall <- TRUE # Change to FALSE if you don't want packages installed.
 toInstall <- c("microbenchmark","compiler")
 if(doInstall){install.packages(toInstall, repos = "http://cran.r-project.org")}
 lapply(toInstall, library, character.only = TRUE)

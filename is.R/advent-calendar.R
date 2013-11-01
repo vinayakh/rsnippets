@@ -1,6 +1,7 @@
 # Description : Draw a Calendar of dates
 # Website : http://is-r.tumblr.com/post/37687431723/can-you-please-post-the-r-code-for-making-that
 
+doInstall <- TRUE # Change to FALSE if you don't want packages installed.
 toInstall <- c("ggplot2")
 if(doInstall){install.packages(toInstall, repos = "http://cran.r-project.org")}
 lapply(toInstall, library, character.only = TRUE)

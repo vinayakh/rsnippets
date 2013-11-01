@@ -1,10 +1,10 @@
 # Description : Horizontal and Vertical justification on plots
 # Website : http://is-r.tumblr.com/post/35835735829/hjust-and-vjust
 
+doInstall <- TRUE # Change to FALSE if you don't want packages installed.
 toInstall <- c("ggplot2")
 if(doInstall){install.packages(toInstall, repos = "http://cran.r-project.org")}
 lapply(toInstall, library, character.only = TRUE)
-library(ggplot2)
 
 hjustvjust <- expand.grid(
   hjust=c(0, 0.5, 1),

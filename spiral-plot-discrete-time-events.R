@@ -1,10 +1,10 @@
 # Description : Spiral Plot of discrete time plots
 # Website : http://www.exegetic.biz/blog/2013/10/plotting-times-of-discrete-events/
 
+doInstall <- TRUE # Change to FALSE if you don't want packages installed.
 toInstall <- c("ggplot2")
 if(doInstall){install.packages(toInstall, repos = "http://cran.r-project.org")}
 lapply(toInstall, library, character.only = TRUE)
-library(ggplot2)
 
 spiral.length <- function(phi) {
   phi * sqrt(1 + phi**2) + log(phi + sqrt(1 + phi**2))

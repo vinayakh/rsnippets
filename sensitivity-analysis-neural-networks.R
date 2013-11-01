@@ -1,6 +1,7 @@
 # Description : Sensitivity Analysis of Neural Networks
 # Website : http://beckmw.wordpress.com/2013/10/07/sensitivity-analysis-for-neural-networks/
 
+doInstall <- TRUE # Change to FALSE if you don't want packages installed.
 toInstall <- c("clusterGeneration","nnet")
 if(doInstall){install.packages(toInstall, repos = "http://cran.r-project.org")}
 lapply(toInstall, library, character.only = TRUE)

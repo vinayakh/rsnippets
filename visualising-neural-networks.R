@@ -1,6 +1,7 @@
 # Description : Visualing Neural Networks
 # Website : http://beckmw.wordpress.com/2013/03/04/visualizing-neural-networks-from-the-nnet-package/
 
+doInstall <- TRUE # Change to FALSE if you don't want packages installed.
 toInstall <- c("nnet","clusterGeneration","scales")
 if(doInstall){install.packages(toInstall, repos = "http://cran.r-project.org")}
 lapply(toInstall, library, character.only = TRUE)
