@@ -22,5 +22,8 @@ http://gopigoteti.tumblr.com/post/64618543500/femas-flood-insurance-program-anal
 Maps with Twitter Activity
 http://rcrastinate.blogspot.in/2013/10/no-surprises-more-people-tweet-more.html
 
-LEarning from R - Good Parallel computing links
+Learning from R - Good Parallel computing links
 http://lab.brightnorth.co.uk/2013/09/my-experience-of-learning-r-from-basic.html
+
+Using LDA to find topics in XKCD text
+http://www.hotdamndata.com/2013/10/xkcd-webcomic-of-internet-small-talk.html
