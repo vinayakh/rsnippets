@@ -1,0 +1,63 @@
+Game ,WhiteVsBlack,Result,Moves ,Year ,Event,ECO,Opening
+62, Anand vs Carlsen ,Draw,24,2013,Tata Steel,C42,Petrov Defense
+61, Anand vs Carlsen ,Draw,39,2013,Norway Chess Tournament (Blitz),C65,"Ruy Lopez, Berlin Defense"
+60, Carlsen vs Anand ,Draw,59,2013,Norway Chess Tournament,B51,"Sicilian, Canal-Sokolsky (Rossolimo) Attack"
+59, Anand vs Carlsen ,Draw,39,2013,Tal Memorial (Blitz),C65,"Ruy Lopez, Berlin Defense"
+58, Carlsen vs Anand ,1,29,2013,Tal Memorial,E46,Nimzo-Indian
+57, Anand vs Carlsen ,Draw,58,2012,Bilbao Masters,E17,Queen's Indian
+56, Carlsen vs Anand ,Draw,61,2012,London Chess Classic,C65,"Ruy Lopez, Berlin Defense"
+55, Carlsen vs Anand ,1,30,2012,Bilbao Masters,B52,"Sicilian, Canal-Sokolsky (Rossolimo) Attack"
+54, Carlsen vs Anand ,Draw,49,2011,4th Bilbao Masters,E21,"Nimzo-Indian, Three Knights"
+53, Anand vs Carlsen ,Draw,29,2011,Tal Memorial,D85,Grunfeld
+52, Carlsen vs Anand ,Draw,18,2011,Tata Steel,B91,"Sicilian, Najdorf, Zagreb (Fianchetto) Variation"
+51, Carlsen vs Anand ,0,45,2011,20th Amber Tournament (Blindfold),B23,"Sicilian, Closed"
+50, Anand vs Carlsen ,Draw,33,2011,London Chess Classic,D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) Syst"
+49, Anand vs Carlsen ,0,43,2011,20th Amber Tournament (Rapid),C77,Ruy Lopez
+48, Anand vs Carlsen ,Draw,27,2011,Botvinnik Memorial Rapid,C65,"Ruy Lopez, Berlin Defense"
+47, Carlsen vs Anand ,0,66,2011,Botvinnik Memorial Rapid,C65,"Ruy Lopez, Berlin Defense"
+46, Anand vs Carlsen ,Draw,28,2011,4th Bilbao Masters,C67,Ruy Lopez
+45, Anand vs Carlsen ,Draw,31,2010,Arctic Securities Chess Stars,B77,"Sicilian, Dragon, Yugoslav Attack"
+44, Carlsen vs Anand ,Draw,40,2010,Arctic Securities Chess Stars,C67,Ruy Lopez
+43, Carlsen vs Anand ,1,54,2010,Arctic Securities Chess Stars,D78,"Neo-Grunfeld, 6.O-O c6"
+42, Anand vs Carlsen ,Draw,28,2010,Arctic Securities Chess Stars,C95,"Ruy Lopez, Closed, Breyer"
+41, Anand vs Carlsen ,Draw,44,2010,Nanjing Pearl Spring Tournament,C95,"Ruy Lopez, Closed, Breyer"
+40, Carlsen vs Anand ,0,45,2010,Bilbao Masters,C65,"Ruy Lopez, Berlin Defense"
+39, Anand vs Carlsen ,Draw,50,2010,Bilbao Masters,C95,"Ruy Lopez, Closed, Breyer"
+38, Carlsen vs Anand ,Draw,68,2010,Nanjing Pearl Spring Tournament,C67,Ruy Lopez
+37, Anand vs Carlsen ,1,77,2010,London Chess Classic,C95,"Ruy Lopez, Closed, Breyer"
+36, Anand vs Carlsen ,Draw,19,2010,Corus,B77,"Sicilian, Dragon, Yugoslav Attack"
+35, Carlsen vs Anand ,1,77,2009,Linares,D45,Queen's Gambit Declined Semi-Slav
+34, Anand vs Carlsen ,Draw,29,2009,Linares,D70,Neo-Grunfeld Defense
+33, Anand vs Carlsen ,0,34,2009,Amber Tournament (Blindfold),B30,Sicilian
+32, Carlsen vs Anand ,Draw,38,2009,Amber Tournament (Rapid),B12,Caro-Kann Defense
+31, Carlsen vs Anand ,Draw,36,2009,Tal Memorial,D39,"Queen's Gambit Declined, Ragozin, Vienna Variation"
+30, Carlsen vs Anand ,1,69,2009,World Blitz Championship,D37,Queen's Gambit Declined
+29, Anand vs Carlsen ,0,46,2009,World Blitz Championship,D31,Queen's Gambit Declined
+28, Anand vs Carlsen ,Draw,31,2008,Chess Classic Mainz,B77,"Sicilian, Dragon, Yugoslav Attack"
+27, Carlsen vs Anand ,Draw,33,2008,Chess Classic Mainz,E15,Queen's Indian
+26, Anand vs Carlsen ,1,50,2008,Chess Classic Mainz,B77,"Sicilian, Dragon, Yugoslav Attack"
+25, Anand vs Carlsen ,1,47,2008,Amber Tournament (Blindfold),B04,"Alekhine's Defense, Modern"
+24, Carlsen vs Anand ,1,48,2008,Amber Tournament (Rapid),A20,English
+23, Anand vs Carlsen ,Draw,31,2008,Chess Classic Mainz,B77,"Sicilian, Dragon, Yugoslav Attack"
+22, Carlsen vs Anand ,Draw,33,2008,Chess Classic Mainz,E15,Queen's Indian
+21, Anand vs Carlsen ,1,50,2008,Chess Classic Mainz,B77,"Sicilian, Dragon, Yugoslav Attack"
+20, Carlsen vs Anand ,0,50,2008,Chess Classic Mainz,E06,"Catalan, Closed, 5.Nf3"
+19, Anand vs Carlsen ,Draw,56,2008,Chess Classic Mainz,B52,"Sicilian, Canal-Sokolsky (Rossolimo) Attack"
+18, Carlsen vs Anand ,Draw,11,2008,Chess Classic Mainz,E06,"Catalan, Closed, 5.Nf3"
+17, Anand vs Carlsen ,Draw,36,2008,Bilbao Grand Slam Chess Final,C63,"Ruy Lopez, Schliemann Defense"
+16, Carlsen vs Anand ,Draw,29,2008,Bilbao Grand Slam Chess Final,D13,"Queen's Gambit Declined Slav, Exchange Variation"
+15, Carlsen vs Anand ,Draw,20,2007,Corus,B90,"Sicilian, Najdorf"
+14, Carlsen vs Anand ,0,40,2007,Linares-Morelia,D47,Queen's Gambit Declined Semi-Slav
+13, Anand vs Carlsen ,1,38,2007,Linares-Morelia,C96,"Ruy Lopez, Closed"
+12, Anand vs Carlsen ,Draw,29,2007,16th Amber Tournament (Blindfold),B45,"Sicilian, Taimanov"
+11, Carlsen vs Anand ,Draw,49,2007,16th Amber Tournament (Rapid),D45,Queen's Gambit Declined Semi-Slav
+10, Carlsen vs Anand ,Draw,39,2007,Dortmund,D12,Queen's Gambit Declined Slav
+9, Anand vs Carlsen ,1,46,2007,World Blitz Cup,B04,"Alekhine's Defense, Modern"
+8, Carlsen vs Anand ,0,57,2007,World Blitz Cup,D45,Queen's Gambit Declined Semi-Slav
+7, Anand vs Carlsen ,0,51,2006,Glitnir Blitz,C55,Two Knights Defense
+6, Carlsen vs Anand ,1,78,2006,Glitnir Blitz,A58,Benko Gambit
+5, Carlsen vs Anand ,Draw,33,2006,World Blitz Championship,C84,"Ruy Lopez, Closed"
+4, Carlsen vs Anand ,Draw,39,2005,Ciudad de Leon XVIII,B46,"Sicilian, Taimanov Variation"
+3, Anand vs Carlsen ,1,71,2005,Ciudad de Leon XVIII,C42,Petrov Defense
+2, Carlsen vs Anand ,Draw,30,2005,Ciudad de Leon XVIII,C89,"Ruy Lopez, Marshall"
+1, Anand vs Carlsen ,1,30,2005,Ciudad de Leon XVIII,C42,Petrov Defense
