@@ -30,3 +30,6 @@ http://www.hotdamndata.com/2013/10/xkcd-webcomic-of-internet-small-talk.html
 
 Shiny application with GoogleVis and motion charts
 http://blog.eoda.de/2013/10/24/schools-out-building-interactive-r-apps-with-shiny-googlevis-in-our-r-academy/
+
+iPython-like notebooks for R
+http://bommaritollc.com/2013/10/27/ipython-notebook-r-quickstart-ubuntu/http://bommaritollc.com/2013/10/27/ipython-notebook-r-quickstart-ubuntu/
