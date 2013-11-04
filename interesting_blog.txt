@@ -33,3 +33,6 @@ http://blog.eoda.de/2013/10/24/schools-out-building-interactive-r-apps-with-shin
 
 iPython-like notebooks for R
 http://bommaritollc.com/2013/10/27/ipython-notebook-r-quickstart-ubuntu/http://bommaritollc.com/2013/10/27/ipython-notebook-r-quickstart-ubuntu/
+
+Plotting and Analyzing Twitter Data
+http://gettinggeneticsdone.blogspot.in/2013/05/automated-analysis-tweets-bioinformatics-twitterchive.html
